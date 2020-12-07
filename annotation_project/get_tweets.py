@@ -1,5 +1,6 @@
 import tweepy
 import time
+import csv
 
 def limit_handled(cursor):
     while True:
@@ -13,6 +14,11 @@ consumer_key = ""
 consumer_secret = ""
 access_token = ""
 access_token_secret = ""
+
+consumer_key = "4Dw2XEDmM530VaYKc9aDkeRb1"
+consumer_secret = "ZYcoDaF0wyM73JMluh2jA97CJoZMyyk9cV3GGRbQ3ConvnYuFQ"
+access_token = "3331242015-m3vWPmJefEjP8AEuRUqsSJWM1PhhoG1Q1apxdR5"
+access_token_secret = "SaPUocF4PUDZEDb38gWwnyPKYlQDiKGJsVbdYeo1p41AH"
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
@@ -35,3 +41,11 @@ for term in dialekt_terms:
                 tweets.append(result)
     except tweepy.RateLimitError:
         time.sleep(15 * 60)
+
+with open("raw_data.csv", "w") as outfile:
+    writer = csv.writer(outfile)
+    intro_line = ["tweet_id", "author_name", "created_at", "text"]
+    writer.writerow(intro_line)
+    for tweet in tweets:
+        line = [tweet.id, tweet.author.name, str(tweet.created_at), tweet.text]
+        writer.writerow(line)
