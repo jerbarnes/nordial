@@ -55,6 +55,13 @@ def get_most_common_features(sents, exclude=True):
         tri_fd = FreqDist(ngrams(tokens, 3))
     return uni_fd, bi_fd, tri_fd
 
+def combine_grams(fds):
+    fd = FreqDist()
+    for f in fds:
+        for k, v in f.items():
+            fd[k] = v
+    return fd
+
 def import_data(csv_file, tokenizer):
     # pull in current tweets and get frequency of uni, bi- and trigrams
     tweets = []
@@ -135,10 +142,10 @@ if __name__ == "__main__":
     bi_f = log_likelihood(di_bi, b_bi)
     tri_f = log_likelihood(di_tri, b_tri)
 
-    ll_terms = uni_f.most_common(10) + bi_f.most_common(10) + tri_f.most_common(10)
+    ll_terms = combine_grams([uni_f, bi_f, tri_f])
     print("Log Likelihood(dialect, bokmål)")
-    for term in ll_terms:
-        print("-- {}".format(term))
+    for term, metric in ll_terms.most_common(30):
+        print("-- {0} - {1:.1f}".format(term, metric))
     print("\n\n")
 
     # chi squared
@@ -146,7 +153,7 @@ if __name__ == "__main__":
     bi_f = chi_squared(di_bi, b_bi)
     tri_f = chi_squared(di_tri, b_tri)
 
-    chi_terms = uni_f.most_common(10) + bi_f.most_common(10) + tri_f.most_common(10)
+    chi_terms = combine_grams([uni_f, bi_f, tri_f])
     print("Chi_squred(dialect, bokmål)")
-    for term in chi_terms:
-        print("-- {}".format(term))
+    for term, metric in chi_terms.most_common(30):
+        print("-- {0} - {1:.1f}".format(term, metric))
