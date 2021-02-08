@@ -45,11 +45,13 @@ def loaddata(filename):
 #      !!! if an annotation file exists, call the following function call: !!!           #
 ##########################################################################################
 
-newdata = loaddata("test_data.json")
-    
+newdata = loaddata("test_data_new1.json")
+newdata2 = loaddata("test_data_petter.json")
+
+both = newdata + newdata2
 #collects all IDs so we can automatically know what has been annotated before
-ids_in_data = [tweet["sent_id"] for tweet in newdata]
-print(ids_in_data)
+ids_in_data = [tweet["sent_id"] for tweet in both]
+#print(ids_in_data)
 print("### {} tweets have been annotated so far ###".format(len(ids_in_data)))
 
 
@@ -68,6 +70,7 @@ short_to_pretty = {"mix":"mixed",
 print("\n-------------------------------------------")
 print("-----# WELCOME TO THE ANNOTAION TOOL #-----")
 print("-------------------------------------------\n")
+
 
 
 with open("dialect.csv","r",encoding="utf-8") as csv_file:
@@ -91,10 +94,10 @@ with open("dialect.csv","r",encoding="utf-8") as csv_file:
                             "text":TEXT,
                             "category":short_to_pretty[inputten]}
                 newdata.append(datasett)
-                with open("test_data.json","w",encoding="utf-8") as outfile:
-                    json.dump(newdata,outfile,indent=4,)
+                with open("test_data_new1.json","w",encoding="utf-8") as outfile:
+                    json.dump(newdata,outfile,indent=4,ensure_ascii=False)
             print("\n\t\t----------ny setning----------")
 
 print("Saving data to file")
-with open("test_data.json","w",encoding="utf-8") as outfile:
-    json.dump(newdata,outfile,indent=4,)
+with open("test_data_new1.json","w",encoding="utf-8") as outfile:
+    json.dump(newdata,outfile,indent=4,ensure_ascii=False)
