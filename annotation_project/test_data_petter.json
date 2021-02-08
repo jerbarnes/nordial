@@ -1,0 +1,982 @@
+[
+    {
+        "sent_id": "tweet_id",
+        "username": "author_name",
+        "date_time": "created_at",
+        "text": "text",
+        "category": "annet"
+    },
+    {
+        "sent_id": "1335131083864674305",
+        "username": "B\u00e5rd eivind bakk",
+        "date_time": "2020-12-05 07:57:10",
+        "text": "@CHKrey Kan itj sammenlignas. \u00c6 ha bodd her, \u00e5 e p\u00e5 hils med stort sett alle. Veit kor \u00e6 ska henvend m\u00e6 for \u00e5 f\u00e5 hj\u2026 https://t.co/E9rzwkz7OU",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1335129946411380736",
+        "username": "B\u00e5rd eivind bakk",
+        "date_time": "2020-12-05 07:52:39",
+        "text": "@FANTonsen @mimirk \u00c6 ha egenhendig bygd to vindm\u00f8llparka.\n\u00c5 kolles innvestorkapitaln trikse med skatt og tillskudd,\u2026 https://t.co/BMYd4z7oN4",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1334972231538118657",
+        "username": "B\u00e5rd eivind bakk",
+        "date_time": "2020-12-04 21:25:57",
+        "text": "@kakrist I morgen, i morgen.\n\u00c6 ha ikke komme dit enno.",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1333861438553731078",
+        "username": "B\u00e5rd eivind bakk",
+        "date_time": "2020-12-01 19:52:03",
+        "text": "@Cuervo3 Fra ein ekstremist, til ein verre.\n\u00c6 ha gitt opp.\nAtt dem skyt palistinera som del av valgkamp, det e visst s\u00e5nn verden vil ha det.",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1336424280658227202",
+        "username": "Mr Gluten 6%",
+        "date_time": "2020-12-08 21:35:52",
+        "text": "@NorgeQanon Nei ho ser ikke s\u00e5 gammel ut.... men om ho har \"logget\" p\u00e5 sprit som \u00e6 har gjort i 30 \u00e5r s\u00e5 holder man s\u00e6 bra \ud83d\ude09\ud83e\udd23",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1336414004785373187",
+        "username": "Markus",
+        "date_time": "2020-12-08 20:55:02",
+        "text": "@oppspist Lika kaotisk musikk n\u00e5r \u00e6 har mange tanka... for da forsvinn de litt \ud83d\ude1d",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1336330552119422980",
+        "username": "Anna\ud83c\udf3b",
+        "date_time": "2020-12-08 15:23:26",
+        "text": "\u00c6 har meget lite tru p\u00e5 at vi faktisk g\u00e5r med p\u00e5 d her\ud83d\ude44",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1336318358451441666",
+        "username": "Marika Jenssen",
+        "date_time": "2020-12-08 14:34:58",
+        "text": "@Robert_Haug @PetterSateroy mest usannsynlige med denna videoen e hentydninga til at d e gangavstand mellom N\u00c5N ste\u2026 https://t.co/7tQfDUr5Ik",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1336244941652111361",
+        "username": "SK Gaski",
+        "date_time": "2020-12-08 09:43:14",
+        "text": "@smehustoft @KetilThorvalds1 Det h\u00f8res ut som grunn god nok, sp\u00f8r du m\u00e6! Og \u00e6 har tatt ganske mange fag kor foreles\u2026 https://t.co/q0BYra5Sa7",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1336046601241047046",
+        "username": "pinnekull",
+        "date_time": "2020-12-07 20:35:06",
+        "text": "@r0zak0z @TicoRomao nei ser ikke s\u00e5nn ut. \u00e6 har den p\u00e5 bluray.",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1336008927167778816",
+        "username": "Stian Dahl Sommerseth",
+        "date_time": "2020-12-07 18:05:24",
+        "text": "En debatt kreve minst to side. De resteranes som har uttalt s\u00e6 om artikkelen \u00abtilh\u00f8re\u00bb Alfheim. Masse gode saklige\u2026 https://t.co/BZAjgupeFE",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1335956238035775492",
+        "username": "marty \ud83e\uddf7",
+        "date_time": "2020-12-07 14:36:02",
+        "text": "@superdeadsandra 2 \ud83d\udda4 (\u00e6 har ingen notifs p\u00e5 visste ikke at det va en greie heh, har bare dom og h)",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1335906732950904833",
+        "username": "Kristina \ud83c\udf3a",
+        "date_time": "2020-12-07 11:19:19",
+        "text": "@jegerlilla Yum! Den til h\u00f8yre e kjempegod.\n\u00c6 har helt dilla p\u00e5 teen fra S\u00f8strene Grene med sitron og peppermyntesmak for tia\ud83e\udd70",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1335752737074651139",
+        "username": "Nigel Haarstad \ud83d\udcf7",
+        "date_time": "2020-12-07 01:07:24",
+        "text": "\u00c6 har hatt denne l\u00e5t p\u00e5 tung rotasjon siden \u00e6 oppdaget artisten i forrige uke. Bra album \u00e5 jobbe med! https://t.co/muqNomeKJo",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1335703935127080965",
+        "username": "SK Gaski",
+        "date_time": "2020-12-06 21:53:28",
+        "text": "Ut fra alt \u00e6 har sett treng ganske mange av dem hjelp med \u00e5 slutte \u00e5 v\u00e6re s\u00e5 himla h\u00e5rs\u00e5r og lettkrenka, e det der\u2026 https://t.co/rsufdyh6GT",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1335702042334142465",
+        "username": "Lars Martin Gimse",
+        "date_time": "2020-12-06 21:45:57",
+        "text": "@MSkjel Han hadde forslag til noen meget god allianser n\u00e5, sa han, men det gikk i dass. Som Timothy sa da pepperkak\u2026 https://t.co/6QW5LkzBS7",
+        "category": "bokm\u00e5l"
+    },
+    {
+        "sent_id": "1335586742058045440",
+        "username": "Arek",
+        "date_time": "2020-12-06 14:07:47",
+        "text": "@lanekassen Hei, Det er noe jeg lurer p\u00e5. \u00c6 er lyst \u00e5 flytte ut fra familiehuset dersom \u00e6 har for lite plass, og vi\u2026 https://t.co/zYNKIg7c07",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1335258109061763075",
+        "username": "NorwegianTiger",
+        "date_time": "2020-12-05 16:21:55",
+        "text": "@storgeir Lenge siden \u00e6 har blitt s\u00e5 forbanna p\u00e5 en dommer! Spiller ikke fordel p\u00e5 en 100% sjanse",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1335103643658412032",
+        "username": "Tsundoku",
+        "date_time": "2020-12-05 06:08:08",
+        "text": "@ensomkaktus Syns detta nye prosjektet va kjempefint. Og det virka som du har ei mamma som bryr s\u00e6, og som e opprik\u2026 https://t.co/1CrbwzQ4Ct",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1335011012685287424",
+        "username": "Roger Harila",
+        "date_time": "2020-12-05 00:00:03",
+        "text": "@EspenPALervaag Dumeste \u00e6 har h\u00f8rt! Bor i en by uten smitte, og med strenge restriksjoner. Koff\u00e5r skal \u00e6 st\u00e5 f\u00f8rst\u2026 https://t.co/cOTTLSN6oY",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1335000637600362497",
+        "username": "heidi p g haaker",
+        "date_time": "2020-12-04 23:18:49",
+        "text": "@gaski Du ser s\u00e5 utrolig snill og god ut. \u00c6 vet jo at du e klok\ud83e\udd29 men \u00e6 har aldri m\u00f8tt deg. \u00c5 s\u00e5 har du s\u00e5 utrolig m\u2026 https://t.co/osTBdBkwQr",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1334977120955756547",
+        "username": "\ud83c\udf3bhedda",
+        "date_time": "2020-12-04 21:45:22",
+        "text": "@flrtseul fyf \u00e6 har s\u00e5 lyst te \u00e5 gj\u00f8r det \u00e6 like ikke h\u00e5ret mitt atm",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1334943247257509890",
+        "username": "apocalypserider",
+        "date_time": "2020-12-04 19:30:46",
+        "text": "\u00e6 m\u00e5 ete n\u00e5t f\u00f8r \u00e6 finn spaden og kakke n\u00e5n rett over tennern \u00e6 har ikke lunte til det her",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1334790307024678919",
+        "username": "3RLING",
+        "date_time": "2020-12-04 09:23:03",
+        "text": "@UnibetNorge Det her m\u00e5 v\u00e6r den dummeste lista \u00e6 har skjedd i hele mitt liv. God p\u00e5 basketball, fotball? Ikke s\u00e5 my",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1334745022332284928",
+        "username": "AOS Moen\ud83c\uddf3\ud83c\uddf4",
+        "date_time": "2020-12-04 06:23:06",
+        "text": "@Veestby \u00c6 har Fiber fra Get som e Telia tror \u00e6, s\u00e5 \u00e6 har decent ping. 10-15 creative, 15-30 ingame",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1334533999759405056",
+        "username": "samerawit",
+        "date_time": "2020-12-03 16:24:34",
+        "text": "@NRC_Egeland Takk for at du er der nede. Vi vil vite mer om hva som skjer. \u00c6 har snakket med familien min som bor i\u2026 https://t.co/j75fOuogwD",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1334506832992362498",
+        "username": "Kenneth",
+        "date_time": "2020-12-03 14:36:37",
+        "text": "@CHKrey Nevermind. Googla det nu, og polvara innhold ikje brekningsmiddel. \u00c6 har hvistnok bare en sunn kropp som re\u2026 https://t.co/RlSc9c4qrw",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1334506212017188867",
+        "username": "Kenneth",
+        "date_time": "2020-12-03 14:34:09",
+        "text": "@CHKrey Ja, det e jo ikke tilsatt brekningsmiddel, som \u00e6 har blitt informert at polvara e. Men det e vel like greit\u2026 https://t.co/mqJkuDyqx5",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1334223009641603081",
+        "username": "\ud83c\uddea\ud83c\uddfaTrond Hanssen \ud83c\udff4\u200d\u2620\ufe0f",
+        "date_time": "2020-12-02 19:48:48",
+        "text": "@superklovn \u00c6 har ikke t\u00e5lmodighet. \u00c6 bi lei f\u00f8r rulleteksten i begynnelsen e ferdig",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1334222018145816576",
+        "username": "-\u2606 ~ \u2022*.\u00b0 Queerie Yuletide\u2744",
+        "date_time": "2020-12-02 19:44:52",
+        "text": "@Chuushaku S\u00e5 mye yes... har ikje v\u00e6rt t tannlegen sj\u00f8l sia 2014 fordi \u00e6 har ikje r\u00e5d t xxxxkr kv\u00e6r gang som NAV ik\u2026 https://t.co/7dNRh390eW",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1334217455003164674",
+        "username": "Kongen Fra Nord",
+        "date_time": "2020-12-02 19:26:44",
+        "text": "\u00c6 har sagt det lenge... jeg er helt sikker p\u00e5 at jeg hadde Covid19 i desember i 2019... hadde samme tilstand som pa\u2026 https://t.co/khOItzSE3Y",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1334198352406327305",
+        "username": "Andreas Seip\u00e4j\u00e4rvi",
+        "date_time": "2020-12-02 18:10:50",
+        "text": "\u00abHelt hypotetisk :\nVisst \u00e6 har 10 gjesta p\u00e5 julaften og det banke p\u00e5 d\u00f8ra, der st\u00e5r nissen. Kan \u00e6 slippe han inn ?\u00bb\u2026 https://t.co/Pxhe942rwh",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1334166625587785730",
+        "username": "Simen Guldberg",
+        "date_time": "2020-12-02 16:04:45",
+        "text": "fredag kl 19.01 s\u00e5 kj\u00e6m det et br\u00f8l fra munnen min n\u00e5r \u00e6 packe fyren her i ikon pakken \u00e6 har spart opp. Om \u00e6 ikke f\u2026 https://t.co/BpPNHIL9Z0",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1334104674702684160",
+        "username": "Daniel O",
+        "date_time": "2020-12-02 11:58:35",
+        "text": "@palindromedas @CSpange Ja, \u00e6 har aldri problemer med \u00e5 v\u00e6re aleina..s\u00e5 \u00e6 ville nok hatt ei kjempefin jul aleina..\ud83d\ude03",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1334103277043032064",
+        "username": "Daniel O",
+        "date_time": "2020-12-02 11:53:02",
+        "text": "@CSpange \u00c6 blir ikke angrepet av noen da, men e no bare m\u00e6 sj\u00f8 som f\u00e5r litt d\u00e5rlig samvittighet over d , \u00e6 har jo v\u2026 https://t.co/q3dCiwU3e5",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1334031281567436800",
+        "username": "Quarantined_PolarBear\ud83c\uddf3\ud83c\uddf4",
+        "date_time": "2020-12-02 07:06:57",
+        "text": "@mretvk Det f\u00f8les faktisk ut som poltava e en av de sangan \u00e6 har hoppa over mest, der for e \u00e6 overaska av det",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1334024645876518913",
+        "username": "B\u00e5rd eivind bakk",
+        "date_time": "2020-12-02 06:40:35",
+        "text": "@bengtassen @Fykomfei \u00c6 har h\u00e5mm\u00e5r, sag, \u00f8ks, kniv, slegge, haggla e ikke med da.",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1333905116596985870",
+        "username": "Einar",
+        "date_time": "2020-12-01 22:45:37",
+        "text": "@bengtassen @Grest_ \u00ab\u00c6 har sedd nok\u00bb - gammelonkel, pensjonert sj\u00f8mann i utenriksfart",
+        "category": "mixed"
+    },
+    {
+        "sent_id": "1333881942673137665",
+        "username": "Fida",
+        "date_time": "2020-12-01 21:13:32",
+        "text": "@Ho_derre Ja\ud83d\udc4c.18/12/20 bli siste arbeidsdag p\u00e5 m\u00e6 i 2020\ud83e\udd74. \u00c6 har en god plan for ut i naturen p\u00e5 dagtid og mytti sj\u2026 https://t.co/TD3E0emUCe",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1333777671290032128",
+        "username": "Citycrusher mega bird",
+        "date_time": "2020-12-01 14:19:11",
+        "text": "@mektigtrollmann Faen m\u00e6 krise. \u00c6 har begynt \u00e5 hiss som en hissig katt p\u00e5 d\u00e6m \u00e6",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1333739284680019968",
+        "username": "Agnar Jensen",
+        "date_time": "2020-12-01 11:46:39",
+        "text": "@Rollert \u00c6 har st\u00f8rre tro p\u00e5 disse  mun/nesebind en d\u00e6n folj bruker\ud83d\udc4d\ud83c\udf39\ud83d\udc4d https://t.co/G8juuHT3Sb",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1333717065014894593",
+        "username": "SK Gaski",
+        "date_time": "2020-12-01 10:18:22",
+        "text": "\u00c6 har visst fulgt litt d\u00e5rlig med p\u00e5 lokalnyhetan i det siste. https://t.co/wuQLMhaLJU",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1333515252894474241",
+        "username": "ingrid :)",
+        "date_time": "2020-11-30 20:56:26",
+        "text": "@fearlssaloysius e en stund siden \u00e6 har spist s\u00e5nn egt. kanskje \u00e6 m\u00e5 teste p\u00e5 nytt lol",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1333454697588514821",
+        "username": "NorwegianTiger",
+        "date_time": "2020-11-30 16:55:48",
+        "text": "@SBeurling N\u00e5 vet du \u00e5ssen \u00e6 har hatt det i noen \u00e5r \ud83d\ude44",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1333439577021878275",
+        "username": "fossum",
+        "date_time": "2020-11-30 15:55:43",
+        "text": "huff \n\nsitter med bar overkropp\nuten t skjorte\nfor \u00e5 parrere det stadige svetteanfall\n\nmen \nplutselig blir jeg vars\u2026 https://t.co/e4tySn30rj",
+        "category": "bokm\u00e5l"
+    },
+    {
+        "sent_id": "1333392096229732354",
+        "username": "Tor Odin Ekle",
+        "date_time": "2020-11-30 12:47:03",
+        "text": "@SaysPhilippe @Kattekisme @AvisaOslo Ja \u00e6 har trua. S\u00e5 vil det gj\u00f8re at det blir mindre innslag av lokale oslo nyheter i riksaviser.",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1333164311787802624",
+        "username": "Slender",
+        "date_time": "2020-11-29 21:41:55",
+        "text": "@Nikkodypvik @simen_guldberg @Elias22436689 \u00c6 har ikke slutta engang, ska jobb 6 daga uka her og jobbe overtid hver dag",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1333119314099138564",
+        "username": "Anders Karlsen",
+        "date_time": "2020-11-29 18:43:07",
+        "text": "Zinckernagel , \u00e6 har ikke ord lengre... la oss nyt dette mens vi enda har han ! \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\udc9b\ud83d\udc9b\ud83d\udc9b\u26bd\ufe0f og nu e nesten tippetipse\u2026 https://t.co/Bb3nFKFuAJ",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1333071808606638082",
+        "username": "Simen Guldberg",
+        "date_time": "2020-11-29 15:34:21",
+        "text": "EDISON HIVE!!  \u00c6 HAR V\u00c6RT HER SIDA DAG 1!! FYREN E SYK",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1333057682073382912",
+        "username": "Fredrik S\u00f8rlie",
+        "date_time": "2020-11-29 14:38:13",
+        "text": "No one:\nLiterally no one:\nPetter Northug: \u00c6 har laga en julesang",
+        "category": "mixed"
+    },
+    {
+        "sent_id": "1334600973550051332",
+        "username": "Vebj\u00f8rn Jensvoll",
+        "date_time": "2020-12-03 20:50:42",
+        "text": "@amund_jensvoll @CoolbetNorge E har 2-0 Eikrem og du har 3-0 Ohi. Spanande",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1333523280502853634",
+        "username": "Anders Wiik",
+        "date_time": "2020-11-30 21:28:20",
+        "text": "@alexbotn Av det e har sett av kommentara s\u00e5 brukes det som et kj\u00e6le navn. Et kompliment, at man st\u00e5r nokken n\u00e6r. A\u2026 https://t.co/NrgaDddYYp",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1336441992541335559",
+        "username": "Marit E H Totland",
+        "date_time": "2020-12-08 22:46:15",
+        "text": "Eg har opna bloggsida med g\u00e5vetips att. Ligg open ut morgondagen om nokon er p\u00e5 jakt etter ei g\u00e5ve utan \u00e5 g\u00e5 p\u00e5 han\u2026 https://t.co/MlAR0oUz2q",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336439529562103808",
+        "username": "Bent Raknes",
+        "date_time": "2020-12-08 22:36:28",
+        "text": "Avslutter kvelden med \u00e5 tenke p\u00e5 dette med talentspeiding. Hvordan er det \u00e5 identifisere et fotball talent.\nEr fakt\u2026 https://t.co/yfVUitEWOX",
+        "category": "bokm\u00e5l"
+    },
+    {
+        "sent_id": "1336432993406169091",
+        "username": "Pip12/7",
+        "date_time": "2020-12-08 22:10:30",
+        "text": "@SveinAsleik Det er heilt nytt for meg. Eg har aldri h\u00f8yrd om yule. Som \u00e5 finne opp yule p\u00e5 ny.",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336426645482332167",
+        "username": "Kari Fosse. Radiograf!",
+        "date_time": "2020-12-08 21:45:16",
+        "text": "@bergersenline Det er til deg og dine likesinna eg f\u00f8ler eg har strekt ut ei hand med Middels Minus.. \ud83d\ude00",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336424033756262408",
+        "username": "Kari Fosse. Radiograf!",
+        "date_time": "2020-12-08 21:34:53",
+        "text": "@TVfilter @kwaeraas Ja det er faens irriterande..\nn\u00e5r det er sagt er mitt ankepunkt at det tek vekk noko som faktis\u2026 https://t.co/HE2y3xZXPX",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336418861768470534",
+        "username": "MaSa gler seg til jul\u2615@masaogmasa",
+        "date_time": "2020-12-08 21:14:20",
+        "text": "@esgya Skal tenkja litt, kanskje eg har nokre ord i morgon \ud83d\ude07",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336417173892423681",
+        "username": "Odd M",
+        "date_time": "2020-12-08 21:07:38",
+        "text": "Folk klager fordi de ikke kan invitere/akkomodere 10 personer i jula.\nEg har ikke hatt 10 personer p\u00e5 bes\u00f8k i 2020,\u2026 https://t.co/CFSqkM9GGe",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1336416365062852611",
+        "username": "Erik Kursetgjerde",
+        "date_time": "2020-12-08 21:04:25",
+        "text": "@10mill10ar Omtrent einaste guilty pleasure eg har, utanom j\u00e5lepils. Men sidan stort sett alt er stengt, s\u00e5.. \ud83e\udd37",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336411226310664192",
+        "username": "Martin Larsen Hirth",
+        "date_time": "2020-12-08 20:44:00",
+        "text": "@jenskihl @loktvillingane @SofieMarhaug Eg har ein del tankar om korleis Arna kan n\u00e5 ut til folket. Vimsete utad, strateg p\u00e5 innsida.",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336406485052612615",
+        "username": "Markus",
+        "date_time": "2020-12-08 20:25:09",
+        "text": "@siljel Det er det BESTE kj\u00f8pet eg har gjort p\u00e5 kj\u00f8kkenet! S\u00e5 enkelt plutseleg n\u00e5r eg skal lage noko grytar eller wok, eller noko slikt. \ud83d\ude0b",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336405852039892995",
+        "username": "\u00d8ystein H. Brekke \u16af\u16e6\u16cc\u16d0\u16c5\u16c1\u16bf \u16bc \u16d2\u16b1\u16c2\u16b4\u16c2 \u0787\u07ae\u078c\u07b0\u0790\u07b0\u078c\u07a6\u078c\u07b0\u0782\u07b0",
+        "date_time": "2020-12-08 20:22:39",
+        "text": "Den heimevernfyren p\u00e5 #dax18 - det er det mest fascinerande eg har h\u00f8yrd! Han hadde vunne debatten. UiT la seg flat\u2026 https://t.co/K3CcX4VPd5",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336403838153207809",
+        "username": "sir Brynhild G Winther (pronoun: Sir/Your Majesty)",
+        "date_time": "2020-12-08 20:14:38",
+        "text": "Og, sist men ikkje minst: det blir litt mindre twitterdiskusjonar framover fordi eg har f\u00e5tt tilbake mannen i mitt\u2026 https://t.co/lrQO34j7li",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336403762370457605",
+        "username": "Hannibal Universitetslektor",
+        "date_time": "2020-12-08 20:14:20",
+        "text": "@MartinArseth Eg blir jo litt r\u00f8rt n\u00e5r du subtweetar om meg, eg gjer jo det. Men illustrasjonsfotoet er ein tanke t\u2026 https://t.co/3B5tI8Q5Du",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336401191127932931",
+        "username": "sir Brynhild G Winther (pronoun: Sir/Your Majesty)",
+        "date_time": "2020-12-08 20:04:07",
+        "text": "@Inger11128888 Takk. Eg har ikkje tid til diskusjonar nett no, men h\u00e5par \u00e5 fyre opp att ildkulene over nytt\u00e5r. Mykje g\u00f8y som skjer her!",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336397526178664450",
+        "username": "Esther Moe",
+        "date_time": "2020-12-08 19:49:33",
+        "text": "@ThoreMehl Takk, eg har klart \u00e5 sl\u00e5 kloa i den versjonen; men leitar ogs\u00e5 etter studiovarianten.",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336397095645884423",
+        "username": "Torbj\u00f8rn krumkake",
+        "date_time": "2020-12-08 19:47:51",
+        "text": "@gietlitevink Den beste norske boka eg har lese i \u00e5r, i tillegg til @usentral si, er Beate Grimsrud sin Jeg foresl\u00e5r at vi v\u00e5kner",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336396963210792961",
+        "username": "Kristin Moberg Aakre",
+        "date_time": "2020-12-08 19:47:19",
+        "text": "@marenostbo Aha\nEg har fors\u00f8kt \u00e5 reklamere p\u00e5 ei panne der emaljen sprakk. Gjaldt ikkje der heller gitt...",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336396953660354560",
+        "username": "Jarl W\u00e5ge",
+        "date_time": "2020-12-08 19:47:17",
+        "text": "@RealKEEilertsen @radikalportal Eg har ikkje sett meg inn i noka sak. Eg har bare lest ein tekst der det blir dokum\u2026 https://t.co/qejqsT0pYX",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1336387275920465921",
+        "username": "SS NORWAY",
+        "date_time": "2020-12-08 19:08:50",
+        "text": "Hei Mr. @DavyWathne . I dag skjedde f\u00f8lgende. En hyggelig fyr, som heter Bj\u00f8rn Helge, kom og spurte om eg ville ha\u2026 https://t.co/z9WYBRBLVx",
+        "category": "bokm\u00e5l"
+    },
+    {
+        "sent_id": "1336385287333814279",
+        "username": "Jarl W\u00e5ge",
+        "date_time": "2020-12-08 19:00:55",
+        "text": "@kreskifjeld @hegestorhaug @schish76 Eg har meir tru p\u00e5 \u00e5 vise fram galskapen.",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336381066412748803",
+        "username": "Jarl W\u00e5ge",
+        "date_time": "2020-12-08 18:44:09",
+        "text": "Det er lenge sidan eg har blitt s\u00e5 oppr\u00f8rt som eg blei av FrP sitt krav om \u00e5 prioritere kristne flykningar. Eg skri\u2026 https://t.co/IwR6WiaAbk",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336379028731813888",
+        "username": "Kjartan Lauritzen",
+        "date_time": "2020-12-08 18:36:03",
+        "text": "For noken ville premier eg har skaffa til Berre Kjartan Show Julespesial. Den diggaste deler eg berre ut viss eg f\u00e5\u2026 https://t.co/ZETi3GSZU9",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336377939890466827",
+        "username": "Andreas Alfarnes",
+        "date_time": "2020-12-08 18:31:44",
+        "text": "@KennyKnekk Eg har en xbox series x som eg skal pakke opp i morgen \ud83e\udd70",
+        "category": "mixed"
+    },
+    {
+        "sent_id": "1336375628141105153",
+        "username": "\u00d8rjan",
+        "date_time": "2020-12-08 18:22:33",
+        "text": "Lenge sida eg har v\u00e6rt s\u00e5 nerv\u00f8s f\u00f8r kamp p\u00e5 lang tid\ud83d\ude2d Vil ikkje sj\u00e5 Utd spele kampa p\u00e5 torsdaga ever igjen \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d #unitedno #2cl",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1336364239708155913",
+        "username": "Edith Bir \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+        "date_time": "2020-12-08 17:37:17",
+        "text": "@ostepop Har eit par s\u00e5nne i kassa med julepynt. Og eg har pynta til jul.",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336364127472717824",
+        "username": "\u00d8ystein Hauge",
+        "date_time": "2020-12-08 17:36:51",
+        "text": "Nei kva ordet synonym betyr. Eg har ikkje peiling. Det kan forresten v\u00e6re akkurat det same.",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336354200524103689",
+        "username": "Julehuldra",
+        "date_time": "2020-12-08 16:57:24",
+        "text": "@12Bly @DoremusSchafer @erlendwiborg Einaste eg kan komme p\u00e5 er at eg m\u00e5tte levere kontoutskrift d\u00e5 eg gjekk p\u00e5 sos\u2026 https://t.co/LvHt1wh1it",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336353669009330180",
+        "username": "EdvardLysne",
+        "date_time": "2020-12-08 16:55:17",
+        "text": "@aslaknore Hadde europeisk magasin tatt med amerikansk Nascar- eller baseball-legende i tilsvarande oppsummering?\u2026 https://t.co/gOmgylgz6H",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336349972577521664",
+        "username": "Britta Maxilla Sartorius",
+        "date_time": "2020-12-08 16:40:36",
+        "text": "Eg er framleis - to \u00e5r etter - i mildt sjokk over at folk med h\u00f8g utdanning trur at ein tablett ordnar alt. \n\nEg ha\u2026 https://t.co/1nG6x1DdPv",
+        "category": "annet"
+    },
+    {
+        "sent_id": "1336349341808812033",
+        "username": "Lovande ung kvinne",
+        "date_time": "2020-12-08 16:38:05",
+        "text": "@Oispammy Har dei det d\u00e5? Eg har for d\u00e5rleg fantasi til \u00e5 sj\u00e5 for meg kva dei skal med alle pengane tydelegvis",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336349304198483971",
+        "username": "Sveinung M. Skjesol \ud83c\udfc2 \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+        "date_time": "2020-12-08 16:37:56",
+        "text": "@litelin Eg tek ein av dei. Men eg har den fordelen at eg er langt bak i k\u00f8a (50 \u00e5r og frisk), s\u00e5 eg rekk \u00e5 sj\u00e5 at\u2026 https://t.co/5Qjr728sB1",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336346827407450112",
+        "username": "Georgine",
+        "date_time": "2020-12-08 16:28:06",
+        "text": "@MorganArnesen Betyr at eg kjenner seksuell tiltrekning til de eg har en sterkere emosjonell attraksjon til, uansett kj\u00f8nn!",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1336339685472256000",
+        "username": "inger e solem",
+        "date_time": "2020-12-08 15:59:43",
+        "text": "@MModulf Eg har starta med \u00e5 l\u00e6re meg ord utenat.\nFinner ei rekke ord som ikkje har samanheng med kvarandre, la oss\u2026 https://t.co/bz6McGC0HO",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336333935094075398",
+        "username": "Tirill Heimdal",
+        "date_time": "2020-12-08 15:36:52",
+        "text": "Snakka om bekkenl\u00f8sning med ei venninne og sa at eg har litt smerter, &amp; at jordmora sa at det kjem av ligamenta som\u2026 https://t.co/zCcdlEJXmH",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1336329324358602755",
+        "username": "\u2014 jule\ud835\udc61\ud835\udc5f\ud835\udc62\ud835\udc51\ud835\udc52 \u2014",
+        "date_time": "2020-12-08 15:18:33",
+        "text": "@ostepop \ud83d\udc49\ud83d\udc48 eg har et par s\u00e5nne fra tidlig 90tall - eg vant dem fra en lokal TV kanal n\u00e5r eg va typ... 9 el 10. s\u00e5\u2026 https://t.co/UZeDobXVZb",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1336319143088279552",
+        "username": "Morten, men ekstra utslitt",
+        "date_time": "2020-12-08 14:38:05",
+        "text": "@ungkommunist Eg har aldri vore s\u00e5 utbrent som det eg er no og det er for det meste fempoengsfaga si skuld",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336316965892149251",
+        "username": "Tassi",
+        "date_time": "2020-12-08 14:29:26",
+        "text": "@hanneejensen Du har no sett dobbelt s\u00e5 mange filmar p\u00e5 4 dagar som eg har gjort i heile \u00e5r\ud83d\ude02\ud83d\udd25",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336315348975403015",
+        "username": "Svein Vathne",
+        "date_time": "2020-12-08 14:23:01",
+        "text": "@NilsHenrikSmith @w_bente @uburen Og eg har aldri h\u00f8yrt om Manhattan Skyline, Austerrike eller Se ilden lyse over jord.",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336312369107120129",
+        "username": "Soft boy with added spice \ud83d\udc24\ud83c\udf36\ufe0f",
+        "date_time": "2020-12-08 14:11:10",
+        "text": "Ein ting eg har l\u00e6rt i eksamenstida: ordet \"fempoengsfag\" betyr ingenting",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336308460863057921",
+        "username": "Britta Maxilla Sartorius",
+        "date_time": "2020-12-08 13:55:39",
+        "text": "Det er kanskje ikkje produktivt, men det er kjekt. Kaffien var litt for kald. Og eg har ikkje pokerfjes nok til \u00e5 vere Mona Lisa.",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336307619494031360",
+        "username": "B\u00e5rd Egil Eide",
+        "date_time": "2020-12-08 13:52:18",
+        "text": "@svarthumle Kanskje vinterstid? Eg har no teke ein klassisk b\u00e5tpils der. Det hadde eg nok ikkje gjort p\u00e5 gamle B\u00f8rsen p\u00e5 slutten.",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336306561015275521",
+        "username": "Retyu",
+        "date_time": "2020-12-08 13:48:06",
+        "text": "@KarinaMowinckel Eg har alltid meint at ein m\u00e5 ta hand om v\u00e5re eigne problem f\u00f8r ein hjelper andre, spesielt vis de\u2026 https://t.co/0ifr45Ejtc",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336303125087522816",
+        "username": "Dag Idar J\u00f8sang",
+        "date_time": "2020-12-08 13:34:26",
+        "text": "@KimWT @eivindtraedal Eg har vore med \u00e5 snekre \u00e5ttekanta m\u00e6rdar som flaut p\u00e5 isopor. Viss det ikkje hadde vore utvi\u2026 https://t.co/DNtRv4VnIv",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336300084154208261",
+        "username": "lea der\u00e5s",
+        "date_time": "2020-12-08 13:22:21",
+        "text": "@gorillarflicks Bruh eg har hatt mensen eit halvt \u00e5r i strekk no",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336299310611304448",
+        "username": "Britta Maxilla Sartorius",
+        "date_time": "2020-12-08 13:19:17",
+        "text": "Eg drit i kva folk betaler i skatt, for eg har nettopp sikra meg ei flyreise om morgonen den 24.12, og eg skal karn\u2026 https://t.co/C87pXmbEzO",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336298246222786562",
+        "username": "Mathias kjaervoll",
+        "date_time": "2020-12-08 13:15:03",
+        "text": "@kissatheman Bro kan du che plis plis g\u00e5 tebage du \u00e5g tripic e de beste spelarne som n\u00e5gensinne har spelt for vikin\u2026 https://t.co/7OppwWb28F",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1336297442107592707",
+        "username": "Morten, men ekstra utslitt",
+        "date_time": "2020-12-08 13:11:52",
+        "text": "@VetleMikkelsen Eg har eit teoretisk forhold til alle formar for undertrykking og eg er heilt enig med deg her. Sju\u2026 https://t.co/DLrwjYeFPI",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336292450646814720",
+        "username": "Bjarte Wathne Helgesen",
+        "date_time": "2020-12-08 12:52:02",
+        "text": "@moenduran Blir heilt motlaus av \u00e5 tenkja p\u00e5 kor store forskjellane faktiske er. Eg har rundt 25 000 utbetalt i m\u00e5n\u2026 https://t.co/8oNO6E2tTr",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336287463711584262",
+        "username": "Olav \u00d8yehaug Opsvik",
+        "date_time": "2020-12-08 12:32:13",
+        "text": "Rart at Vedum har slik medvind i heimekontor\u00e5ret 2020. Eg har aldri vore meir glad for \u00e5 bu p\u00e5 bygda, og f\u00f8ler med\u2026 https://t.co/l9G5vJ6JOn",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336286919198707713",
+        "username": "Den Kloke Lille H\u00f8nen",
+        "date_time": "2020-12-08 12:30:03",
+        "text": "Eg har hatt nokre tvilsame takes ila mine 25 \u00e5r, men er det \u00e9in ting det aldri har vore tvil om er det at blackface\u2026 https://t.co/lQxdGJCJTf",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336282631001042946",
+        "username": "Andreas Hadsel Opsvik",
+        "date_time": "2020-12-08 12:13:00",
+        "text": "@iacob @erlemarie Eg har g\u00e5tt andre vegen \u2013 vore tre gongar hj\u00e5 min favorittklippar sidan april. F\u00f8ler eg utgjer ei\u2026 https://t.co/GRHCXb1BdG",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336280439095439363",
+        "username": "\u00d8rjan",
+        "date_time": "2020-12-08 12:04:18",
+        "text": "@JalilianShayan Ja, han har skuffa stort dei gangane eg har sett han. S\u00e5 kan forst\u00e5 Zidane der.",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336278902877138944",
+        "username": "Stig Anders Hauge",
+        "date_time": "2020-12-08 11:58:11",
+        "text": "@eivindtraedal @SkogVIF @BBaardsen Reis til Harams\u00f8y, Fr\u00f8ya og Stadt m.fl. Voldtekt av natur og dyreliv. Eg har all\u2026 https://t.co/ST8UF0Y91p",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336275314788413441",
+        "username": "Erlend Friestad",
+        "date_time": "2020-12-08 11:43:56",
+        "text": "@RRKile1 @reisir Utan at eg har fasiten, s\u00e5 trur eg vi snakkar forskjellig kj\u00e6rleik: \nP\u00e5 gresk (meiner eg \u00e5 hugse)\u2026 https://t.co/RVAA4LSTEg",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336270522863194115",
+        "username": "fossum",
+        "date_time": "2020-12-08 11:24:54",
+        "text": "som dere ser folkens\nhar blitt for meget i\n... .. hatttjuveriet\n\nsliten\ns\u00e5 eg har lagt meg\n\ntil neste \u00f8kt https://t.co/8csjr7jD5c",
+        "category": "bokm\u00e5l"
+    },
+    {
+        "sent_id": "1336257286638022656",
+        "username": "suvlig",
+        "date_time": "2020-12-08 10:32:18",
+        "text": "Det som ikkje st\u00e5r i skattelistene, er at eg er styrtrik p\u00e5 relasjonsfronten \u2013 det st\u00e5r heller ingenting om at eg e\u2026 https://t.co/8PYv3nIcY4",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336248340955230214",
+        "username": "Aleksander Gjerdevik",
+        "date_time": "2020-12-08 09:56:45",
+        "text": "@MariusDahl91 eg er forn\u00f8yd med den, fatteren e mindre forn\u00f8yd.\n\nMen eg har sett Man Utd vinne en seriekamp p\u00e5 SoL,\u2026 https://t.co/KxABauaT9d",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1336246936064679939",
+        "username": "Aleksander Gjerdevik",
+        "date_time": "2020-12-08 09:51:10",
+        "text": "@MariusDahl91 Eg har samme p\u00e5virking p\u00e5 Manchester United p\u00e5 Old Trafford. \n\nMan Utd - Arsenal 0-1\nMan Utd - Charlt\u2026 https://t.co/ybozzGv3Ro",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336245079795707905",
+        "username": "Isabel J. Grindheim \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+        "date_time": "2020-12-08 09:43:47",
+        "text": "@i_rolland Ja, einig. Syns det er heilt koko. Eg har brukt dei ein gong. D\u00e5 hang eg opp pakken i ein plastpose, som\u2026 https://t.co/TSnnqaAe82",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336242317871738880",
+        "username": "Tor Gaasdal",
+        "date_time": "2020-12-08 09:32:49",
+        "text": "@JanIngvald @RunarHauge @jenspetter99 Slik er livet. Eg har sju. Du e heldig, som fortsatt kan f\u00f8lge, b\u00e5de jente og\u2026 https://t.co/f3027DYME8",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1336234948123045888",
+        "username": "Erik Holten",
+        "date_time": "2020-12-08 09:03:32",
+        "text": "No trur eg at eg har lyst til \u00e5 bli slik str\u00f8ymar, dei kallar. https://t.co/PZoyuVlcD7",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336225995850964994",
+        "username": "William Sunde",
+        "date_time": "2020-12-08 08:27:57",
+        "text": "Xqc og NRG Ronaldo e ein av de l\u00f8gnaste duoene eg har sett.",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1336220558187503616",
+        "username": "Britta Maxilla Sartorius",
+        "date_time": "2020-12-08 08:06:21",
+        "text": "Augene mine ser ut som eg har vore p\u00e5 fest heile veka, men eg har berre brukt kontaktlinser ein halv dag.",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336212207927963648",
+        "username": "Britta Maxilla Sartorius",
+        "date_time": "2020-12-08 07:33:10",
+        "text": "Eg s\u00f8v s\u00e5 uroleg at madrassen alltid er halvvegs p\u00e5 veg ut av senga n\u00e5r alarmen g\u00e5r, og i tillegg driv eg og fektar\u2026 https://t.co/6nCVMbkahs",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336208400171012096",
+        "username": "Britta Maxilla Sartorius",
+        "date_time": "2020-12-08 07:18:02",
+        "text": "@boombadila Eg har tatt dopet mitt no. Alt er betre \ud83d\ude0a",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336207989288669185",
+        "username": "suvlig",
+        "date_time": "2020-12-08 07:16:24",
+        "text": "Kva for nokre finn-s\u00f8k f\u00e5r du varslar for? Eg har eit som heiter \"dreiebenk\" (i tillegg til det som er obligatorisk\u2026 https://t.co/L3Zqowsnmm",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336197485052751878",
+        "username": "Ompa til apokalypsen kommer",
+        "date_time": "2020-12-08 06:34:40",
+        "text": "ute var navn\nfor hun f\u00e5r min motiv, f\u00e5r mine tusen spenn eg har spart, f\u00e5r mitt makt \ndagen kom, eg sa klikk hele d\u2026 https://t.co/krMHBrhuGa",
+        "category": "annet"
+    },
+    {
+        "sent_id": "1336187792334917632",
+        "username": "Morten \u00d8en",
+        "date_time": "2020-12-08 05:56:09",
+        "text": "Ikkje at eg har f\u00f8lgd Chuck Yeager veldig n\u00e6rt, eller vore aktiv fan, men den gamle flygar-helten har alltid vore e\u2026 https://t.co/4nkWZQ1GDQ",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336176871197855744",
+        "username": "Tove Lindseth",
+        "date_time": "2020-12-08 05:12:45",
+        "text": "Tirsdag morgon, \u00e5tte pluss ei god veke ut i desember! B\u00e5de kvelven og min vesle krok av verda er temmeleg gr\u00e5. Eg f\u2026 https://t.co/jNsDdp7BFp",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336081180182114304",
+        "username": "Karina \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+        "date_time": "2020-12-07 22:52:31",
+        "text": "@Kaffesnobb Eg har berre sagt pengar (til tatovering, portrett av pus) og gavekort p\u00e5 matbutikk. Og fjellsko!",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336065101091250183",
+        "username": "\u00d8ystein H. Brekke \u16af\u16e6\u16cc\u16d0\u16c5\u16c1\u16bf \u16bc \u16d2\u16b1\u16c2\u16b4\u16c2 \u0787\u07ae\u078c\u07b0\u0790\u07b0\u078c\u07a6\u078c\u07b0\u0782\u07b0",
+        "date_time": "2020-12-07 21:48:37",
+        "text": "Skal tru kor mange \u00e5r av livet mitt eg har brukt p\u00e5 \u00e5 halda inne ein knapp i 4 sekund for \u00e5 sl\u00e5 ein dings av eller\u2026 https://t.co/mnqOObw0Kl",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336050031154114560",
+        "username": "Kristin Moberg Aakre",
+        "date_time": "2020-12-07 20:48:44",
+        "text": "@mikkelickski Nei, eg har vore p\u00e5 kurs i formidling. Eksamen bestod i \u00e5 snakke om Fox studien. I denne holdt ein me\u2026 https://t.co/dtxDv1evYg",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336044606094499841",
+        "username": "Ante K.L.",
+        "date_time": "2020-12-07 20:27:11",
+        "text": "@runefo Men Rune, eg har berre vanilla ps4 og ikkje pc. Er eg doomed?",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336043722136576001",
+        "username": "Krusedull88",
+        "date_time": "2020-12-07 20:23:40",
+        "text": "@Mads_Hansen Eg er m\u00f8rkhudede, eg har ikke tenkt at den advent serien er rasistisk. Eg tror vi kan finne m\u00f8rkhudede\u2026 https://t.co/SR8rcL59ja",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1336040696596336644",
+        "username": "Alv529",
+        "date_time": "2020-12-07 20:11:39",
+        "text": "@kjenslevart Anar ikkje om da ville funka for deg i heile tatt, men n\u00e5r da skjer meg plar eg  \u00e6planleggja n\u00f8yaktig\u2026 https://t.co/J0RyujnOzs",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336036700984893443",
+        "username": "Kristin Moberg Aakre",
+        "date_time": "2020-12-07 19:55:46",
+        "text": "@mikkelickski @Robert01982387 Eg har aldri forst\u00e5tt denne betegnelsen \"det gode hatet\". Det er  vel ikkje slik at v\u2026 https://t.co/yLeqaqnVzY",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336031059650240514",
+        "username": "\u064b",
+        "date_time": "2020-12-07 19:33:21",
+        "text": "@toogoldensun genser elle to fra golvet liksom\ud83d\ude03 e ikkje s\u00e5nn at eg vil at rommet mitt ska sj\u00e5 ut som n\u00e5ken har hatt\u2026 https://t.co/Ohu4qtoPSU",
+        "category": "dialectal"
+    },
+    {
+        "sent_id": "1336026178948358152",
+        "username": "Jens Kihl \ud83e\udd26\ud83c\udffc\u200d\u2640\ufe0f",
+        "date_time": "2020-12-07 19:13:57",
+        "text": "@ainabasso @madamknipe Eg har alltid meint at Hammerfest og Sigdal burde sl\u00e5 seg saman og bli Hammer og Sigd kommune.",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336025987117703177",
+        "username": "Synn\u00f8ve",
+        "date_time": "2020-12-07 19:13:12",
+        "text": "@HegeRH Eg har lyst p\u00e5 ein tur til Berlin, men yngste fr\u00f8ken dagdr\u00f8mte seg s\u00e5 inderleg vekk til ein bitteliten by p\u2026 https://t.co/BHA1K0n4bm",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336025066954514432",
+        "username": "Vesle Nusse",
+        "date_time": "2020-12-07 19:09:32",
+        "text": "@CSpange Alt eg har i DnB er konto for kvitvasking. #FTW",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336017041636155395",
+        "username": "Pip12/7",
+        "date_time": "2020-12-07 18:37:39",
+        "text": "Eg har aldri trudd at eg skulle seie V\u00c5LERENGEN!\n\nRBK har spelt med ein mann mindre siden f\u00f8rste omgong.\n\n75 min. V\u00e5lerengen-RBK 1-0",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336014938767302658",
+        "username": "\ud83e\udd36Husmortoft har pynta tre\ud83e\udd36",
+        "date_time": "2020-12-07 18:29:18",
+        "text": "@gaski Ja, eller ingen (som var det trudde, og eg har hatt TT som professor \ud83e\udd37)",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336008747961954307",
+        "username": "Alv529",
+        "date_time": "2020-12-07 18:04:42",
+        "text": "@elfhybrid_ -Halda fram med spanskvedlikehald\n-\u00d8va meir p\u00e5 andre spr\u00e5k eg kan litt, kanskje tysk eller russisk, og/\u2026 https://t.co/b8KQQf8ENE",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1336007072765386753",
+        "username": "Alv529",
+        "date_time": "2020-12-07 17:58:02",
+        "text": "@elfhybrid_ -Vaksinera meg\n-Halda fram med \"pr\u00f8va \u00e5 gjera ka som helst trening kvar dag, alt tels, og om da ikkje g\u2026 https://t.co/FM4IweocQD",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1335996671319281664",
+        "username": "Morten Skahjem",
+        "date_time": "2020-12-07 17:16:42",
+        "text": "@TirillHeimdal @runarfu Passar alltid p\u00e5 \u00e5 slenge med begrep som vinkeljern og utforingslist n\u00e5r eg snakkar med han\u2026 https://t.co/JdKxDIaL7L",
+        "category": "mixed"
+    },
+    {
+        "sent_id": "1335995825038782464",
+        "username": "Martin \u00c5rseth",
+        "date_time": "2020-12-07 17:13:20",
+        "text": "Endeleg! Eg har brukt heile pandemien p\u00e5 dette. No kan de fiksa den vaksinen. https://t.co/JI1C0wIJFv",
+        "category": "nynorsk"
+    },
+    {
+        "sent_id": "1335984703241850882",
+        "username": "Bjarte Wathne Helgesen",
+        "date_time": "2020-12-07 16:29:09",
+        "text": "@maritanesnah Ja, alts\u00e5, eg seier jo ikkje unnskuld, men n\u00e5r eg har vore i ein sosial situasjon der eg opplevde meg\u2026 https://t.co/Bmn0KHzYMv",
+        "category": "nynorsk"
+    }
+]
