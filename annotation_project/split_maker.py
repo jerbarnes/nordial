@@ -18,16 +18,18 @@ def loaddata(filename):
 
 curated = loaddata("test_data_curated.json")
 new = loaddata("test_data_new1.json")
+extra = loaddata("test_data_new_sam.json")
 
 c_by_id = {x["sent_id"]:x for x in curated}
 n_by_id = {x["sent_id"]:x for x in new}
-
+e_by_id = {x["sent_id"]:x for x in extra}
 
 ids_c = set([x["sent_id"] for x in curated[1:]])
 ids_n = set([x["sent_id"] for x in new[1:]])
+ids_e = set([x["sent_id"] for x in extra[1:]])
 
 #all non overlapping ids
-allnew = ids_c.union(ids_n)
+allnew = ids_c.union(ids_n,ids_e)
 
 print("new ids",len(allnew))
 
@@ -40,8 +42,10 @@ newdata = []
 for sentid in allnew:
     if sentid in c_by_id:
         x = c_by_id[sentid]
-    else:
+    elif sentid in n_by_id:
         x = n_by_id[sentid]
+    else:
+        x = e_by_id[sentid]
     ordbok = {}
     ordbok["sent_id"] = x["sent_id"]
     ordbok["text"] = x["text"]
