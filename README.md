@@ -50,3 +50,8 @@ python3 bert_classifier.py --model NbAiLab/nb-bert-base --train --test
 5. pandas
 6. sklearn
 7. tqdm
+
+# Terms of use
+The data is distributed under a Creative Commons Attribution-NonCommercial licence (CC BY-NC 4.0), access the full license text here: https://creativecommons.org/licenses/by-nc/4.0/
+
+The licence is motivated by the need to block the possibility of third parties redistributing the orignal reviews for commercial purposes. Note that **machine learned models**, extracted **lexicons**, **embeddings**, and similar resources that are created on the basis of the corpus are not considered to contain the original data and so **can be freely used also for commercial purposes** despite the non-commercial condition.
