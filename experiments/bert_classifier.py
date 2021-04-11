@@ -194,5 +194,6 @@ if __name__ == "__main__":
     df = pd.DataFrame(cm, index=["BK", "NN", "DI", "MIX"], columns=["BK", "NN", "DI", "MIX"])
     cmap = sn.color_palette("crest", as_cmap=True)
     fig = sn.heatmap(df, annot=True, cmap=cmap, cbar=False)
+    plt.show()
 
     get_errors(test_gold, test_pred, test_texts, idx2label)
