@@ -111,34 +111,34 @@ def get_errors(gold, pred, texts, idx2label):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--model", default="ltgoslo/norbert")
+    parser.add_argument("--model", default="NbAiLab/nb-bert-base")
     parser.add_argument("--train", action="store_true")
     parser.add_argument("--test", action="store_true")
     args = parser.parse_args()
 
     name_map = {"ltgoslo/norbert": "norbert",
-                "NbAiLab/nb-bert-base": "notram",
+                "NbAiLab/nb-bert-base": "nb-bert",
                 "bert-base-multilingual-cased": "mbert"
                 }
     short_name = name_map[args.model]
 
     print("importing data...")
     tokenizer = BertTokenizer.from_pretrained(args.model)
-    train_data = load_dataset("../annotation_project/dialect_train.json",
+    train_data = load_dataset("../data/train.json",
                               tokenizer)
     train_loader = DataLoader(train_data,
                               batch_size=32,
                               shuffle=True,
                               collate_fn=collate_fn)
 
-    dev_data = load_dataset("../annotation_project/dialect_dev.json",
+    dev_data = load_dataset("../data/dev.json",
                             tokenizer)
     dev_loader = DataLoader(dev_data,
                             batch_size=8,
                             shuffle=False,
                             collate_fn=collate_fn)
 
-    test_data = load_dataset("../annotation_project/dialect_test.json",
+    test_data = load_dataset("../data/test.json",
                              tokenizer)
     test_loader = DataLoader(test_data,
                              batch_size=8,
