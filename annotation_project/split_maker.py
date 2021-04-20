@@ -87,38 +87,3 @@ with open("dialect_dev.json","w",encoding="utf-8") as outfile:
 with open("dialect_test.json","w",encoding="utf-8") as outfile:
     json.dump(test,outfile,indent=4,ensure_ascii=False)
 
-
-
-
-##
-##
-##newdata = []
-##with open("dialect.csv","r",encoding="utf-8") as csv_file:
-##    csv_reader = csv.reader(csv_file,delimiter=",")
-##    olddata = list(csv_reader)
-##
-##
-##def findnewtext(textid):
-##    for line in olddata:
-##        #print(line)
-##        if line[0] == textid:
-##            return line[3]
-##    return False
-##
-##newdata = []
-##for x in petter:
-##    new = findnewtext(x["sent_id"])
-##    ordbok = {}
-##    ordbok["sent_id"] = x["sent_id"]
-##    ordbok["text"] = new
-##    ordbok["category"] = x["category"]
-##    newdata.append(ordbok)
-##
-##
-
-
-
-
-
-
-
