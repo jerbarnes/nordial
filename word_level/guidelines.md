@@ -16,5 +16,12 @@ then do word level more
 callibrate word level guidelines
 check inter annotator agreement
 
+Example:
 
+{"tweetid":{"text":"",
+            "tags":{(1,3):[,f,c,v]},
+	    "lemmas":{(1,3):"snø",...},
+	    "variety":"dialect",
+	    }
+}
 
