@@ -25,3 +25,28 @@ Example:
 	    }
 }
 
+
+Contractions
+
+hakke,harte,hakkje, hakje
+
+Palatalization
+
+
+Apocope
+
+
+
+Lemmas
+
+
+Brat substring
+
+
+Lexical differences
+
+
+Pronouns
+
+
+
