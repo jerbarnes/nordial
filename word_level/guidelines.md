@@ -16,6 +16,38 @@ then do word level more
 callibrate word level guidelines
 check inter annotator agreement
 
+
+
+
+pron-subj
+pron-obj
+copula
+contraction
+palatalization
+r-deletion
+apocope
+voicing
+vowel_shift
+lexical
+dem_pro
+shortening??
+gender
+marked
+h_k(v)
+declension
+conjugation
+functional
+fonemic_spelling
+
+
+
+
+Greit å berga 1 poeng, men ka e de bjarne tenke på når han velge lagoppstillingå
+
+
+we add functional as long as it works
+
+
 Example:
 
 {"tweetid":{"text":"",
@@ -26,27 +58,7 @@ Example:
 }
 
 
-Contractions
 
-hakke,harte,hakkje, hakje
-
-Palatalization
-
-
-Apocope
-
-
-
-Lemmas
-
-
-Brat substring
-
-
-Lexical differences
-
-
-Pronouns
 
 
 
