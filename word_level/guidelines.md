@@ -1,22 +1,22 @@
-Guidelines
+## Introduction
 
+These are the guidelines for the word-based part of the NorDial annotation project. We aim to mark interesting tokens and sub-tokens in tweets, based on an earlier, sentence-based round of annotation. Sentences that were classified as "dialectal", as opposed to "bokmål" or "nynorsk", will then be subject to this word-level annotation.
 
+One thing to note is that in some cases where there is some subjective judgement involved, we want to focus on the *dialectal* impact a word has. Annotating variation in this way is difficult, and some times there are no clear lines between dialect and non-dialect.
 
-find tool
-write guidelines
-examples
-first 
-60 tweets as a round 1
-round 2 120 tweets doubly annotated
-50 100 for word level
-same for both sentence and word level
-first round 1 round 2 at tweet level
-then do round 1 round 2 at word level
-then do word level more
-callibrate word level guidelines
-check inter annotator agreement
+Note that our definitions of bokmål and nynorsk are quite strict. They are defined through the two official dictionaries "bokmålsordboka" and "nynorskordboka". Any inflection, conjugation or lemma that is not present there is seen as dialectal. This includes riksmål-like formulations. However, this does not mean that nothing within these norms contribute to our understanding of a writer's dialect. In cases where there are several choices of form, some of these might be more marked than others. See the label *marked* below for more information.
 
+## Annotation Procedure
 
+We use Brat () to annotate our data. The task involves identifying dialectally relevant words, and assigning the correct labels to them. One word may have more than one label. Some or many words will remain unlabeled.
+
+## Initial Annotations
+
+The annotators will be annotating both at tweet-level and word-level, but these guidelines are for the word-level annotations. The annotators are given 60 tweets as an initial round at the tweet-level and 50 tweets at the word level. This round is annotated equally by all annotators, and serve as an introduction and a test of the guidelines. The annotators can then report any inaccuracies or questions they have, in order to update the guidelines. This round is followed by another round of 120 tweets at the tweet level and 100 tweets at the word level. which are doubly annotated. These tweets are used to calculate  an inter-annotator-agreement (IAA) score that is used to further evaluate the effects of the guidelines and the annotators' understanding of it after round 1. 
+
+## Labels
+
+The task is to assign the following label to words which do not conform to the norms of nynorsk or bokmål.
 
 
 #### pron-subj
