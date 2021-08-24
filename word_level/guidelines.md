@@ -19,21 +19,31 @@ The annotators will be annotating both at tweet-level and word-level, but these 
 The task is to assign the following label to words which do not conform to the norms of nynorsk or bokmål.
 
 
-#### pron-subj
+#### pron-subj and pron-obj
 
-pronoun subjects
+One of the most common dialectal markers in a sentence is a pronoun. Some sentences in our data have no markers exept a single pronoun, and they are therefore important for our understanding of how dialects are marked. One thing that is important when it comes to pronouns, is their syntactic function in a sentence. We therefore wish to label the subject function and object (or oblique) function separately. We do not have separete markers for the dative. 
 
+&ensp;&ensp;&ensp;&ensp;\[...\] og **dem**(pron-obj) blir aldrig ferdige \[...\] 
 
-#### pron-obj
 #### copula
 
+The copula være/vera/vere is a common dialectal indicator. It is marked with the label *copula*. 
 Different varitities of "være".
-#### contraction
-Contractions are quite common.
 
+&ensp;&ensp;&ensp;&ensp;\[...\] at de **e**(copula) rare så klare de ikkje å forstå at de faktisk **e**(copula) rare og bare starta å shittalka tebake'
+
+
+#### contraction
+Contractions, especially with the negation adverb "ikke/ikkje" in its many forms. The verb and the adverb are labelled separately, but both are labelled with the "contraction" label. Contractions can occur with most auxiliary verbs together with ikke/ikkje, but we also count enclitic pronouns as contractions.
+
+&ensp;&ensp;&ensp;&ensp;\[...\]**E|KKE** JEG SOM VILLE HA HU \[...\]
+
+&ensp;&ensp;&ensp;&ensp;E han proff so **e|kje** det noke problem.
 
 #### palatalization
 Usually indicated by additions of j or i. 
+
+&ensp;&ensp;&ensp;&ensp;Æ e nok **forbainna** på denne forfølginga av folk på NAV
 
 #### r-deletion
 In some dialects the final -r that marks the present tense for many verbs in the present tense in both bokmål and nynorsk is dropped. Most verbs have this -r in the written norms, but there are some notable exceptions for j-verbs in nynorsk: Velja -> vel. We also use this label to indicate the dropping of -l in present tense verb forms such as skal -> ska and vil -> vi. 
