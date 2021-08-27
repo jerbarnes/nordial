@@ -1,90 +1,90 @@
 {
-    "4": {
-        "username": "Rebecca Superanonym💀",
-        "sent_id": "1334593349546881026",
-        "text": "@sukkerslott Sidan dei ho blir avhengig av er dei dei delte rundhanda ut på barneheimar så trur eg at det er chlordiazepoxide/Librium.",
-        "category": "nynorsk",
-        "corrected_category": "",
-        "date_time": "2020-12-03 20:20:24"
-    },
-    "7": {
-        "username": "Adrian Austevoll",
-        "sent_id": "1335224542776733697",
-        "text": "Skal også på scenen for første gang siden september eller noe i morgen, så A) blir bra med litt sosial øvelse idag, og B) jeg gleder meg noe jævlig!",
-        "category": "bokmål",
-        "corrected_category": "",
-        "date_time": "2020-12-05 14:08:32"
-    },
-    "0": {
-        "username": "Erik André Pedersen",
-        "sent_id": "1334901349226569729",
-        "text": "@wegardb @jsimensen Så er det et spørsmål hva @EurosportNorge gjør med @Joacim_Jonsson etter dette. Kan de ha medarbeidere som krenker skottene - og bare ler av det? https://t.co/bY1Hzz2tNQ",
-        "category": "bokmål",
-        "corrected_category": "bokmål",
-        "date_time": "2020-12-04 16:44:17"
-    },
-    "2": {
-        "username": "Mr Gluten 6%",
-        "sent_id": "1336424280658227202",
-        "text": "@NorgeQanon Nei ho ser ikke så gammel ut.... men om ho har \"logget\" på sprit som æ har gjort i 30 år så holder man sæ bra 😉🤣",
-        "category": "dialectal",
-        "corrected_category": "",
-        "date_time": "2020-12-08 21:35:52"
-    },
     "6": {
-        "username": "Queen Emørkje VII",
+        "date_time": "2020-12-04 13:02:22",
         "sent_id": "1334845503792668672",
+        "corrected_category": "NONE",
+        "username": "Queen Emørkje VII",
         "text": "@brh0203 @rorevin Ho er alltid tøsen uansett anledning. Folk som spiser kuker i Mosvik er definitivt tøs.",
-        "category": "bokmål",
-        "corrected_category": "",
-        "date_time": "2020-12-04 13:02:22"
-    },
-    "9": {
-        "username": "Natteramn",
-        "sent_id": "1336340949350240256",
-        "text": "@kjemiSarah Berg er betre\n\n@kjemiSarah presenterte funn og analyse av prøvene ho har henta ut av fjellet",
-        "category": "nynorsk",
-        "corrected_category": "",
-        "date_time": "2020-12-08 16:04:44"
-    },
-    "1": {
-        "username": "Mr Gluten 6%",
-        "sent_id": "1335169394461249538",
-        "text": "@lykkebodenvest @leifwelhaven Helt enig! Hele opplegget mot Johaug og den leppe greia va helt sykt! Hadde ingen påv… https://t.co/aQPvVeyQFH",
-        "category": "dialectal",
-        "corrected_category": "dialectal",
-        "date_time": "2020-12-05 10:29:24"
-    },
-    "5": {
-        "username": "Halvblods-prinken",
-        "sent_id": "1333139296711217155",
-        "text": "synes det er så koselig at ene romkameraten går rundt og synger hele tida. aner ikke om ho vet at jeg hører det, tør ikke fortelle henne i tilfelle ho blir flau og slutter med det",
-        "category": "nynorsk",
-        "corrected_category": "",
-        "date_time": "2020-11-29 20:02:31"
-    },
-    "8": {
-        "username": "silje🦕",
-        "sent_id": "1335944902656598019",
-        "text": "@nobutheyonyou ehhh, eg går i 10. viss d var d du meinte😅 ho e eigentleg 4 år eldre, men siden mine mattekunnskaper e dei beste, skreiv eg 3 hahahha",
-        "category": "dialectal",
-        "corrected_category": "",
-        "date_time": "2020-12-07 13:51:00"
+        "category": "bokmål"
     },
     "10": {
-        "username": "suvlig",
+        "date_time": "2020-12-06 09:13:33",
         "sent_id": "1335512694158454784",
+        "corrected_category": "NONE",
+        "username": "suvlig",
         "text": "I kassa:\nEg: — Går det mykje pultost?\nEkspeditør: — Nei, jeg tror du er den eneste under 50 jeg har sett kjøpe det.\nEg: — Ja, i dag var det tenåringen heime som ba meg kjøpa det.\nEksp: — What? Jeg trodde det smakte høgg?\nEg: — Nja, visstnok byggjer det karakter.\nEksp: — Wow!",
-        "category": "mixed",
-        "corrected_category": "",
-        "date_time": "2020-12-06 09:13:33"
+        "category": "mixed"
+    },
+    "9": {
+        "date_time": "2020-12-08 16:04:44",
+        "sent_id": "1336340949350240256",
+        "corrected_category": "NONE",
+        "username": "Natteramn",
+        "text": "@kjemiSarah Berg er betre\n\n@kjemiSarah presenterte funn og analyse av prøvene ho har henta ut av fjellet",
+        "category": "nynorsk"
     },
     "3": {
-        "username": "Kristian Weibye",
+        "date_time": "2020-11-30 14:56:30",
         "sent_id": "1333424672986320896",
+        "corrected_category": "NONE",
+        "username": "Kristian Weibye",
         "text": "@LeneEEide Det er alltid bandtvang om du ikkje har kontroll på hunden din:\nLov om hundehald §4\nHunder kan være løse bare når de\na)blir fulgt og kontrollert på aktsom måte,\neller\nb)er forsvarlig inngjerdet på et sted som ikke er åpent for allmenn ferdsel.",
-        "category": "mixed",
-        "corrected_category": "",
-        "date_time": "2020-11-30 14:56:30"
+        "category": "mixed"
+    },
+    "8": {
+        "date_time": "2020-12-07 13:51:00",
+        "sent_id": "1335944902656598019",
+        "corrected_category": "NONE",
+        "username": "silje🦕",
+        "text": "@nobutheyonyou ehhh, eg går i 10. viss d var d du meinte ho e eigentleg 4 år eldre, men siden mine mattekunnskaper e dei beste, skreiv eg 3 hahahha",
+        "category": "dialectal"
+    },
+    "0": {
+        "date_time": "2020-12-04 16:44:17",
+        "sent_id": "1334901349226569729",
+        "corrected_category": "NONE",
+        "username": "Erik André Pedersen",
+        "text": "@wegardb @jsimensen Så er det et spørsmål hva @EurosportNorge gjør med @Joacim_Jonsson etter dette. Kan de ha medarbeidere som krenker skottene - og bare ler av det? https://t.co/bY1Hzz2tNQ",
+        "category": "bokmål"
+    },
+    "7": {
+        "date_time": "2020-12-05 14:08:32",
+        "sent_id": "1335224542776733697",
+        "corrected_category": "NONE",
+        "username": "Adrian Austevoll",
+        "text": "Skal også på scenen for første gang siden september eller noe i morgen, så A) blir bra med litt sosial øvelse idag, og B) jeg gleder meg noe jævlig!",
+        "category": "bokmål"
+    },
+    "1": {
+        "date_time": "2020-12-05 10:29:24",
+        "sent_id": "1335169394461249538",
+        "corrected_category": "NONE",
+        "username": "Mr Gluten 6%",
+        "text": "@lykkebodenvest @leifwelhaven Helt enig! Hele opplegget mot Johaug og den leppe greia va helt sykt! Hadde ingen påv… https://t.co/aQPvVeyQFH",
+        "category": "dialectal"
+    },
+    "2": {
+        "date_time": "2020-12-08 21:35:52",
+        "sent_id": "1336424280658227202",
+        "corrected_category": "NONE",
+        "username": "Mr Gluten 6%",
+        "text": "@NorgeQanon Nei ho ser ikke så gammel ut.... men om ho har \"logget\" på sprit som æ har gjort i 30 år så holder man sæ bra ",
+        "category": "dialectal"
+    },
+    "5": {
+        "date_time": "2020-11-29 20:02:31",
+        "sent_id": "1333139296711217155",
+        "corrected_category": "NONE",
+        "username": "Halvblods-prinken",
+        "text": "synes det er så koselig at ene romkameraten går rundt og synger hele tida. aner ikke om ho vet at jeg hører det, tør ikke fortelle henne i tilfelle ho blir flau og slutter med det",
+        "category": "nynorsk"
+    },
+    "4": {
+        "date_time": "2020-12-03 20:20:24",
+        "sent_id": "1334593349546881026",
+        "corrected_category": "NONE",
+        "username": "Rebecca Superanonym💀",
+        "text": "@sukkerslott Sidan dei ho blir avhengig av er dei dei delte rundhanda ut på barneheimar så trur eg at det er chlordiazepoxide/Librium.",
+        "category": "nynorsk"
     }
 }

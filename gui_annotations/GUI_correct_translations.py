@@ -1,13 +1,46 @@
 from tkinter import Tk, Label, Button, Entry, IntVar, END, W, E
 import json
+import re
 
 number = -1
+all_k = []
+
+def deEmojify(text):
+    regrex_pattern = re.compile(pattern = "["
+        u"\U0001F600-\U0001F64F"  # emoticons
+        u"\U0001F300-\U0001F5FF"  # symbols & pictographs
+        u"\U0001F680-\U0001F6FF"  # transport & map symbols
+        u"\U0001F1E0-\U0001F1FF"  # flags (iOS)
+        u"\U00002500-\U00002BEF"  # chinese char
+        u"\U00002702-\U000027B0"
+        u"\U00002702-\U000027B0"
+        u"\U000024C2-\U0001F251"
+        u"\U0001f926-\U0001f937"
+        u"\U00010000-\U0010ffff"
+        u"\u2640-\u2642"
+        u"\u2600-\u2B55"
+        u"\u200d"
+        u"\u23cf"
+        u"\u23e9"
+        u"\u231a"
+        u"\ufe0f"  # dingbats
+        u"\u3030"
+                           "]+", flags = re.UNICODE)
+    return regrex_pattern.sub(r'',text)
+
 
 def getSentences():
     with open('api_annot_test.json', 'r') as infile:
         sent_dict = json.load(infile)
-    return(sent_dict)
-
+        non_annotated = {}
+        for k in sent_dict.keys():
+            if sent_dict[k]['corrected_category'] == "NONE":
+                global all_k
+                all_k.append(k)
+                non_annotated[k] = sent_dict[k]
+                non_annotated[k]["text"] = deEmojify(non_annotated[k]["text"])
+    print(non_annotated)
+    return(non_annotated)
 
 class Checktrans:
 
@@ -40,6 +73,8 @@ class Checktrans:
         self.added = Label(master, text='')
         self.added.grid(column=9, row=4)
         print(number)
+        self.next_button = Button(master, text="Correct", fg='green', command=lambda: self.update("correct"))
+        self.next_button.grid(column=4, row=2)
         self.next_button = Button(master, text="Next", command=lambda: self.callNext(number))
         self.next_button.grid(column=12, row=8)
         self.corrected_label = Label(master, text="Corrected to ", fg='green')
@@ -72,9 +107,10 @@ class Checktrans:
 
         self.previous_button["state"] = "normal"
         self.next_button["state"] = "normal"
-        if number <= len(self.annotations_list)-1 and not number < 0:
-            self.annotations = self.annotations_list[str(number)]["text"]
-            self.original = self.annotations_list[str(number)]["category"]
+        global all_k
+        if number <= len(all_k)-1 and not number < 0:
+            self.annotations = self.annotations_list[all_k[number]]["text"]
+            self.original = self.annotations_list[all_k[number]]["category"]
             self.annotations_results.configure(text=self.original+'\n--------------\n\n\n'+self.annotations, font=("Times New Roman", 14, "bold"))
         elif number < 0:
             self.annotations_results.configure(text='Reached the start of the list')
@@ -96,13 +132,20 @@ class Checktrans:
 
     def update(self, method):
         if method == "wrong":
-            global number
-            self.annotations_list[str(number)]["corrected_category"] = self.entered_word
-            self.corrected.configure(text=self.annotations_list[str(number)]["category"]+'  ->  '+self.annotations_list[str(number)]["corrected_category"])
+            global number, all_k
+            self.annotations_list[all_k[number]]["corrected_category"] = self.entered_word
+            self.corrected.configure(text=self.annotations_list[all_k[number]]["category"]+'  ->  '+self.annotations_list[all_k[number]]["corrected_category"])
+
+        elif method == "correct":
+            self.annotations_list[all_k[number]]["corrected_category"] = ""
 
         elif method == "finished":
+            with open('api_annot_test.json') as originalfile:
+                original = json.load(originalfile)
+            original.update(self.annotations_list)
+
             with open('api_annot_test.json', 'w') as correctedout:
-                json.dump(self.annotations_list, correctedout, indent=4, ensure_ascii=False)
+                json.dump(original, correctedout, indent=4, ensure_ascii=False)
             self.finished_label.configure(text="Congrats! You are done for today :)")
 
 
