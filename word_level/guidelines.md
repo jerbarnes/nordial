@@ -74,8 +74,13 @@ This label is used for words that are part of the written languages norms, but w
 #### h_v
 A notable difference between Bokmål and Nynorsk is that Nynorsk has "kv" where bokmål has "hv" in many cases. In some dialects, the "v" is lost, giving only "k" or "h", as in *hårr* "hvor" or *ka* "hva"  This is marked with the "h_v" label.
 
-#### declension
-The *declension* label is used for cases where a noun takes a non-standard declensional ending.
+#### adjectival_declension
+
+The *adjectival_declension* is used for cases when an adjective takes a non-standard ending. A quite common example of this is the use of the ending "-e" in non definite or non-plural environments.  
+
+
+#### nominal_declension
+The *nominal_declension* label is used for cases where a noun takes a non-standard declensional ending.
 
 #### conjugation
 The *conjugation* label is used for cases where a verb takes a non-standard conjugational ending, such as *skrivi* for "skrive".
@@ -85,8 +90,6 @@ Many functional words are spelled radically differently, and it is difficult to 
 
 #### fonemic_spelling
 In cases where there is no clear dialectal variation, but it is clear that the speaker want to indicate that they are writing a more oral form, the label *fonemic spelling* is used. This is mostly for cases where a pronounciation is very close to the perceived norm of some standard, like "næi" for "nei" (no). 
-
-
 
 
 
