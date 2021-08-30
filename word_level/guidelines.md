@@ -27,8 +27,7 @@ One of the most common dialectal markers in a sentence is a pronoun. Some senten
 
 #### copula
 
-The copula være/vera/vere is a common dialectal indicator. It is marked with the label *copula*. 
-Different varitities of "være".
+The copula være/vera/vere is a common dialectal indicator. It is marked with the label *copula*. We only mark dialectally interesting, non-standard versions of the copula, such as "e" and "værra", etc.
 
 &ensp;&ensp;&ensp;&ensp;\[...\] at de **e**(copula) rare så klare de ikkje å forstå at de faktisk **e**(copula) rare og bare starta å shittalka tebake'
 
@@ -45,7 +44,7 @@ Usually indicated by additions of j or i.
 
 &ensp;&ensp;&ensp;&ensp;Æ e nok **forbainna** på denne forfølginga av folk på NAV
 
-#### r-deletion
+#### present_marker_deletion
 In some dialects the final -r that marks the present tense for many verbs in the present tense in both bokmål and nynorsk is dropped. Most verbs have this -r in the written norms, but there are some notable exceptions for j-verbs in nynorsk: Velja -> vel. We also use this label to indicate the dropping of -l in present tense verb forms such as skal -> ska and vil -> vi. 
 
 #### apocope
@@ -59,6 +58,7 @@ A multitude of vowel changes occur throughout the Norwegian dialectal landscape.
 
 #### lexical
 The *lexical* label is used when the lemma of a word is notably marked or non-standard (not found in the official dictionaries). Loanwords are not affected by this; the word has to be a dialectal or local version of a standard word that could have been used instead. An example is the word *tue* instead of *klut* ( 
+
 #### dem_pro
 In some dialects it is common to use third person pronouns as determiners in combination with proper names. These can be full forms as in "ho Kari" or "han Olav" or reduced as in "a Kari" or "n Olav". 
 
@@ -74,8 +74,13 @@ This label is used for words that are part of the written languages norms, but w
 #### h_v
 A notable difference between Bokmål and Nynorsk is that Nynorsk has "kv" where bokmål has "hv" in many cases. In some dialects, the "v" is lost, giving only "k" or "h", as in *hårr* "hvor" or *ka* "hva"  This is marked with the "h_v" label.
 
-#### declension
-The *declension* label is used for cases where a noun takes a non-standard declensional ending.
+#### adjectival_declension
+
+The *adjectival_declension* is used for cases when an adjective takes a non-standard ending. A quite common example of this is the use of the ending "-e" in non definite or non-plural environments.  
+
+
+#### nominal_declension
+The *nominal_declension* label is used for cases where a noun takes a non-standard declensional ending.
 
 #### conjugation
 The *conjugation* label is used for cases where a verb takes a non-standard conjugational ending, such as *skrivi* for "skrive".
@@ -85,8 +90,6 @@ Many functional words are spelled radically differently, and it is difficult to 
 
 #### fonemic_spelling
 In cases where there is no clear dialectal variation, but it is clear that the speaker want to indicate that they are writing a more oral form, the label *fonemic spelling* is used. This is mostly for cases where a pronounciation is very close to the perceived norm of some standard, like "næi" for "nei" (no). 
-
-
 
 
 
@@ -100,7 +103,7 @@ Example:
 }
 
 
-
+Summarize all sentences here with full annotations.
 
 
 
