@@ -14,7 +14,11 @@ We have created a folder for each of you, containing everything you need to anno
 
 ## Annotation tool
 
-To use the annotation tool, please clone the content of the repository, and then launch *gui_sentence_annotations_2.0.py* from the command line.
+To use the annotation tool, please clone the content of the repository, and then from the command line launch *gui_sentence_annotations_2.0.py* followed by the name (path) of the file you are going to annotate. For example:
+
+```
+python3 gui_sentence_annotations_2.0.py test.json
+```
 
 The interface of the annotation tool is quite simple. When you launch it, it shows nothing except a set of buttons. To start with, you have the two buttons **Previous** and **Next** that will help you navigate from one sentence to another.
 
