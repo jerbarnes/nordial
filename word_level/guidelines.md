@@ -2,7 +2,7 @@
 
 These are the guidelines for the word-based part of the NorDial annotation project. We aim to mark interesting tokens and sub-tokens in tweets, based on an earlier, sentence-based round of annotation. Sentences that were classified as "dialectal", as opposed to "bokmål" or "nynorsk", will then be subject to this word-level annotation.
 
-One thing to note is that in some cases where there is some subjective judgement involved, we want to focus on the *dialectal* impact a word has. Annotating variation in this way is difficult, and some times there are no clear lines between dialect and non-dialect.
+One thing to note is that in some cases where there is some subjective judgment involved, we want to focus on the *dialectal* impact a word has. Annotating variation in this way is difficult, and some times there are no clear lines between dialect and non-dialect.
 
 Note that our definitions of bokmål and nynorsk are quite strict. They are defined through the two official dictionaries "bokmålsordboka" and "nynorskordboka". Any inflection, conjugation or lemma that is not present there is seen as dialectal. This includes riksmål-like formulations. However, this does not mean that nothing within these norms contribute to our understanding of a writer's dialect. In cases where there are several choices of form, some of these might be more marked than others. See the label *marked* below for more information.
 
@@ -21,7 +21,7 @@ The task is to assign the following label to words which do not conform to the n
 
 #### pron-subj and pron-obj
 
-One of the most common dialectal markers in a sentence is a pronoun. Some sentences in our data have no markers exept a single pronoun, and they are therefore important for our understanding of how dialects are marked. One thing that is important when it comes to pronouns, is their syntactic function in a sentence. We therefore wish to label the subject function and object (or oblique) function separately. We do not have separete markers for the dative. 
+One of the most common dialectal markers in a sentence is a pronoun. Some sentences in our data have no markers except a single pronoun, and they are therefore important for our understanding of how dialects are marked. One thing that is important when it comes to pronouns, is their syntactic function in a sentence. We therefore wish to label the subject function and object (or oblique) function separately. We do not have separate markers for the dative. 
 
 &ensp;&ensp;&ensp;&ensp;\[...\] og **dem**(pron-obj) blir aldrig ferdige \[...\] 
 
@@ -33,7 +33,7 @@ The copula være/vera/vere is a common dialectal indicator. It is marked with th
 
 
 #### contraction
-Contractions, especially with the negation adverb "ikke/ikkje" in its many forms. The verb and the adverb are labelled separately, but both are labelled with the "contraction" label. Contractions can occur with most auxiliary verbs together with ikke/ikkje, but we also count enclitic pronouns as contractions.
+Contractions, especially with the negation adverb "ikke/ikkje" in its many forms. The verb and the adverb are labeled separately, but both are labeled with the "contraction" label. Contractions can occur with most auxiliary verbs together with ikke/ikkje, but we also count enclitic pronouns as contractions.
 
 &ensp;&ensp;&ensp;&ensp;\[...\]**E|KKE** JEG SOM VILLE HA HU \[...\]
 
@@ -66,7 +66,7 @@ In some dialects it is common to use third person pronouns as determiners in com
 In some dialects writers indicate a change of accent to the first syllable, with accompanying vowel reduction and consonant lengthening, by writing a double consonant after the first syllable if there is originally only one, as in "pottet" instead of "potet". This is indicated by the *shortening* label.
 
 #### gender
-There is much variation when it comes to the grammatical gender of nouns in Norwegian. Nynorsk is more rigid, and allows variation only in cases where there is traditional variation between different genders. However, in Bokmål, the feminine gender is optional. However, there is a hierarchy. The least common remnant of the feminine gender is the indefinite article "ei". Keeping the feminine definite form -a is more common, but there is also a clear tendency to see certain high-frequency words as feminine. Examples are words like "jente". "ei jente" is slightly marked towards favouring the feminine form, while "jenten" is strongly marked towards a dialect with no feminine gender. Other words such as "sky" might fall in-between. The label "gender" is used when the choice of a feminine or masculine ending is clearly dialectally marked, as in "jenten".
+There is much variation when it comes to the grammatical gender of nouns in Norwegian. Nynorsk is more rigid, and allows variation only in cases where there is traditional variation between different genders. However, in Bokmål, the feminine gender is optional. However, there is a hierarchy. The least common remnant of the feminine gender is the indefinite article "ei". Keeping the feminine definite form -a is more common, but there is also a clear tendency to see certain high-frequency words as feminine. Examples are words like "jente". "ei jente" is slightly marked towards favoring the feminine form, while "jenten" is strongly marked towards a dialect with no feminine gender. Other words such as "sky" might fall in-between. The label "gender" is used when the choice of a feminine or masculine ending is clearly dialectally marked, as in "jenten".
 
 #### marked
 This label is used for words that are part of the written languages norms, but which are still rarely used, and therefore slightly dialectally or stylistically marked. An example is the question word *åssen* "how", which is accepted in Bokmål, but still infrequent, and somewhat marked compared to "hvordan". 
@@ -83,13 +83,13 @@ The *adjectival_declension* is used for cases when an adjective takes a non-stan
 The *nominal_declension* label is used for cases where a noun takes a non-standard declensional ending.
 
 #### conjugation
-The *conjugation* label is used for cases where a verb takes a non-standard conjugational ending, such as *skrivi* for "skrive".
+The *conjugation* label is used for cases where a verb takes a non-standard conjugation ending, such as *skrivi* for "skrive".
 #### functional
 
 Many functional words are spelled radically differently, and it is difficult to pinpoint all the different processes that are going on. All functional words whose spellings are not in accordance with the written norms are tagged with the label *functional*. This includes all question words, determiners, prepositions and certain adverbs.
 
 #### fonemic_spelling
-In cases where there is no clear dialectal variation, but it is clear that the speaker want to indicate that they are writing a more oral form, the label *fonemic spelling* is used. This is mostly for cases where a pronounciation is very close to the perceived norm of some standard, like "næi" for "nei" (no). 
+In cases where there is no clear dialectal variation, but it is clear that the speaker want to indicate that they are writing a more oral form, the label *fonemic spelling* is used. This is mostly for cases where a pronunciation is very close to the perceived norm of some standard, like "næi" for "nei" (no). 
 
 
 
