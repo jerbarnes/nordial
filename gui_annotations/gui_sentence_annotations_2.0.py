@@ -1,9 +1,12 @@
 from tkinter import Tk, Label, Button, Entry, IntVar, END, W, E
 import json
 import re
+import sys
+
 
 number = -1
 all_k = []
+infile = sys.argv[1]
 
 def deEmojify(text):
     regrex_pattern = re.compile(pattern = "["
@@ -29,8 +32,9 @@ def deEmojify(text):
     return regrex_pattern.sub(r'',text)
 
 
-def getSentences():
-    with open('api_annot_test.json', 'r') as infile:
+def getSentences(infile):
+    with open(infile, 'r') as infile:
+    # with open('api_annot_test.json', 'r') as infile:
         sent_dict = json.load(infile)
         non_annotated = {}
         for k in sent_dict.keys():
@@ -51,7 +55,8 @@ class Checktrans:
         master.columnconfigure(2,weight=1)
         master.grid_propagate(0)
 
-        self.annotations_list = getSentences()
+        global infile
+        self.annotations_list = getSentences(infile)
 
         # Labels
         self.annotations_results = Label(master, text=' ', wraplength=1000)
@@ -174,11 +179,14 @@ class Checktrans:
             self.corrected.configure(text=self.annotations_list[all_k[number]]["category"]+'  ->  '+self.annotations_list[all_k[number]]["corrected_category"])
 
         elif method == "finished":
-            with open('api_annot_test.json') as originalfile:
+            global infile
+            with open(infile) as originalfile:
+            # with open('api_annot_test.json') as originalfile:
                 original = json.load(originalfile)
             original.update(self.annotations_list)
 
-            with open('api_annot_test.json', 'w') as correctedout:
+            with open(infile, 'w') as correctedout:
+            # with open('api_annot_test.json', 'w') as correctedout:
                 json.dump(original, correctedout, indent=4, ensure_ascii=False)
             self.finished_label.configure(text="Congrats! You are done for today :)")
 
