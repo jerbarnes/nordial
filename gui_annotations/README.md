@@ -33,7 +33,7 @@ Sentence to annotate
 ```
 
 
-The *category* represents our four classes: *Bokmål*, *Nynorsk*, *Dialectal*, and *Mix* (a mix of words that can be of any other category). If you agree with the category assigned to the sentence, click on the **Correct** button. If you believe that the category is wrong, please provide the right answer by clicking on the button corresponding to the correct category, *i.e.* **Bokmål**, **Nynorsk**, **Dialectal**, or **Mixed**.
+The *category* represents our four classes: *Bokmål*, *Nynorsk*, *Dialectal*, and *Mixed* (a mix of words that can be of any other category). If you agree with the category assigned to the sentence, click on the **Correct** button. If you believe that the category is wrong, please provide the right answer by clicking on the button corresponding to the correct category, *i.e.* **Bokmål**, **Nynorsk**, **Dialectal**, or **Mixed**.
 When you are done annotating for the day, click **Finish!**.
 
 Some **very** important points to remember:
