@@ -1,482 +1,482 @@
 {
-    "1": {
-        "date_time": "2021-08-29 10:35:38",
-        "sent_id": "1431928522512244738",
-        "username": "2830_Raufoss",
-        "text": "@AmundIL Hørt folk hviske *Maigaard*, men regner med at vi helst henter en sjenert 12-åring fra Ytre Enebakk. Ikke at det er noe som helst galt med sjenerte 12-åringer fra Ytre Enebakk.",
+    "2238": {
+        "corrected_category": "NONE",
+        "text": "At pattynama ikkje sette den itte et glitrane innlegg fra vevatne e heilt krise",
+        "username": "LemonLenny",
         "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "2": {
-        "date_time": "2021-08-28 14:53:42",
-        "sent_id": "1431631078847098880",
-        "username": "2830_Raufoss",
-        "text": "Tapar vel VÆLDI' fortjent i dag (å). Nå forventes det spellere inn, for nå ær det tidvis kleint.",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "3": {
-        "date_time": "2021-08-28 14:27:17",
-        "sent_id": "1431624433748283392",
-        "username": "2830_Raufoss",
-        "text": "20 min mæ 10 mænn å uten båll (den har Aalesund lagt beslag på).",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "4": {
-        "date_time": "2021-08-28 14:24:44",
-        "sent_id": "1431623791948468228",
-        "username": "2830_Raufoss",
-        "text": "Rødt på Dadjo. Ingen formeining om dæ, men detti ær litt røti.",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "5": {
-        "date_time": "2021-08-28 14:20:23",
-        "sent_id": "1431622697419739139",
-        "username": "2830_Raufoss",
-        "text": "4-2. Jækla usikkert og passivt baki dær. Mtp situasjon så bør det komma inn 3-4 spellere om KORT ti'",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "6": {
-        "date_time": "2021-08-28 14:19:09",
-        "sent_id": "1431622384809922562",
-        "username": "2830_Raufoss",
-        "text": "Haitte fått sett no før nå, datter1 har tuppet,  men i dæ je slår på så putter fadærn Helmersen. 3-2. Virker itte som om je gikk glipp ta no i dom første 45.",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "7": {
-        "date_time": "2021-08-19 19:07:22",
-        "sent_id": "1428433425443311631",
-        "username": "2830_Raufoss",
-        "text": "Tenkj at Pentagon slapp UFO-rapport før non fant ut henn n @marius_alm skar å åkken @Raufoss_Fotball vurderer å hente. Tight ship, fårn si.",
-        "category": "mixed",
-        "corrected_category": "NONE"
-    },
-    "8": {
-        "date_time": "2021-08-10 10:32:45",
-        "sent_id": "1425042426834657283",
-        "username": "2830_Raufoss",
-        "text": "@AmundNyland @espenode Du skal muligens ha dattera mi. Vurderte bekymringsmelding, men kom på at jeg sender unga mine utpå banen med ei kule på brystet. Innså at også Hamkam-supportere har en plass i nærmiljøet. Lykke til! Masse bra folk på VTU.",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "9": {
-        "date_time": "2021-08-05 13:15:42",
-        "sent_id": "1423271497020358657",
-        "username": "2830_Raufoss",
-        "text": "WOHOOOoooo.... så ufattelig døll trekning. Skulle møttes i semin. https://t.co/52EHQMX0dV",
-        "category": "mixed",
-        "corrected_category": "NONE"
-    },
-    "10": {
-        "date_time": "2021-08-02 11:01:29",
-        "sent_id": "1422150555317776385",
-        "username": "2830_Raufoss",
-        "text": "Vælas bæste brudepar! Flott bryllup! Flott artikkel! Fantastiske damer! Les om du kan. https://t.co/Jl9aiWAJeH",
-        "category": "bokmål",
-        "corrected_category": "NONE"
-    },
-    "11": {
-        "date_time": "2021-08-01 13:19:07",
-        "sent_id": "1421822803662233607",
-        "username": "2830_Raufoss",
-        "text": "Werni fikser 1-2. Nå ær ælt som det skar vara.",
-        "category": "mixed",
-        "corrected_category": "NONE"
-    },
-    "12": {
-        "date_time": "2021-08-01 13:02:32",
-        "sent_id": "1421818629713244165",
-        "username": "2830_Raufoss",
-        "text": "Snakk om å væra \"på\". Baklengs etter 17 sek.... Mot Eidsvold Turn. Sterkt",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "13": {
-        "date_time": "2021-07-25 15:46:55",
-        "sent_id": "1419323284714409984",
-        "username": "2830_Raufoss",
-        "text": "@torgeirhyl Bære dæ som mangler. Kjæm i 90', tenker je.",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "14": {
-        "date_time": "2021-07-25 15:44:10",
-        "sent_id": "1419322591433695235",
-        "username": "2830_Raufoss",
-        "text": "Som å se Serie A, detti. Ælle rusler rundt å titter i graset. Eine laget leder 1-0 å ælle virker å være fornøgd mæ dæ. Det bæste laget skapar non halvsjanser, men lar væra å skåre, for, som nævnt, ælle syns det ær grett at det ær 1-0.",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "15": {
-        "date_time": "2021-07-25 15:35:07",
-        "sent_id": "1419320316015398912",
-        "username": "2830_Raufoss",
-        "text": "Ær sånn...upresist, detti. Nybergsund æitte goe, men gutta våres yt 63,57%.",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "16": {
-        "date_time": "2021-07-21 17:54:14",
-        "sent_id": "1417905774538407939",
-        "username": "2830_Raufoss",
-        "text": "Elendig dømming ær forskjell på påeng å itte i dag. Skarn dømme straffe der Sogndal får, så skar Ndiaye ha å. Å, dænna jækla drøyinga ta ti', den fører itte tæll no som hælst?",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "17": {
-        "date_time": "2021-07-21 17:51:26",
-        "sent_id": "1417905070230888448",
-        "username": "2830_Raufoss",
-        "text": "Det ær vanskelig å itte føle at laga som ær større enn øss gjenne får straffe ørlitt lettere enn øss. \"Ørlitt\".",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "18": {
-        "date_time": "2021-07-21 17:48:44",
-        "sent_id": "1417904388312600582",
-        "username": "2830_Raufoss",
-        "text": "Ndiaye dyttes overende gong på gong. Itno da. Itte skar det væra no hæll. Itte når Sogndal-spellera er potetsækker hæll.",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "19": {
-        "date_time": "2021-07-21 17:45:31",
-        "sent_id": "1417903580586070018",
-        "username": "2830_Raufoss",
-        "text": "Bære ett lag utpå hær. Utenom når vi mister båll. Da er det to lag non sekkun'.",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "20": {
-        "date_time": "2021-07-21 17:31:49",
-        "sent_id": "1417900132566188033",
-        "username": "2830_Raufoss",
-        "text": "Fader itte værdt at en eneste Sogndal-kjæft åpner seg når vi får frispark.",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "21": {
-        "date_time": "2021-07-21 17:28:27",
-        "sent_id": "1417899286751334409",
-        "username": "2830_Raufoss",
-        "text": "Tæll gjengjeld er det jo dæ Hoven har vøri bæst på i dag; å dætta.",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "22": {
-        "date_time": "2021-07-21 17:10:05",
-        "sent_id": "1417894664649195525",
-        "username": "2830_Raufoss",
-        "text": "Hænn somn sendte i pølsebua kom at mæ to pølser å en vaffel. https://t.co/8enRdHjXHE",
-        "category": "dialectal",
-        "corrected_category": "NONE"
+        "date_time": "2021-08-15 17:48:43",
+        "sent_id": "1426964083132227586"
     },
     "23": {
-        "date_time": "2021-07-21 16:25:10",
-        "sent_id": "1417883358365880324",
-        "username": "2830_Raufoss",
+        "corrected_category": "NONE",
         "text": "Sku ITTE ha skrivi dæ. Sogndal skårer. Litt unødvendig. https://t.co/IzQKl9iqeb",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "24": {
-        "date_time": "2021-07-21 16:23:58",
-        "sent_id": "1417883057596551173",
         "username": "2830_Raufoss",
-        "text": "Ær nesten rart å se åssen det røddes bakover når vi ær heme sammenligna mæ borte.",
         "category": "dialectal",
-        "corrected_category": "NONE"
+        "date_time": "2021-07-21 16:25:10",
+        "sent_id": "1417883358365880324"
     },
-    "25": {
-        "date_time": "2021-07-17 15:03:08",
-        "sent_id": "1416413164510584832",
-        "username": "2830_Raufoss",
-        "text": "@GSPbanditt Dæ ær notert! Vi lik å ta påeng borte. Grattis mæ (ænda en) seier!",
+    "5698": {
+        "corrected_category": "NONE",
+        "text": "Hvordan kan vi rekruttere studenter nasjonalt og internasjonalt til @UiTNorgesarktis spør @TromsoJonas. Åpenbart et spørsmål det nye styret må arbeide med, også! https://t.co/Xnq73ZsXsB",
+        "username": "Dag Rune Olsen",
+        "category": "bokmål",
+        "date_time": "2021-06-16 13:20:17",
+        "sent_id": "1405153256620408832"
+    },
+    "6681": {
+        "corrected_category": "NONE",
+        "text": "Det var sånn 3p smakte, ja! ⚽️⚽️⚽️ Takk for kampen @AsaneFotball 🤝 Ikke tilfeldig at det blir seier med @SIFGreyhounds tilbake!  @obosligaen",
+        "username": "Strømmen IF",
+        "category": "bokmål",
+        "date_time": "2021-06-18 19:21:31",
+        "sent_id": "1405968940698849290"
+    },
+    "181": {
+        "corrected_category": "NONE",
+        "text": "Egentlig en ganske så fin tråd, det er vel det her som er det viktigste for de det gjelder https://t.co/mOlgsBAle2",
+        "username": "sekjusegett",
+        "category": "nynorsk",
+        "date_time": "2021-07-07 15:30:36",
+        "sent_id": "1412796197039972355"
+    },
+    "7951": {
+        "corrected_category": "NONE",
+        "text": "Det finnes forhåpentligvis plass på Fletcher Memorial Home til pampene i @nff_info som logrer for de korrupte og hjerteløse lederne i UEFA og FIFA.\n\nDere ødelegger verdens fineste sport.",
+        "username": "Pascual Strømsnæs",
+        "category": "bokmål",
+        "date_time": "2021-06-20 16:58:21",
+        "sent_id": "1406657687824252932"
+    },
+    "874": {
+        "corrected_category": "NONE",
+        "text": "På 1-0, klarte ikke pappa mer og henta seg en øl. Plutselig stod det 2-0. I pausa fylte jeg på min. Da ble der 3-0. Høres ut som det blir en hard kveld!",
+        "username": "MariaBitteLita",
         "category": "dialectal",
-        "corrected_category": "NONE"
+        "date_time": "2021-07-22 17:23:34",
+        "sent_id": "1418260444926685184"
     },
-    "26": {
-        "date_time": "2021-07-17 14:36:44",
-        "sent_id": "1416406521299210243",
-        "username": "2830_Raufoss",
-        "text": "Ær vel itte tæll å stikke under en stol (hæll to) at Start leder fortjent.",
+    "5258": {
+        "corrected_category": "NONE",
+        "text": "Husk solbeskyttelse ☀️ @ Sørenga https://t.co/loYi5JsjDL",
+        "username": "730.no",
+        "category": "bokmål",
+        "date_time": "2021-06-15 12:08:35",
+        "sent_id": "1404772822979858434"
+    },
+    "2181": {
+        "corrected_category": "NONE",
+        "text": "Ein av to ganger denne sesongen eg satse på @leoskirio har ein rævva kamp https://t.co/cOvzoHEONk",
+        "username": "LemonLenny",
+        "category": "dialectal",
+        "date_time": "2021-08-25 18:34:27",
+        "sent_id": "1430599469905629188"
+    },
+    "8812": {
+        "corrected_category": "NONE",
+        "text": "@elinlestrange @kjellingolf Han kjem ikkje til å slutte med det, men folk kjem til å slutte å stemme på han. Eg trur dette er vegen.",
+        "username": "Sveinung M. Skjesol 🏂 🏳️‍🌈",
+        "category": "nynorsk",
+        "date_time": "2021-08-17 07:27:15",
+        "sent_id": "1427532460703821824"
+    },
+    "2343": {
+        "corrected_category": "NONE",
+        "text": "I just earned the 'Tower of Beer (Level 6)' badge on @untappd! https://t.co/4kxmYUwvDU",
+        "username": "elgenn",
         "category": "mixed",
-        "corrected_category": "NONE"
+        "date_time": "2021-07-06 18:05:04",
+        "sent_id": "1412472681786757126"
     },
-    "27": {
-        "date_time": "2021-07-17 13:47:30",
-        "sent_id": "1416394129874030598",
-        "username": "2830_Raufoss",
-        "text": "Raufoss eig båll. Start mæ dom største sjansa. Hvis dommarn dømmer begge væger kænn det bli påeng hær.",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "28": {
-        "date_time": "2021-07-17 13:45:47",
-        "sent_id": "1416393698586288129",
-        "username": "2830_Raufoss",
-        "text": "Åffer i GRANSKAUEN ær det itte frispark atn Fremstad dær?",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "29": {
-        "date_time": "2021-07-17 13:42:48",
-        "sent_id": "1416392945729744898",
-        "username": "2830_Raufoss",
-        "text": "Mye Raufoss nå. Skaper lite foran mål. Rækker opp kårnere",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "30": {
-        "date_time": "2021-07-17 13:35:01",
-        "sent_id": "1416390988533309452",
-        "username": "2830_Raufoss",
-        "text": "Virker å væra litt lettere å blåse for Start enn for øss. Irriterende når det ær like situasjoner.",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "31": {
-        "date_time": "2021-07-17 13:21:39",
-        "sent_id": "1416387623879385090",
-        "username": "2830_Raufoss",
-        "text": "Spissen at Start er usedvanlig lite direkte og må ha akutt skuddvegring. Start mæ åvertak hær, gitt.",
+    "6145": {
+        "corrected_category": "NONE",
+        "text": "ommøblerer rommet mitt 🥳🥳🥳🥳🥳🥳🥳🥳 kjempe gøy",
+        "username": "Mhartine",
         "category": "bokmål",
-        "corrected_category": "NONE"
+        "date_time": "2021-06-16 22:12:15",
+        "sent_id": "1405287129815523333"
     },
-    "32": {
-        "date_time": "2021-07-12 17:42:13",
-        "sent_id": "1414641260502130689",
-        "username": "2830_Raufoss",
-        "text": "Blir for tamt i dag. Sku nok likavæl ønsle at dommera tok for seg æll drøyinga mæ ti. Ær voldsomt i år.",
+    "1707": {
+        "corrected_category": "NONE",
+        "text": "Æ har møtt veggen. Den heite kjemi 2 og den e 3 lag mur og 8 lag stål og 10 lag vibranium :-)",
+        "username": "EmmaKaspara",
         "category": "dialectal",
-        "corrected_category": "NONE"
+        "date_time": "2021-05-25 19:45:12",
+        "sent_id": "1397277589484548104"
     },
-    "33": {
-        "date_time": "2021-07-12 17:28:42",
-        "sent_id": "1414637858237952009",
-        "username": "2830_Raufoss",
-        "text": "Ndiaye kænn ikke gå i dueller. Blåses av uansett.",
+    "8337": {
+        "corrected_category": "NONE",
+        "text": "@safinadeklerk Etter samme regime har store deler av Vestlandet inkludert Bergen ikke vinter, bare en lang høst",
+        "username": "Helge Prestrud Astad",
+        "category": "bokmål",
+        "date_time": "2021-06-21 06:48:11",
+        "sent_id": "1406866519276064768"
+    },
+    "1217": {
+        "corrected_category": "NONE",
+        "text": "Spennande med ka som skjer me Joe bell..\nSjøl har eg spist nesten to svere pakker me plummer i dag og ennå ikkje vært på dass... Så sånn sett har eg to situasjoner eg følge ekstra med på i dag!",
+        "username": "LemonLenny",
         "category": "dialectal",
-        "corrected_category": "NONE"
+        "date_time": "2021-08-25 17:37:17",
+        "sent_id": "1430585082855690245"
     },
-    "34": {
-        "date_time": "2021-07-12 17:13:25",
-        "sent_id": "1414634010609913858",
-        "username": "2830_Raufoss",
-        "text": "Skar drible tre mænn i forsvar å nå. Å ær detti?",
+    "5912": {
+        "corrected_category": "NONE",
+        "text": "@Froggyking84 @Kennethuteliv Og eg er villig til å vedde mye på at h*n mener eg var ufin",
+        "username": "Odd M",
+        "category": "bokmål",
+        "date_time": "2021-06-16 17:46:24",
+        "sent_id": "1405220229052092419"
+    },
+    "5256": {
+        "corrected_category": "NONE",
+        "text": "Det er vanskelig å berge kjærlighet som har fått tilstrekkelig mange slag",
+        "username": "Anna Ishoel",
+        "category": "bokmål",
+        "date_time": "2021-06-15 12:08:15",
+        "sent_id": "1404772741807542278"
+    },
+    "1438": {
+        "corrected_category": "NONE",
+        "text": "E'n dott va' han då eg tog han, og anna e'n dott verte han inkje om du gollforjyllt' 'an både framme og bag!",
+        "username": "TorvaldTu",
         "category": "dialectal",
-        "corrected_category": "NONE"
+        "date_time": "2012-02-16 08:26:59",
+        "sent_id": "170061597463678976"
     },
-    "35": {
-        "date_time": "2021-07-12 17:12:28",
-        "sent_id": "1414633769844228108",
-        "username": "2830_Raufoss",
-        "text": "Litt usikker på om ælle dom gule veit dom ær på lag.",
+    "2233": {
+        "corrected_category": "NONE",
+        "text": "@LarsRisan @vikingpodden Fiiiine! Jo, eg kan gi lyd når du kan stikka heim👍",
+        "username": "LemonLenny",
         "category": "dialectal",
-        "corrected_category": "NONE"
+        "date_time": "2021-08-15 23:50:28",
+        "sent_id": "1427055120483852290"
     },
-    "36": {
-        "date_time": "2021-07-12 17:07:22",
-        "sent_id": "1414632489545605120",
-        "username": "2830_Raufoss",
-        "text": "Det går lenge mellom hår gong vi har tre trækk i laget. Feilpasninger, ingen på ændrebåll å et aggressivt Fredrikstad bidrar tæll dæ.",
-        "category": "dialectal",
-        "corrected_category": "NONE"
+    "877": {
+        "corrected_category": "NONE",
+        "text": "Det er alltid sterkt når en fotballkamp starter med 1 minutts stillhet. Ekstra sterkt på en dag som dette. #ViGlemmerAldri",
+        "username": "MariaBitteLita",
+        "category": "bokmål",
+        "date_time": "2021-07-22 16:02:43",
+        "sent_id": "1418240098810974209"
     },
-    "37": {
-        "date_time": "2021-07-12 16:45:23",
-        "sent_id": "1414626954746155014",
-        "username": "2830_Raufoss",
-        "text": "Om Fredrikstad putter nå, så ær dæ fortjent. Fryktelig tett ved.",
-        "category": "dialectal",
-        "corrected_category": "NONE"
+    "4917": {
+        "corrected_category": "NONE",
+        "text": "Vipps, så trengte vi en CISO!\nhttps://t.co/OEjYVjIysE\n\nTa kontakt med meg om du er nysgjerrig på jobben og selskapet. 😎",
+        "username": "Per Thorsheim",
+        "category": "bokmål",
+        "date_time": "2021-06-14 20:46:50",
+        "sent_id": "1404540857898917889"
     },
-    "38": {
-        "date_time": "2021-07-12 16:43:44",
-        "sent_id": "1414626542605545474",
-        "username": "2830_Raufoss",
-        "text": "Dåmmera møtes for å legge lista for når Ndiaye skar få frispark hæll?",
-        "category": "dialectal",
-        "corrected_category": "NONE"
+    "3577": {
+        "corrected_category": "NONE",
+        "text": "Må ringe fastlegen. Må fryse medlemskapet på Stamina. Må ringe medinor, må ringe pasientreisekontoret.",
+        "username": "Birgitpirgit",
+        "category": "bokmål",
+        "date_time": "2014-05-24 12:43:51",
+        "sent_id": "470183396208308224"
     },
-    "39": {
-        "date_time": "2021-07-12 16:41:32",
-        "sent_id": "1414625987808186370",
-        "username": "2830_Raufoss",
-        "text": "Mange båller som havner at en mæ kvit drakt.",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "40": {
-        "date_time": "2021-07-12 16:29:06",
-        "sent_id": "1414622859444604937",
-        "username": "2830_Raufoss",
-        "text": "Itte ælle som ær like goe bøddies mæ båll nå som sist.",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "41": {
-        "date_time": "2021-07-12 16:22:39",
-        "sent_id": "1414621235556802564",
-        "username": "2830_Raufoss",
-        "text": "Skar vi væra goe ænnahår kamp i år? Betyr dæ at vi vinn borte neste gong? (Fredrikstad bæst hær nå).",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "42": {
-        "date_time": "2021-07-12 16:13:22",
-        "sent_id": "1414618897450479621",
-        "username": "2830_Raufoss",
-        "text": "@JornMoum Vi får ta dæ ætter kampen. Ær Obos, detti.",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "43": {
-        "date_time": "2021-07-12 16:00:05",
-        "sent_id": "1414615555248693256",
-        "username": "2830_Raufoss",
-        "text": "Raufoss å Fredrikstad har putta 42 mål (tæl sammen) på 10 kamper. Ælt under 4 mål hær blir bære rart.",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "44": {
-        "date_time": "2021-07-05 17:40:38",
-        "sent_id": "1412104143649611779",
-        "username": "2830_Raufoss",
-        "text": "@Raufoss_Fotball Den var grei. Dytten Helmersen fækk i ryggen å fyste var itte dæ.",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "45": {
-        "date_time": "2021-07-05 17:25:46",
-        "sent_id": "1412100405195067397",
-        "username": "2830_Raufoss",
-        "text": "Helmersen har vøri viktig framover i dag. Bytter mæ Werni.",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "46": {
-        "date_time": "2021-07-05 16:47:54",
-        "sent_id": "1412090872825581570",
-        "username": "2830_Raufoss",
-        "text": "Syns vi gjør Spiridonov unødvendig go' nå. Litt greie kænn vi vara, da.",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "47": {
-        "date_time": "2021-07-05 16:45:10",
-        "sent_id": "1412090186985578502",
-        "username": "2830_Raufoss",
-        "text": "Dåmmera lar fålk gjøra å dom bil mæn Ndiaye! Døm, for æffen.",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "48": {
-        "date_time": "2021-07-05 16:43:20",
-        "sent_id": "1412089727084380164",
-        "username": "2830_Raufoss",
-        "text": "Vart det 2-1 i stella. Dabove. Slapt ved innlegg fra kænt.",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "49": {
-        "date_time": "2021-07-05 16:42:17",
-        "sent_id": "1412089461920382979",
-        "username": "2830_Raufoss",
-        "text": "Dytt i ryggen var det, gitt. Sku vøri straffe. https://t.co/LHR2nLuBau",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "50": {
-        "date_time": "2021-07-05 16:41:38",
-        "sent_id": "1412089295859552260",
-        "username": "2830_Raufoss",
-        "text": "Nesten for Helmersen! Bære litt rust i vægen for skåring.",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "51": {
-        "date_time": "2021-07-05 16:40:58",
-        "sent_id": "1412089129781899264",
-        "username": "2830_Raufoss",
-        "text": "Aanesland ær go', men bruker to tøtsj for my.",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "52": {
-        "date_time": "2021-07-05 16:35:18",
-        "sent_id": "1412087704276410368",
-        "username": "2830_Raufoss",
-        "text": "Ndiaye ær nesten bædre i forsvar enn angrep i dag. Bra mænn.",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "53": {
-        "date_time": "2021-07-05 16:16:36",
-        "sent_id": "1412082998590246912",
-        "username": "2830_Raufoss",
-        "text": "Je lik Helmersen. Viser my fint (men mangler fortsatt litt på storformen).",
+    "6592": {
+        "corrected_category": "NONE",
+        "text": "@liftwaffe Det gidder hun ikke. Russisk import. Er nok mye sta russer i henne.",
+        "username": "Einar Cyvin. 😊",
         "category": "mixed",
-        "corrected_category": "NONE"
+        "date_time": "2021-06-18 17:30:18",
+        "sent_id": "1405940948987793409"
     },
-    "54": {
-        "date_time": "2021-07-05 16:13:35",
-        "sent_id": "1412082240415207427",
-        "username": "2830_Raufoss",
-        "text": "Arti' at Dabove endelig får spelle Obos-fotbåll, itte bære rykke opp hele tia.",
+    "1355": {
+        "corrected_category": "NONE",
+        "text": "Jaja,du trega kanskje atta du inkje gjer det au;men det æ det,he du fysst gjort det så sede du i klemmå.Då kan du jeispa,du kjeme ingjen veg",
+        "username": "TorvaldTu",
+        "category": "dialectal",
+        "date_time": "2013-04-16 21:07:02",
+        "sent_id": "324267716854816769"
+    },
+    "4822": {
+        "corrected_category": "NONE",
+        "text": "Spania, verdens mest kjedelige lag?",
+        "username": "Frederik L. Gnatt",
         "category": "mixed",
-        "corrected_category": "NONE"
+        "date_time": "2021-06-14 19:51:32",
+        "sent_id": "1404526940132982791"
     },
-    "55": {
-        "date_time": "2021-07-05 16:12:46",
-        "sent_id": "1412082034030358537",
-        "username": "2830_Raufoss",
-        "text": "Har starta grett, men syns kænskje Bryne ær ørlitt mer på høgget.",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "56": {
-        "date_time": "2021-07-05 16:07:44",
-        "sent_id": "1412080767048503296",
-        "username": "2830_Raufoss",
-        "text": "Itte et vondt ord om Spiridonov, je kjinnærn itte, men hænn høres ut somn ær kompisen at hænn som må sparre mot hænn som skar bokse motn Rocky i Rocky VIII.",
+    "6772": {
+        "corrected_category": "NONE",
+        "text": "@Tor_antifascist Tusen tusen takk",
+        "username": "Magne Bjella",
         "category": "bokmål",
-        "corrected_category": "NONE"
+        "date_time": "2021-06-18 20:41:06",
+        "sent_id": "1405988968424955906"
     },
-    "57": {
-        "date_time": "2021-07-02 17:54:27",
-        "sent_id": "1411020459458674688",
-        "username": "2830_Raufoss",
-        "text": "Svakt forsvarsspell koster påeng i dag å. Ær dom samma feila hår gång (på bortebane).",
-        "category": "dialectal",
-        "corrected_category": "NONE"
+    "2814": {
+        "corrected_category": "NONE",
+        "text": "Fyflate kor ej suge på å huske å gratulere folk på face......",
+        "username": "Amalihaug",
+        "category": "nynorsk",
+        "date_time": "2015-06-25 15:47:39",
+        "sent_id": "614097630839357440"
     },
-    "58": {
-        "date_time": "2021-07-02 17:45:16",
-        "sent_id": "1411018147164004360",
-        "username": "2830_Raufoss",
-        "text": "Herregud.. 3-1. Dødball imot. Vi kjæm nesten bædre ut om vi itte møter tæll bortekamper.",
+    "6317": {
+        "corrected_category": "NONE",
+        "text": "Rampen Ramos til #mufc eit år då for å irritere vettet av alle motstandere? Inkl meg sjøl? Av dei aller verste shithousery-spelarane som finst. Blanding av Pepe og Vinny Jones🤣 https://t.co/r9zceNL1px",
+        "username": "Thomas Sporsheim",
         "category": "bokmål",
-        "corrected_category": "NONE"
+        "date_time": "2021-06-17 09:36:25",
+        "sent_id": "1405459308557504514"
     },
-    "59": {
-        "date_time": "2021-07-02 16:35:51",
-        "sent_id": "1411000678621847558",
-        "username": "2830_Raufoss",
-        "text": "Forhåldsvis sjansefattig, men vi nærmest. Litt åverraska ta å grett Kristen Forening For Unge Menn har gjort det for øss tæll nå.",
-        "category": "dialectal",
-        "corrected_category": "NONE"
-    },
-    "60": {
-        "date_time": "2021-06-26 20:54:42",
-        "sent_id": "1408891491133669378",
-        "username": "2830_Raufoss",
-        "text": "@sigurdnruud Fotballbanter er helt OK. Bring it! Det var ikke der du havnet med akkurat den tweeten. Kred for flatlegging.",
+    "7232": {
+        "corrected_category": "NONE",
+        "text": "#traveltheworld la Oslo, Norway https://t.co/hUbE2BDe0u",
+        "username": "Florela Petculescu",
         "category": "bokmål",
-        "corrected_category": "NONE"
+        "date_time": "2021-06-19 15:50:12",
+        "sent_id": "1406278149881536516"
+    },
+    "4844": {
+        "corrected_category": "NONE",
+        "text": "For sale\nSvenska landslagsskor\nNever used",
+        "username": "pablo pikachu",
+        "category": "bokmål",
+        "date_time": "2021-06-14 20:02:16",
+        "sent_id": "1404529642757840898"
+    },
+    "4197": {
+        "corrected_category": "NONE",
+        "text": "@espebae @Framtida @FinnTokvam @finntot Kva/kven fekk deg på betre tankar? #kremt",
+        "username": "naki_grein",
+        "category": "nynorsk",
+        "date_time": "2012-08-01 20:53:56",
+        "sent_id": "230768348806393856"
+    },
+    "5591": {
+        "corrected_category": "NONE",
+        "text": "@TSkomedal @Bulle44 @realRogerCh Det er alltid et svarteperspill når en sjefdirigent skal slutte. Jeg tror vi var lei alle sammen, det var nok gjensidig.",
+        "username": "Sigurd",
+        "category": "bokmål",
+        "date_time": "2021-06-15 19:24:05",
+        "sent_id": "1404882422517411843"
+    },
+    "4646": {
+        "corrected_category": "NONE",
+        "text": "@Seanrosk @arnsteinfriling Til å forstå at Arnstein kobla den på Bærum-gjengen 😏",
+        "username": "Jonas Bergh-Johnsen",
+        "category": "nynorsk",
+        "date_time": "2021-06-14 17:23:42",
+        "sent_id": "1404489739554725889"
+    },
+    "2105": {
+        "corrected_category": "NONE",
+        "text": "@EiriSand @GHvring @2sporten Mer interessert i hva du sa til han? 😊",
+        "username": "magnar22",
+        "category": "dialectal",
+        "date_time": "2021-03-24 09:21:17",
+        "sent_id": "1374652530370748416"
+    },
+    "8190": {
+        "corrected_category": "NONE",
+        "text": "@olemd @safinadeklerk Og vannkopper på Haukeland. Typisk akvarium.",
+        "username": "Erik Erik Seierstad",
+        "category": "bokmål",
+        "date_time": "2021-06-20 20:35:58",
+        "sent_id": "1406712450733461511"
+    },
+    "3726": {
+        "corrected_category": "NONE",
+        "text": "Sommerskirenn, jida greit nok det, men rulleski er juks! Skarru gå på ski får'u gå på ski! Staka på asfalten!",
+        "username": "oslolos1",
+        "category": "bokmål",
+        "date_time": "2021-08-06 17:57:13",
+        "sent_id": "1423704731466321932"
+    },
+    "5541": {
+        "corrected_category": "NONE",
+        "text": "Hva er det her for noe ego-rør dere babler om på TV2 nå? Snakk om konstruere en konflikt. Jota spiller med store stjerner hver dag. Han burde sentret, og det der må han faktisk tåle. #2EM",
+        "username": "André Lauritsen",
+        "category": "bokmål",
+        "date_time": "2021-06-15 18:11:08",
+        "sent_id": "1404864063532933120"
+    },
+    "192": {
+        "corrected_category": "NONE",
+        "text": "Ok, gamle Oppland. Vis meg at Carl &amp; Co like gjerne kunne brukt desse 250.000,- på Gammel Opland og ei gedigen kanakkasfyll, framfor å shoppe annonseplass i lokalavisene i området. Ansvaret ligg på dykk!",
+        "username": "frebrake",
+        "category": "nynorsk",
+        "date_time": "2021-08-24 18:21:13",
+        "sent_id": "1430233752819707906"
+    },
+    "3074": {
+        "corrected_category": "NONE",
+        "text": "@Francoroche Ikkje bruk flis frå Megaflis, det er stort sett billig for ein grunn og vanskelig å arbeide med/få fint. Anbefalar her modena, har god erfaring med dei. (Ikkje spons 😀 )",
+        "username": "Haavardkr",
+        "category": "bokmål",
+        "date_time": "2021-03-20 17:36:47",
+        "sent_id": "1373327673456476161"
+    },
+    "823": {
+        "corrected_category": "NONE",
+        "text": "Herregud hvor dyrt nettleie for strøm skal være. Dobbelt så mye som selve forbruket mitt.",
+        "username": "MariaBitteLita",
+        "category": "bokmål",
+        "date_time": "2021-08-05 10:39:16",
+        "sent_id": "1423232128481902594"
+    },
+    "428": {
+        "corrected_category": "NONE",
+        "text": "@SondreLinde Har inntrykk av at Austrølia har blitt ganske totalitært og voldelig. Hvis det var det du tenkte på? Høres jo kjekt ut det..",
+        "username": "RandyBoBandy500",
+        "category": "dialectal",
+        "date_time": "2021-08-23 10:01:30",
+        "sent_id": "1429745605857980417"
+    },
+    "478": {
+        "corrected_category": "NONE",
+        "text": "@StephenKing Not even the most devoted Biden fanboys can try to paint this as anything else than a giant failure by Biden. Total lack of leadership with him and Kamala gone AWOL.\n\nEven the liberal European press and your allies are criticizing Biden, and that was practically illegal before.",
+        "username": "GorgonDr",
+        "category": "mixed",
+        "date_time": "2021-08-28 16:38:10",
+        "sent_id": "1431657369541488641"
+    },
+    "501": {
+        "corrected_category": "NONE",
+        "text": "@Oldcastle54 Host opp en £20m til United for Lingard nå, så blir dette bra.",
+        "username": "GorgonDr",
+        "category": "dialectal",
+        "date_time": "2021-08-28 13:38:48",
+        "sent_id": "1431612231586885632"
+    },
+    "8661": {
+        "corrected_category": "NONE",
+        "text": "@Lan_Marie @gurimelby Vi har i Viken sett hva det betyr at MDG stadig stiller ultimatum. I fjor marsjerte dere ut av Fylkesrådet med den konsekvens at Ap🥀 og SP🍂 fikk flere fylkesråder og at 🚌🚂kollektiv- og miljøpolitikken i fylket nå styres av SP.\nEr virkelig grønne velgere tilfreds med det?",
+        "username": "Jonas Tautra Vevatne",
+        "category": "bokmål",
+        "date_time": "2021-08-16 21:40:17",
+        "sent_id": "1427384745827176450"
+    },
+    "4493": {
+        "corrected_category": "NONE",
+        "text": "@akronholm @ThAOSteen Som NAV - now under new management - prompte ville krevd tilbake med trusler om anmeldelse og fengselsstraff.",
+        "username": "Arnt Furunes 🇧🇻🏳️‍🌈 ᚾIᛋᛟᛚᚢᛋᛟᛏ",
+        "category": "bokmål",
+        "date_time": "2021-06-14 14:34:34",
+        "sent_id": "1404447175308873728"
+    },
+    "7049": {
+        "corrected_category": "NONE",
+        "text": "@GVidnes @fmundal @espendholsen @periferien_ Her er min Pioneer PL12 i aksjon",
+        "username": "Stig Hjelmeland",
+        "category": "bokmål",
+        "date_time": "2021-06-19 11:07:32",
+        "sent_id": "1406207012602531841"
+    },
+    "2981": {
+        "corrected_category": "NONE",
+        "text": "Blir nok sky sports ei stund til Pocchetino 😂",
+        "username": "kennykjev",
+        "category": "dialectal",
+        "date_time": "2020-11-07 14:27:00",
+        "sent_id": "1325082328763412488"
+    },
+    "7336": {
+        "corrected_category": "NONE",
+        "text": "@CHellsvik Ser god ut 😃",
+        "username": "Jantes karaktär",
+        "category": "bokmål",
+        "date_time": "2021-06-19 18:21:11",
+        "sent_id": "1406316144017936384"
+    },
+    "1350": {
+        "corrected_category": "NONE",
+        "text": "Så - så kviskra han om me sko' gå e'n tur, - så kviskra eg ja, kan du veda, - eg tenkte: Skid på! - -",
+        "username": "TorvaldTu",
+        "category": "nynorsk",
+        "date_time": "2013-04-28 10:04:10",
+        "sent_id": "328449551587500032"
+    },
+    "7044": {
+        "corrected_category": "NONE",
+        "text": "Kyrkja er finast på slike dagar, med låge skyer og råme og saftig grønt gras.",
+        "username": "Rita",
+        "category": "bokmål",
+        "date_time": "2021-06-19 10:58:00",
+        "sent_id": "1406204613775200257"
+    },
+    "5499": {
+        "corrected_category": "NONE",
+        "text": "Portugal omtrent like dominerende som Spania var i går, men med en helt annen lyst og vilje til å prøve å score. \n\nOg dermed er de rett og slett MYE morsommere å se spille.",
+        "username": "Frederik L. Gnatt",
+        "category": "dialectal",
+        "date_time": "2021-06-15 17:32:53",
+        "sent_id": "1404854437819133959"
+    },
+    "4571": {
+        "corrected_category": "NONE",
+        "text": "Har nettopp publisert et bilde @ Bergsstaden Røros https://t.co/v5ubkSupyD",
+        "username": "Martin Rindalsholt",
+        "category": "bokmål",
+        "date_time": "2021-06-14 16:04:39",
+        "sent_id": "1404469845442416641"
+    },
+    "7735": {
+        "corrected_category": "NONE",
+        "text": "Noen i #Accenture som ønsker seg en retro lærmappe?\n\nhttps://t.co/evSoH1jzbY",
+        "username": "Arnljot Arntsen",
+        "category": "bokmål",
+        "date_time": "2021-06-20 11:33:21",
+        "sent_id": "1406575896518144001"
+    },
+    "863": {
+        "corrected_category": "NONE",
+        "text": "@WestadTorill Min neste level up her, er å bade med hesten. Trenger ikke gå en gang.",
+        "username": "MariaBitteLita",
+        "category": "bokmål",
+        "date_time": "2021-07-28 17:07:59",
+        "sent_id": "1420430847505805315"
+    },
+    "5161": {
+        "corrected_category": "NONE",
+        "text": "@Andersblues @aliesbati Ja ett nydelig språk. To nydelige, unskyld.",
+        "username": "Solveig📎👜🐜",
+        "category": "bokmål",
+        "date_time": "2021-06-15 09:27:42",
+        "sent_id": "1404732336357449728"
+    },
+    "8069": {
+        "corrected_category": "NONE",
+        "text": "Søndagspils - Drinking a Dahls Pils by E.C. Dahls Bryggeri @ Bakeriet Pub og Kafe  — https://t.co/0uH4r7k5dU",
+        "username": "Lars Harald Nordgård",
+        "category": "bokmål",
+        "date_time": "2021-06-20 18:09:50",
+        "sent_id": "1406675674425872386"
+    },
+    "5005": {
+        "corrected_category": "NONE",
+        "text": "@bettibettsin @henriksen @safinadeklerk @Aftenposten Nei, 95% omtrent av dei vaksinerte er beskytta mot smitte, å føre smitte vidare og alvorleg sjukdom. Det er det 95% effektivitet betyr. Det er ikkje ein liten skilnad på 95% og 100%. Det er ein stor skilnad.",
+        "username": "Sveinung M. Skjesol 🏂 🏳️‍🌈",
+        "category": "bokmål",
+        "date_time": "2021-06-14 22:36:38",
+        "sent_id": "1404568491311697925"
+    },
+    "1822": {
+        "corrected_category": "NONE",
+        "text": "Eg såg snurten av innhaldslista til boki Anders Aschim og Per Hasle skriv til hundradårshøgtidi for Fyrebilsbibelen, og der er det ei underyverskrift «Dette med Mortensson» – ja, med hermeteikn. Og det segjer eg for sant og visst: Dette er pirresnutt som duger. https://t.co/8L2NQnjTRr",
+        "username": "OleNeikopp",
+        "category": "nynorsk",
+        "date_time": "2021-08-19 12:33:12",
+        "sent_id": "1428334229100896264"
+    },
+    "278": {
+        "corrected_category": "NONE",
+        "text": "@Astridpastri @siljet @amundjo @GroCBby Nesten noko ein kunne finne i \"Orphanet - internasjonal database om sjeldne diagnosar \".  \n\n\"Du har eit sjeldant tilfelle av rognball\".",
+        "username": "frebrake",
+        "category": "nynorsk",
+        "date_time": "2021-08-18 16:00:55",
+        "sent_id": "1428024116376911878"
+    },
+    "7800": {
+        "corrected_category": "NONE",
+        "text": "@moenduran Som nordlending kan jeg ikke forholde meg til dette.",
+        "username": "Karine (D.T.A.P.) Kristiansen",
+        "category": "bokmål",
+        "date_time": "2021-06-20 13:36:53",
+        "sent_id": "1406606985563414537"
     }
 }

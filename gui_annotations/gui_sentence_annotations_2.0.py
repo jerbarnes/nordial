@@ -33,7 +33,7 @@ def deEmojify(text):
 
 
 def getSentences(infile):
-    with open(infile, 'r') as infile:
+    with open(infile, 'r', encoding='utf-8') as infile:
     # with open('api_annot_test.json', 'r') as infile:
         sent_dict = json.load(infile)
         non_annotated = {}
@@ -97,6 +97,8 @@ class Checktrans:
         self.correct_button = Button(master, text="Correct!", fg='green', command=lambda: self.update("correct"), height = 2, width = 20)
         self.correct_button.grid(column=4, row=2, sticky=E)
         self.master.bind("<space>", lambda event: self.update("correct"))
+        self.checked = Label(master, text='', fg='green')
+        self.checked.grid(column=4, row=3, sticky=W)
 
         # next
         self.next_button = Button(master, text="Next", command=lambda: self.callNext(number), height = 2, width = 20)
@@ -115,12 +117,14 @@ class Checktrans:
 
     def callBack(self, globalvar):
         self.corrected.configure(text='')
+        self.checked.configure(text='')
         global number
         number = globalvar - 1
         self.getitem(number)
 
     def callNext(self, globalvar):
         self.corrected.configure(text='')
+        self.checked.configure(text='')
         global number
         number = globalvar + 1
         self.getitem(number)
@@ -161,6 +165,7 @@ class Checktrans:
 
         elif method == "correct":
             self.annotations_list[all_k[number]]["corrected_category"] = ""
+            self.checked.configure(text='Checked and saved!')
 
         elif method == "bm":
             self.annotations_list[all_k[number]]["corrected_category"] = "bokmål"
@@ -180,12 +185,12 @@ class Checktrans:
 
         elif method == "finished":
             global infile
-            with open(infile) as originalfile:
+            with open(infile, 'r', encoding='utf-8') as originalfile:
             # with open('api_annot_test.json') as originalfile:
                 original = json.load(originalfile)
             original.update(self.annotations_list)
 
-            with open(infile, 'w') as correctedout:
+            with open(infile, 'w', encoding='utf-8') as correctedout:
             # with open('api_annot_test.json', 'w') as correctedout:
                 json.dump(original, correctedout, indent=4, ensure_ascii=False)
             self.finished_label.configure(text="Congrats! You are done for today :)")
