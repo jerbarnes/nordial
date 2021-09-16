@@ -36,13 +36,20 @@ if __name__ == "__main__":
     assert all_same(all_idxs), "not all ids match up"
 
     alpha = krippendorff.alpha(all_data, level_of_measurement="nominal")
+    print()
     print("Kripp Alpha: {0:.3f}".format(alpha))
 
     if args.verbose:
+        already_printed = []
         for d1, idx1, file1 in zip(all_data, all_idxs, sys.argv[1:]):
             for d2, file2 in zip(all_data, sys.argv[1:]):
-                if d1 is not d2:
+                tup = sorted((d1, d2))
+                if d1 is not d2 and tup not in already_printed:
+                    already_printed.append(tup)
+                    print()
                     print("Disagreements between {} and {}".format(file1, file2))
+                    print("=" * 80)
+                    print()
                     disagree_idxs = []
                     for i in range(len(d1)):
                         if d1[i] != d2[i]:
@@ -52,7 +59,10 @@ if __name__ == "__main__":
                     with open(file2) as o:
                         lfile2 = json.load(o)
                     for idx in disagree_idxs:
-                        print(lfile1[str(idx)])
-                        print(lfile2[str(idx)])
-                        print("-" * 40)
+                        print("## text: {}".format(lfile1[str(idx)]["text"]))
+                        print("## original: {}".format(lfile1[str(idx)]["category"]))
+                        print("## corrected 1: {}".format(lfile1[str(idx)]["corrected_category"]))
+                        print("## corrected 2: {}".format(lfile2[str(idx)]["corrected_category"]))
+                        #print("-" * 40)
+                        print()
                     print("=" * 80)
