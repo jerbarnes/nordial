@@ -1,5 +1,6 @@
 import nltk
 from nltk.metrics import masi_distance
+from nltk.metrics import jaccard_distance
 
 """
 Data should have the following format: for each token, include
@@ -21,7 +22,7 @@ task_data = [('coder1', 'Item0', frozenset(['l1', 'l2'])),
              ("coder3", "Item2", frozenset(['l1', 'l2'])),
              # -----------------------------------------------------
              ("coder1", "Item3", frozenset(['l3', 'l1'])),
-             ("coder2", "Item3", frozenset(['l1', 'l3'])),
+             ("coder2", "Item3", frozenset(['l2', 'l3'])),
              ("coder3", "Item3", frozenset(['l3', 'l1']))
              ]
 
