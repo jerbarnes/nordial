@@ -1,6 +1,6 @@
 # NorDial
 
-This repository contains the data and models described in following paper: [NorDial: A Preliminary Corpus of Written Norwegian Dialect Use](https://arxiv.org/abs/2104.04989).
+This repository contains the data and models described in following paper: [NorDial: A Preliminary Corpus of Written Norwegian Dialect Use](https://aclanthology.org/2021.nodalida-main.51/).
 
 ## Paper Abstract
 
