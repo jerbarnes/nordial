@@ -45,7 +45,7 @@ Finally, we will open source both the data and the models with the hope that the
 * Corresponding organizers
     * [Samia Touileb](https://mediafutures.no/2021/01/20/postdoc-samia-touileb/): <Samia.Touileb@uib.no>
     * [Petter Mæhlum](https://www.mn.uio.no/ifi/personer/vit/pettemae/index.html): <pettemae@ifi.uio.no>
-    * [Jeremy Barnes](https://jerbarnes.github.io/): contact for info on task, participation, etc. (<jeremycb@ifi.uio.no>)
+    * [Jeremy Barnes](https://jerbarnes.github.io/): <jeremycb@ifi.uio.no>
 * Annotators
    * Alexandra Wittemann
    * Marie Emerentze Fleisje
