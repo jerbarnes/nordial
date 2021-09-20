@@ -6,8 +6,6 @@ Norway has a large amount of dialectal variation, as well as a general tolerance
 
 Nordial has already created a [preliminary corpus](./v1.1) of annotated tweets, which we are currently expanding. Furthermore, we are moving beyond classifying tweets, and have begun annotations for word-level dialect features, which should provide a much richer resource for predicting and analyzing dialectal traits used on social media.
 
-![map of norway with first-person pronouns](./figures/norgeskart.png)
-
 **Table of contents:**
 
 1. [Dialects in Norway](#dialects-in-norway)
@@ -15,6 +13,8 @@ Nordial has already created a [preliminary corpus](./v1.1) of annotated tweets, 
 3. [Resources](#resources)
 4. [Project organizers](#project-organizers)
 5. [Terms of use](#terms-of-use)
+
+<img src="./figures/norgeskart.png" alt="map of norway with first-person pronouns" width="200"/>
 
 ## Dialects in Norway
 
