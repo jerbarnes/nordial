@@ -57,7 +57,7 @@ Voicing is the process by which consonants which are voiceless in some dialects 
 A multitude of vowel changes occur throughout the Norwegian dialectal landscape. At this point we have chosen to not annotate them all separately, even though the specific type of change present is important for dialect identification. Both monophtongal changes such as lowering (e->æ) and dipthongization such as e->ei are all marked with the vowel_shift label.
 
 #### lexical
-The *lexical* label is used when the lemma of a word is notably marked or non-standard (not found in the official dictionaries). Loanwords are not affected by this; the word has to be a dialectal or local version of a standard word that could have been used instead. An example is the word *tue* instead of *klut* ( 
+The *lexical* label is used when the lemma of a word is notably marked or non-standard (not found in the official dictionaries). Loanwords are not affected by this; the word has to be a dialectal or local version of a standard word that could have been used instead. An example is the word *tue* instead of *klut*. 
 
 #### dem_pro
 In some dialects it is common to use third person pronouns as determiners in combination with proper names. These can be full forms as in "ho Kari" or "han Olav" or reduced as in "a Kari" or "n Olav". 
@@ -75,7 +75,6 @@ This label is used for words that are part of the written languages norms, but w
 A notable difference between Bokmål and Nynorsk is that Nynorsk has "kv" where bokmål has "hv" in many cases. In some dialects, the "v" is lost, giving only "k" or "h", as in *hårr* "hvor" or *ka* "hva"  This is marked with the "h_v" label.
 
 #### adjectival_declension
-
 The *adjectival_declension* is used for cases when an adjective takes a non-standard ending. A quite common example of this is the use of the ending "-e" in non definite or non-plural environments.  
 
 
@@ -84,8 +83,8 @@ The *nominal_declension* label is used for cases where a noun takes a non-standa
 
 #### conjugation
 The *conjugation* label is used for cases where a verb takes a non-standard conjugation ending, such as *skrivi* for "skrive".
-#### functional
 
+#### functional
 Many functional words are spelled radically differently, and it is difficult to pinpoint all the different processes that are going on. All functional words whose spellings are not in accordance with the written norms are tagged with the label *functional*. This includes all question words, determiners, prepositions and certain adverbs.
 
 #### fonemic_spelling
@@ -103,7 +102,13 @@ Example:
 }
 
 
-Summarize all sentences here with full annotations.
+## Summarize all sentences here with full annotations.
 
+&ensp;&ensp;&ensp;&ensp;\[...\] at de **e**(copula) rare så klare de ikkje å forstå at de faktisk **e**(copula) rare og bare starta å shittalka tebake(functional)'
+
+
+&ensp;&ensp;&ensp;&ensp;\[...\]**E(contraction)|KKE(contraction)** JEG SOM VILLE HA HU(pronominal) \[...\]
+
+&ensp;&ensp;&ensp;&ensp;E(copula) han proff so **e(contraction)|kje(contraction)** det noke(functional) problem.
 
 
