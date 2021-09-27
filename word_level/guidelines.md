@@ -87,7 +87,7 @@ The *conjugation* label is used for cases where a verb takes a non-standard conj
 #### functional
 Many functional words are spelled radically differently, and it is difficult to pinpoint all the different processes that are going on. All functional words whose spellings are not in accordance with the written norms are tagged with the label *functional*. This includes all question words, determiners, prepositions and certain adverbs.
 
-#### fonemic_spelling
+#### phonemic_spelling
 In cases where there is no clear dialectal variation, but it is clear that the speaker want to indicate that they are writing a more oral form, the label *fonemic spelling* is used. This is mostly for cases where a pronunciation is very close to the perceived norm of some standard, like "næi" for "nei" (no). 
 
 
