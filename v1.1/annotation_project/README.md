@@ -6,7 +6,7 @@ Denne annotasjonen handler om å si om en twittermelding er skrevet på bokmål,
 
 1. Bokmål: Twittermeldingen inneholder ikke dialektord, og virker ment å være på normert bokmål. Noe unormert riksmål kan inngå.
 
-2. Nynorsk: Twittermeldingen inneholder ikke dialektord, og virker ment å være på normert bokmål.
+2. Nynorsk: Twittermeldingen inneholder ikke dialektord, og virker ment å være på normert nynorsk.
 
 3. Dialekt: Twittermeldingen inneholder dialektord til den grad at det virker som om den er ment å forstås som dialekt. I noen tilfeller vil det være snakk om kun et par ord som fungerer som tydelige dialektmarkører, som 'æ' for 'eg/jeg' eller 'e' for 'er'. Vær obs på tilfeller der det som ser ut som dialektord ((j)eg,e(r)) kan være slurv. Vanlige fonembaserte feilstavinger regnes ikke nødvendigvis som dialekt med mindre teksten ellers gir inntrykk av å være skrevet på dialekt. 
 
