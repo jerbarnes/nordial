@@ -40,7 +40,7 @@ Contractions, especially with the negation adverb "ikke/ikkje" in its many forms
 &ensp;&ensp;&ensp;&ensp;E han proff so **e|kje** det noke problem.
 
 #### palatalization
-Usually indicated by additions of j or i. 
+Palatalization is a process where consonants have an offglide at the palate (palatum). In Norwegian this happens frequently, but not exclusively, to geminated consonants such as nn, dd and ll, in the dialects that have this trait. In writing it is usually indicated by additions of j or i. 
 
 &ensp;&ensp;&ensp;&ensp;Æ e nok **forbainna** på denne forfølginga av folk på NAV
 
@@ -110,4 +110,5 @@ Example:
 
 &ensp;&ensp;&ensp;&ensp;E(copula) han proff so **e(contraction)|kje(contraction)** det **noke**(functional) problem.
 
+&ensp;&ensp;&ensp;&ensp;**Æ**(pronominal) **e**(copula) nok **forbainna**(palatalization) på denne forfølginga av folk på NAV
 
