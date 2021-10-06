@@ -23,7 +23,7 @@ The task is to assign the following label to words which do not conform to the n
 
 One of the most common dialectal markers in a sentence is a pronoun. Some sentences in our data have no markers except a single pronoun, and they are therefore important for our understanding of how dialects are marked. One thing that is important when it comes to pronouns, is their syntactic function in a sentence. We therefore wish to label the subject function and object (or oblique) function separately. We do not have separate markers for the dative. 
 
-&ensp;&ensp;&ensp;&ensp;\[...\] og **dem**(pron-obj) blir aldrig ferdige \[...\] 
+&ensp;&ensp;&ensp;&ensp;\[...\] og **dem**(pron-subj) blir aldrig ferdige \[...\] 
 
 #### copula
 
@@ -104,11 +104,10 @@ Example:
 
 ## Summarize all sentences here with full annotations.
 
-&ensp;&ensp;&ensp;&ensp;\[...\] at de **e**(copula) rare så klare de ikkje å forstå at de faktisk **e**(copula) rare og bare starta å shittalka tebake(functional)'
+&ensp;&ensp;&ensp;&ensp;\[...\] at de **e**(copula) rare så klare de ikkje å forstå at de faktisk **e**(copula) rare og bare starta å shittalka **tebake**(functional)'
 
+&ensp;&ensp;&ensp;&ensp;\[...\]**E(contraction)|KKE(contraction)** JEG SOM VILLE HA **HU**(pronominal) \[...\]
 
-&ensp;&ensp;&ensp;&ensp;\[...\]**E(contraction)|KKE(contraction)** JEG SOM VILLE HA HU(pronominal) \[...\]
-
-&ensp;&ensp;&ensp;&ensp;E(copula) han proff so **e(contraction)|kje(contraction)** det noke(functional) problem.
+&ensp;&ensp;&ensp;&ensp;E(copula) han proff so **e(contraction)|kje(contraction)** det **noke**(functional) problem.
 
 
