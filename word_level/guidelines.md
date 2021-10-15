@@ -39,6 +39,8 @@ Contractions, especially with the negation adverb "ikke/ikkje" in its many forms
 
 &ensp;&ensp;&ensp;&ensp;E han proff so **e|kje** det noke problem.
 
+Other phenomena, i.e. "gå e'n tur" should not be included.
+
 #### palatalization
 Palatalization is a process where consonants have an offglide at the palate (palatum). In Norwegian this happens frequently, but not exclusively, to geminated consonants such as nn, dd and ll, in the dialects that have this trait. In writing it is usually indicated by additions of j or i. 
 
@@ -72,7 +74,7 @@ There is much variation when it comes to the grammatical gender of nouns in Norw
 This label is used for words that are part of the written languages norms, but which are still rarely used, and therefore slightly dialectally or stylistically marked. An example is the question word *åssen* "how", which is accepted in Bokmål, but still infrequent, and somewhat marked compared to "hvordan". 
 
 #### h_v
-A notable difference between Bokmål and Nynorsk is that Nynorsk has "kv" where bokmål has "hv" in many cases. In some dialects, the "v" is lost, giving only "k" or "h", as in *hårr* "hvor" or *ka* "hva"  This is marked with the "h_v" label.
+A notable difference between Bokmål and Nynorsk is that Nynorsk has "kv" where bokmål has "hv" in many cases. In some dialects, the "v" is lost, giving only "k" or "h", as in *hårr* "hvor" or *ka* "hva"  This is marked with the "h_v" label. When you use this label, there is no need to use phonemic_spelling.
 
 #### adjectival_declension
 The *adjectival_declension* is used for cases when an adjective takes a non-standard ending. A quite common example of this is the use of the ending "-e" in non definite or non-plural environments.  
