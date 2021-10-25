@@ -1,0 +1,15 @@
+################## question words
+korsen
+################## determiners
+nåkka
+noke
+################## prepositions
+te
+tel
+me
+################## adverbs
+vess
+itte
+tebake
+################## verbs
+sku
