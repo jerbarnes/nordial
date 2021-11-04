@@ -58,18 +58,17 @@ def get_curated_num(json_file):
         
         
 # Uncomment to get the annotations
-#get_curated_num(marie_inprogress)
-#get_curated_num(alexandra_inprogress)
+get_curated_num(marie_inprogress)
+get_curated_num(alexandra_inprogress)
 
 # Check overlap
 
 #finegrained
-
 
 def get_overlapping(progress):
     for tweet in progress:
         sid = progress[tweet]["sent_id"]
         if sid in alle_sp_id:
             print(sid)
-get_overlapping(marie_inprogress)
-get_overlapping(alexandra_inprogress)
+#get_overlapping(marie_inprogress)
+#get_overlapping(alexandra_inprogress)
