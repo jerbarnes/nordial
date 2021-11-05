@@ -94,7 +94,11 @@ One special case to note is that in many dialects it is difficult to decide whet
 #### phonemic_spelling
 In cases where there is no clear dialectal variation, but it is clear that the speaker want to indicate that they are writing a more oral form, the label *fonemic spelling* is used. This is mostly for cases where a pronunciation is very close to the perceived norm of some standard, like "næi" for "nei" (no). 
 
+#### Interjection
 
+
+
+#### Assimilation?
 
 Example:
 
