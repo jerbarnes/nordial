@@ -1,0 +1,12 @@
+T1	present_marker_deletion 0 4	Føle
+T2	pronoun_object 5 7	mæ
+T3	pronoun_subject 28 29	æ
+T4	present_marker_deletion 30 34	ligg
+T5	phonemic_spelling 35 36	å
+T6	copula 37 38	e
+T7	phonemic_spelling 49 50	Å
+T8	pronoun_subject 72 73	æ
+T9	present_marker_deletion 74 80	snakke
+T10	phonemic_spelling 81 83	me
+T11	functional 81 83	me
+T12	copula 98 99	e
