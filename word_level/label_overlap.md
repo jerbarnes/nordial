@@ -3,7 +3,9 @@ On the overlap of dialectal labels
 
 (See overlap.csv and find_overlap.py for machine-readable format and a ready-to-use function)
 
-Below is a table of labels that cannot overlap. There are other labels that are unlikely to overlap, but they have not been inkluded here. There are also probably tendencies that are unknown to us at the moment.
+Below is a table of labels that cannot overlap. There are other labels that are unlikely to overlap, but they have not been inkluded here. There are also probably tendencies that are unknown to us at the moment. 
+
+The general overlap restrictions are that some labels are restricted to certain parts of speech. The freest labels are the one containing phonological changes, which can occur in most.
 
 Below the table is a list of reasonings for why the various overlaps cannot happen.
 
