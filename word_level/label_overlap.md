@@ -6,6 +6,7 @@
 Below is a table of labels that cannot overlap. There are other labels that are unlikely to overlap, but they have not been inkluded here. There are also probably tendencies that are unknown to us at the moment. The general overlap restrictions are that some labels are restricted to certain parts of speech. The freest labels are the one containing phonological changes, which can occur in most.
 
 Of the 21 labels, there are 8 that have no overlap restrictions. They are all phonemic proecess labels. They are:
+
 &nbsp;&nbsp;&nbsp;&nbsp;contraction \
 &nbsp;&nbsp;&nbsp;&nbsp;palatalization \
 &nbsp;&nbsp;&nbsp;&nbsp;apocope \
