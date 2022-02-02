@@ -706,7 +706,7 @@
     "2294": {
         "date_time": "2021-08-04 22:51:30",
         "username": "LemonLenny",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Et lite stykke fotballmagi. Glede meg til å forhåpentligvis se Bryan mer på banen denne sesongen. https://t.co/gIln3kgWGO",
         "category": "mixed",
         "sent_id": "1423054011725406208"
@@ -794,7 +794,7 @@
     "2713": {
         "date_time": "2015-12-04 11:33:05",
         "username": "Slaystein",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@kriselbai Det har vore ein stor dugnad, så forståeleg at forfattarar har måtte nedprioritera, men med nett kjem nye publiseringar!",
         "category": "nynorsk",
         "sent_id": "672740403108569088"
@@ -882,7 +882,7 @@
     "7333": {
         "date_time": "2021-06-20 18:48:53",
         "username": "Lars Erik Pedersen",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Hvis han tragiske linjemannen der runder av med å godkjenne et Glimt-mål i offside, da bør ha politieskorte hjem tror jeg. Makan til svaksynt klovn  #eliteserien",
         "category": "bokmål",
         "sent_id": "1406685501927661569"
@@ -1266,7 +1266,7 @@
     "2287": {
         "date_time": "2021-08-06 05:08:04",
         "username": "LemonLenny",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Minnes cupfinalen i 2019. Eg hadde ansvaret for å bestille hotell. Long story short: https://t.co/kAp92wVboO informere ikkje e veldig godt om at Montebello  tilhøre radiumhospitalet... #guttatur",
         "category": "dialectal",
         "sent_id": "1423511169357291521"
@@ -2242,7 +2242,7 @@
     "5369": {
         "date_time": "2021-06-15 19:51:30",
         "username": "Hans Gunnar Hagelin",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Denne tråden er verdt å lese. Naturen er forundarleg, og dess meir du veit dess merkelegare er den.",
         "category": "bokmål",
         "sent_id": "1404889320658550790"
@@ -2626,7 +2626,7 @@
     "4424": {
         "date_time": "2021-08-24 10:12:53",
         "username": "marenostbo",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@eritonne Er det inkluderande nok? I min klasse var slike dagar for dei som hadde sekser i gym frå før. Dei hadde ledd av dei som ville gå tur.",
         "category": "nynorsk",
         "sent_id": "1430110858873614370"
@@ -2794,7 +2794,7 @@
     "7317": {
         "date_time": "2021-06-20 18:33:20",
         "username": "Rolf Gjerdsjø",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@MrCortado Haha, den nye mengden med tekniske innretninger gikk ikke helt smertefritt til, si. ",
         "category": "bokmål",
         "sent_id": "1406681590051360770"
@@ -3242,7 +3242,7 @@
     "1896": {
         "date_time": "2021-08-25 15:56:35",
         "username": "totlevase",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Fyrst og fremst trist for unge Pereira. Ingen har perfeksjonert kunsten å skusla bort store Viking-talent i same grad som Rosenborg. Han får vel fire kampar som keeper eller noko innimellom alle skadane som kjem grunna feiltrening og den medisinske inkompetansen på Lerkendal.  https://t.co/8e3XHgkFwL",
         "category": "nynorsk",
         "sent_id": "1430559742578077698"
@@ -3778,7 +3778,7 @@
     "1047": {
         "date_time": "2021-08-19 19:54:45",
         "username": "KeikoTheFish",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@FasitMolde Var aldri Singsaas eller Rudi opp til diskusjon?",
         "category": "dialectal",
         "sent_id": "1428445351099486212"
@@ -4226,7 +4226,7 @@
     "4984": {
         "date_time": "2021-06-15 08:50:34",
         "username": "Odd M",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Svært så aktiv lan er blitt på some, med kritikk, av regjeringen, etter mistillitsforslaget. \nBurde hun ikkje konsentrere seg om sine egne gigant tabber?",
         "category": "bokmål",
         "sent_id": "1404722993612431363"
@@ -4306,7 +4306,7 @@
     "3715": {
         "date_time": "2021-08-08 17:27:36",
         "username": "oslolos1",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Han franskmann som reiv ned flaskene i marratonløpet, han får avføringsmiddel i flaska si neste gang.",
         "category": "mixed",
         "sent_id": "1424422051868299266"
@@ -4706,7 +4706,7 @@
     "6820": {
         "date_time": "2021-06-19 22:17:57",
         "username": "Rugml Mestavia 🏳️‍⚧️BLM",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Først knuste de tåa mi med ståltupp, smalt meg i asfalten og satt meg i politibilen hvor jeg fikk beskjed om at han skulle løsne de smertefult stramme håndjernene hvis jeg \"oppførte meg\" før de skulle kjøre meg til glattcella. Grunnen? Jeg forsøkte å ta livet av meg.",
         "category": "bokmål",
         "sent_id": "1406375729756094468"
@@ -5002,7 +5002,7 @@
     "3794": {
         "date_time": "2021-08-17 11:35:40",
         "username": "Tjabergnissen",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@skattebu 1. Litt \"kje\" dagen etter. Øm akkurat på stikkstaden eit par dagar.\n2. Ingen verdas ting.\n\n(Pfizer)",
         "category": "nynorsk",
         "sent_id": "1427594977534779396"
@@ -5122,7 +5122,7 @@
     "3562": {
         "date_time": "2014-06-19 07:36:44",
         "username": "Birgitpirgit",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Sånn går nu dagene av å til... jeg kjeder meg og er bare dag 2 etter operasjon.",
         "category": "dialectal",
         "sent_id": "479528190990647296"
@@ -5338,7 +5338,7 @@
     "2121": {
         "date_time": "2021-03-02 20:16:19",
         "username": "magnar22",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@VGNettBrenne99 Hadde vært mye bedre og vært lettere å \"akseptere\" om en hørte dialogen. Sånn det er nå fungerer det ikke, mye pga tolkninger og at vi ikke forstår en pøkk av hva som skjer!",
         "category": "dialectal",
         "sent_id": "1366844840437157890"
@@ -5506,7 +5506,7 @@
     "6855": {
         "date_time": "2021-06-20 00:57:19",
         "username": "Frederik L. Gnatt",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@Halmrasten @JrueHoligoat Nei, det er nok ikke helt riktig heller. Jackson kunne nok ha fortsatt om han ville. Det ble lagt opp slik, og en utrolig greie Krause drev med. \n\nJackson ville ikke være med på noen rebuild, og Pippen var ferdig med Bulls. De hadde kunne fortsette. Fikk ikke sparken.",
         "category": "bokmål",
         "sent_id": "1406415835107926016"
@@ -5610,7 +5610,7 @@
     "2664": {
         "date_time": "2018-01-10 13:32:08",
         "username": "Slaystein",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Møte for ny redaksjon i @Allkunne i dag. Ein veksande kunnskapsbase òg i historie, og eit supert verkty for elevar ved vgs. Glad for å vera med på skuta!",
         "category": "nynorsk",
         "sent_id": "951084243219861504"
@@ -6138,7 +6138,7 @@
     "7661": {
         "date_time": "2021-08-16 20:11:39",
         "username": "Christian H. I.",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@filip_fj20 @GjoekenesKonge Den gruser alt, men troika er en god nr 2!",
         "category": "bokmål",
         "sent_id": "1427362440518508558"
@@ -7074,7 +7074,7 @@
     "2842": {
         "date_time": "2021-07-10 10:57:58",
         "username": "markushessen1",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Gir Dustin Proirer maks 3 runde idag før han blir knocka. Conor ser ut som et dyr i weigh in og press conf. Blir en sinnsjuk match inatt",
         "category": "nynorsk",
         "sent_id": "1413814750803369987"
@@ -7274,7 +7274,7 @@
     "5509": {
         "date_time": "2021-06-16 15:18:26",
         "username": "Mhartine",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@JusticeForKare onei jeg kondolerer så mye  jeg dka være fordiktig også knakje ordne en time hos bup for telefonen min ",
         "category": "bokmål",
         "sent_id": "1405182989127061508"
@@ -7402,7 +7402,7 @@
     "5381": {
         "date_time": "2021-06-15 20:05:00",
         "username": "Øyvind L. Høysæter",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@elfhybrid_ Joda om man er lei så kan jo man bare scrolle forbi. Om folk blir sint og slenger drit så er jo de selv et bevis på at det er et viktig å terpe på. ",
         "category": "bokmål",
         "sent_id": "1404892720926240769"
@@ -7498,7 +7498,7 @@
     "6657": {
         "date_time": "2021-06-19 17:10:47",
         "username": "måten_du_sier_det_på",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@Ingeborgborg Nei med dette underholdt mange som sjeldent kunne få nok av Se &amp; Hør.",
         "category": "bokmål",
         "sent_id": "1406298428863307779"
@@ -7914,7 +7914,7 @@
     "1956": {
         "date_time": "2021-08-29 08:57:41",
         "username": "madamknipe",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "I dag er Magnus Mundal med i Språksnakk med @klaussonstad og pratar om nyord som har oppstått under koronaen i Noreg og i Tyskland. Jælma fint innslag!\nHelsing mor.\n\nFrå 0.53.45 ut i sendinga \nhttps://t.co/rgg0hShSDF",
         "category": "nynorsk",
         "sent_id": "1431903874328190982"
@@ -7962,7 +7962,7 @@
     "3995": {
         "date_time": "2021-06-28 20:34:03",
         "username": "fugleperspektiv",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@NorAndreas @i_skagestad Ellers kan utfall bakover vere eit fint tilskot, om du vil ha enno ei øving!",
         "category": "nynorsk",
         "sent_id": "1409611071330127874"
@@ -8226,7 +8226,7 @@
     "3901": {
         "date_time": "2015-06-21 09:42:47",
         "username": "kopskalle",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Vurri på slettåsdaga, bullet proof leverte så det svingte. Synd bare at folk ikke kjenner sin besøkelsestid. Hvor var great woods car club?",
         "category": "bokmål",
         "sent_id": "612556259955482628"
@@ -8314,7 +8314,7 @@
     "1014": {
         "date_time": "2017-04-05 18:53:17",
         "username": "aniiitahr",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Ikkje heilt fortjente 3 poeng, men vi tar alt vi får! Molde",
         "category": "nynorsk",
         "sent_id": "849696462393008129"
@@ -8474,7 +8474,7 @@
     "1547": {
         "date_time": "2011-07-09 12:56:54",
         "username": "IvarOpsal",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Sammenlagtseieren i Tour de Fogn blei innkassert idag! Gratulere Jakob Bø med 2. plassen og @hosthus med 3. plassen.",
         "category": "bokmål",
         "sent_id": "89679418561269760"
@@ -9002,7 +9002,7 @@
     "166": {
         "date_time": "2021-07-08 07:38:10",
         "username": "sekjusegett",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@eivindtraedal Dere er vel litt ekstreme begge to synes nå jeg da, men men sånn går nå dagan",
         "category": "nynorsk",
         "sent_id": "1413039694963687425"
@@ -9314,7 +9314,7 @@
     "5160": {
         "date_time": "2021-06-15 14:21:36",
         "username": "Jenny Dahl Bakken",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Så skal det sies at selv om regjeringer og byråd i praksis lever «på nåde», ettersom det folkevalgte organet kan kaste dem når som helst, er det lite som tyder på at norske partier tar veldig lett på mistillitsforslag. Det fremmes ikke så ofte, og får flertall ennå sjeldnere.",
         "category": "bokmål",
         "sent_id": "1404806298768654337"
@@ -9330,7 +9330,7 @@
     "412": {
         "date_time": "2021-08-25 18:24:26",
         "username": "RandyBoBandy500",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@BergeW @snjofnugg Logikken er at syklister skal holde seg på sykkelstien og ikke i veien. Hvis ikke så må je begynne å kjøre min Hummer H1 på sykkelstiene.",
         "category": "bokmål",
         "sent_id": "1430596947962912769"
@@ -9482,7 +9482,7 @@
     "4350": {
         "date_time": "2021-08-30 07:41:11",
         "username": "marenostbo",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@RandyBoBandy500 Hot take: det er sikkert ikkje meir pistasje i luksusvarianten.",
         "category": "nynorsk",
         "sent_id": "1432247009457709057"
@@ -9770,7 +9770,7 @@
     "6398": {
         "date_time": "2021-06-19 08:21:09",
         "username": "Pesta",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Rip Joralf Gjerstad, men mitt spirit animal vil alltid være søstra hans https://t.co/6L0Hk9KE09",
         "category": "bokmål",
         "sent_id": "1406165140500848645"
@@ -9914,7 +9914,7 @@
     "216": {
         "date_time": "2021-08-23 07:58:36",
         "username": "frebrake",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@PederHauge @sprakradet @jeblad @HegeLothe @GRavnestad Du kan tru eg tenkte mitt første gongen svigermor mi spurte om eg ville ha høpphønn.",
         "category": "nynorsk",
         "sent_id": "1429714675042856960"
@@ -10106,7 +10106,7 @@
     "6562": {
         "date_time": "2021-06-19 14:12:01",
         "username": "Nordby",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Forbanna frustrerende å se 67k Ungarere på en schmekkfull stadion, med pils i lanken og solsteik. Orker ikke.",
         "category": "bokmål",
         "sent_id": "1406253440196562951"
@@ -10354,7 +10354,7 @@
     "7113": {
         "date_time": "2021-06-20 14:57:50",
         "username": "Johan Elmquist",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@MangoldX @perfaitement @Nick3Nyfiken Kaliningrad tog 40 år\n\nhttps://t.co/DayfhnuImV",
         "category": "bokmål",
         "sent_id": "1406627359344713732"
@@ -10546,7 +10546,7 @@
     "3556": {
         "date_time": "2014-07-28 21:14:29",
         "username": "Birgitpirgit",
-        "corrected_category": "NONE",
+        "corrected_category": "bokmål",
         "text": "Dær slo de endelig av lyset i toget. Så kanskje man klarer å sove litt. Fremme på Grong 04:23. #nsb @nsb_no #tog",
         "category": "dialectal",
         "sent_id": "493867112189136896"
@@ -10578,7 +10578,7 @@
     "7576": {
         "date_time": "2021-06-22 09:51:42",
         "username": "𝕽𝖔𝖛𝖎𝖈",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Syntes du det er kjipt at det ikke er noen EM-kamper kl 18 i dag?\n\nNo problem! I dag er det nemlig full runde i OBOS-ligaen! https://t.co/5z4tGlhLAq",
         "category": "bokmål",
         "sent_id": "1407275090073563138"
@@ -10738,7 +10738,7 @@
     "254": {
         "date_time": "2021-08-19 22:22:37",
         "username": "frebrake",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@bjorsat Men kunne eg kobla IKEA-pærene mot Ambilight'en på TV'en via HUE-bridge'n, då? I think not. Og dei største ungane har alltid dei dyraste leikane. Eg kobla juletreet mot talestyring eitt år. Og Sonos'en starta ein periode å spele ein spesifikk sang om Netatmo'en sensa regn.",
         "category": "nynorsk",
         "sent_id": "1428482562977116161"
@@ -10970,7 +10970,7 @@
     "7794": {
         "date_time": "2021-08-17 02:41:55",
         "username": "Rita",
-        "corrected_category": "NONE",
+        "corrected_category": "nynorsk",
         "text": "@BeritRekve @espendholsen @Grydis Eg ser i alle fall meir nedlatande haldningar, fordommar og arroganse den vegen enn hin her inne. Ta i så fall Vedum, ikkje sprei løgner og bygg opp om fordommar mot folk på bygda. Det var mitt poeng frå starten. Trådslutt frå her.",
         "category": "bokmål",
         "sent_id": "1427460652814176261"
@@ -10994,7 +10994,7 @@
     "81": {
         "date_time": "2021-06-26 13:37:22",
         "username": "2830_Raufoss",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Syns det ær helt OK at vi leder, asså.",
         "category": "dialectal",
         "sent_id": "1408781433636798464"
@@ -11202,7 +11202,7 @@
     "241": {
         "date_time": "2021-08-21 06:23:02",
         "username": "frebrake",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@siljel I'm going to hell med ei heil jækla busslast demonar innvortes, for den foten kjem aldri under dyna!",
         "category": "nynorsk",
         "sent_id": "1428965850334253058"
@@ -11218,7 +11218,7 @@
     "1428": {
         "date_time": "2012-02-25 10:40:32",
         "username": "TorvaldTu",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Jaja,du trega kanskje atta du inkje gjer det au;men det æ det,he du fysst gjort det så sede du i klemmå.Då kan du jeispa,du kjeme ingjen veg",
         "category": "dialectal",
         "sent_id": "173356698575179776"
@@ -11290,7 +11290,7 @@
     "7564": {
         "date_time": "2021-06-22 09:20:47",
         "username": "Thomas Sporsheim",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@andershoff79 Ja det e då ej meina vi må la linjemanns avgjerelse stå. Her flagga han ikkje?",
         "category": "bokmål",
         "sent_id": "1407267311573213190"
@@ -11330,7 +11330,7 @@
     "3576": {
         "date_time": "2014-05-24 12:43:51",
         "username": "Birgitpirgit",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Må ringe fastlegen. Må fryse medlemskapet på Stamina. Må ringe medinor, må ringe pasientreisekontoret.",
         "category": "bokmål",
         "sent_id": "470183396208308224"
@@ -11538,7 +11538,7 @@
     "7187": {
         "date_time": "2021-06-20 16:50:50",
         "username": "Magne Bjella",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@dagfinnarne @Lurifaks7 Hvor mange hadde dødd hvis vi ikke - ikke hadde igangsatt tiltakene? I Brasil er over 500 000 døde av Korona mye på grunn av en fyssak av en høyrepopulistisk president som har gitt faen i sine landsmenn. I USA hadde de en tilsvarende selvopptatt idiot og dødstallene steg kraftig",
         "category": "bokmål",
         "sent_id": "1406655796155502598"
@@ -11570,7 +11570,7 @@
     "1235": {
         "date_time": "2021-08-23 22:07:10",
         "username": "LemonLenny",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Hæ? Har jeff bezos bodd i stavanger? Nærmere sagt gausel? Og holdt på å enda opp på gosenstubben? \"nå står ikkje verden te påske\" så di øve 50 seie...",
         "category": "dialectal",
         "sent_id": "1429928225866723329"
@@ -11578,7 +11578,7 @@
     "2633": {
         "date_time": "2020-04-30 16:27:08",
         "username": "daafjord",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@YOttesen Må sjå kva eg rekk! Då må eg sikkert kræsja hjå deg. Blir for tidleg med siste ferja frå Sunde.",
         "category": "nynorsk",
         "sent_id": "1255896480126287872"
@@ -11722,7 +11722,7 @@
     "7525": {
         "date_time": "2021-06-21 08:29:49",
         "username": "Øystein Nordvik",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@kimrudpetersen @torha123 @abidraja Så fjernsynsselskapene plukker lover etter hva de selv beliter seg i? Høres ut som tvilsomme argumenter om det presenteres i retten.",
         "category": "bokmål",
         "sent_id": "1406892097169416196"
@@ -11730,7 +11730,7 @@
     "2611": {
         "date_time": "2020-06-10 22:02:06",
         "username": "daafjord",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Ref video nederst i denne artikkelen. Her er politiet i biljakt etter ein moped. Men er ikkje denne jakta til stor fare for 3.part? Er mange gåande i parken, blant anna ein person med barnevogn. Og har politimannen eit snev av overtenning på slutten? \nhttps://t.co/20yk1TtRN8",
         "category": "nynorsk",
         "sent_id": "1270838678609448961"
@@ -11842,7 +11842,7 @@
     "1803": {
         "date_time": "2021-08-28 08:35:49",
         "username": "OleNeikopp",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@TageBirkeland – E? Bunad? utbryt vertskapet, det er vel ikkje ei elv?\n– Me tok han på bakfram då.",
         "category": "nynorsk",
         "sent_id": "1431535983145717760"
@@ -12138,7 +12138,7 @@
     "6509": {
         "date_time": "2021-06-19 12:34:48",
         "username": "Einar Cyvin. 😊",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Til de som har engasjert seg i problematikken for bryllupsdagen min. Facebook hadde svaret.  @TorillHRV har vært elskverdig nok til å love å minne meg på det. https://t.co/YffHtJOzZs",
         "category": "bokmål",
         "sent_id": "1406228975639220224"
@@ -12298,7 +12298,7 @@
     "2608": {
         "date_time": "2020-06-19 16:02:54",
         "username": "daafjord",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@kkhassel Nei. Brenn ein blokkfløyta, er det det same som å knuse eit speil. 7 års ulukke, og ein vil aldri, eg gjentek aldri, vinner meir enn 5 rette i Lotto. Eg hadde tenkt meg om.",
         "category": "nynorsk",
         "sent_id": "1274009772078104576"
@@ -12322,7 +12322,7 @@
     "208": {
         "date_time": "2021-08-23 11:38:01",
         "username": "frebrake",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "registrert nettstaden mot eit organisasjonsnummer, og det var ikkje så vanskeleg å finne ut kven som eigde dette organisasjonsnummeret. Så eg sjekka litt på Facebook, og fant herremannen.. Og hos Norid fant eg òg at nettstaden var kjøpt gjennom @domeneshop.",
         "category": "nynorsk",
         "sent_id": "1429769894694985729"
@@ -12394,7 +12394,7 @@
     "1309": {
         "date_time": "2021-08-11 18:14:37",
         "username": "LemonLenny",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@DrLunemann Nå e det de velstående sin tur. Ikke de rikeste men de som må klare seg med bare en tesla. De som kun har sommerhytte og vinterhytte, men som ikke har råd til den tredje hytta eller feriehuset i italia om du vil. De som tjener godt men enda vasker huset selv, etter fest..",
         "category": "dialectal",
         "sent_id": "1425521046342545416"
@@ -12402,7 +12402,7 @@
     "4013": {
         "date_time": "2021-06-18 19:20:31",
         "username": "fugleperspektiv",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@OdaRygh Altså, kvar gong nokon spør om eg som middelalderentusiast skulle ønskje at eg levde på 1300-talet, så held det jo fort berre å nemne dei FEM bølgene med pest som kom mellom 1348 og 1400. Heia vaksiner og antibiotika!",
         "category": "bokmål",
         "sent_id": "1405968686230519814"
@@ -12634,7 +12634,7 @@
     "7620": {
         "date_time": "2021-08-16 19:38:56",
         "username": "Geir Møller",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Følger partilederdebatten . \nHeftig temperatur mellom Lysbakken og Vedum . De to der kan ikke sitte i same regjering .",
         "category": "bokmål",
         "sent_id": "1427354205451395074"
@@ -12906,7 +12906,7 @@
     "1829": {
         "date_time": "2021-08-16 16:25:12",
         "username": "OleNeikopp",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Det er vel berre i Fyrebilsbibelen me fær høyra um «draugar og spåvette». Frå Indrebøbibelen heiter det «daudingar og spådomsånder». 2011-utgåva tek elles etter bokmål her òg, og skriv stundom «gjenferd» i staden for «draug/dauding».",
         "category": "nynorsk",
         "sent_id": "1427305453575344139"
@@ -13002,7 +13002,7 @@
     "7868": {
         "date_time": "2021-08-17 06:50:04",
         "username": "Stian Røsvik Bjørstad",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@Jotjar Dønn useriøst. Man triller terninger etter egne subjektive forinntatte meninger.",
         "category": "bokmål",
         "sent_id": "1427523104792883232"
@@ -13034,7 +13034,7 @@
     "4563": {
         "date_time": "2021-06-14 16:23:57",
         "username": "Landor",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Fikk du ikke nok / med deg @apeksgg i stad? Ny sjanse nå når de går opp i mot powerhouset forZe i ESEA Premier! @EldoradoEsport gønner på med sendinger, Apeks gønner på på server, jeg gønner på i studio, håper vi ses!\nStarter 19:00 på https://t.co/yvn4jneifH",
         "category": "bokmål",
         "sent_id": "1404474700261167110"
@@ -13274,7 +13274,7 @@
     "4422": {
         "date_time": "2021-08-24 10:17:41",
         "username": "marenostbo",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Så der sov me, på ei skikkeleg god madrass på golvet.  Det kjendes nesten som ein telttur. Clutch elska det. Senga er nesten ny og knakk i sjølve bæringa. Ikkje bra nok.",
         "category": "nynorsk",
         "sent_id": "1430112064656322583"
@@ -13322,7 +13322,7 @@
     "5826": {
         "date_time": "2021-06-17 05:56:12",
         "username": "Ragnar Liaskar",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@SandeOlav Panten vart auka ganske nylig, så den er vel omlag der den bør vere. Bøter kan kanskje ta grove tilfeller, men først og fremst trur eg det er opplysningsarbeid som trengs. Mange tenker nok ikkje på konsekvensane.",
         "category": "nynorsk",
         "sent_id": "1405403885695549440"
@@ -14450,7 +14450,7 @@
     "2661": {
         "date_time": "2018-02-20 14:56:03",
         "username": "Slaystein",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "#MeToo har gått fort unna, men no kan du endeleg få ei viss oversikt, med @Allkunne sjølvfølgeleg: https://t.co/W2qCKOM7kk",
         "category": "nynorsk",
         "sent_id": "965963265879797760"
@@ -15674,7 +15674,7 @@
     "6476": {
         "date_time": "2021-06-19 11:07:40",
         "username": "Simen Henriksen / warclown",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@Sangopan1 @LandorKarlsen Hæ? Har hørt at han går på etter oss hver dag med ASMR for innsoving?",
         "category": "bokmål",
         "sent_id": "1406207046240845827"
@@ -15754,7 +15754,7 @@
     "3102": {
         "date_time": "2021-01-26 18:27:41",
         "username": "Haavardkr",
-        "corrected_category": "NONE",
+        "corrected_category": "bokmål",
         "text": "Helvetes @WildcardFC overtalte meg til å hitte inn gundogutten for Soucek.",
         "category": "mixed",
         "sent_id": "1354133928655921153"
@@ -15810,7 +15810,7 @@
     "3987": {
         "date_time": "2021-07-03 07:14:33",
         "username": "fugleperspektiv",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Sjølv om eg fekk tilbakebetalt original billett, hjelper det lite når prisen blir 4-5x så dyr som originalbillett med det andre selskapet når man må bestille med superkort varsel (for dette var for å reise heim og treffe mine foreldre for første gong på eit år). SÆRDELES skuffa.",
         "category": "nynorsk",
         "sent_id": "1411221808892809216"
@@ -15978,7 +15978,7 @@
     "7003": {
         "date_time": "2021-06-20 11:13:08",
         "username": "Simen Henriksen / warclown",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@LandorKarlsen I wiiiish. Sending idag. Men tenker det er greit å gi andre i Norge sjans til å vinne.",
         "category": "bokmål",
         "sent_id": "1406570810677018624"
@@ -16202,7 +16202,7 @@
     "4589": {
         "date_time": "2021-06-14 17:06:00",
         "username": "Bente E. Oestboe",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Dette er bare 1 sak, der er dessverre mange slike saker MEN folk tror det ikke",
         "category": "bokmål",
         "sent_id": "1404485284356673547"
@@ -16250,7 +16250,7 @@
     "826": {
         "date_time": "2021-08-03 21:39:44",
         "username": "MariaBitteLita",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@ABLillebergen Helt enig. Har måtte utsatt endel betaling på studielånet, da utgiftene har blitt høye. Og nei, det er ikke bare fordi «man ikke pusser tenna godt nok» ",
         "category": "bokmål",
         "sent_id": "1422673563694346249"
@@ -16370,7 +16370,7 @@
     "48": {
         "date_time": "2021-07-05 16:42:17",
         "username": "2830_Raufoss",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Dytt i ryggen var det, gitt. Sku vøri straffe. https://t.co/LHR2nLuBau",
         "category": "dialectal",
         "sent_id": "1412089461920382979"
@@ -16466,7 +16466,7 @@
     "7407": {
         "date_time": "2021-06-20 21:06:04",
         "username": "Frederik L. Gnatt",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Imponert over dette Clipperslaget. Har gått et helt år og blitt latterliggjort for svak psyke etter katastrofen i bobla.\nSå sliter de først mot Mavs, og ligger under 0-2 mot Utah. Mister Kawhi og alle avskriver de igjen. \n\nSå sterke de fremstår nå er stort. Lue må få massiv kred.",
         "category": "bokmål",
         "sent_id": "1406720025617125377"
@@ -16538,7 +16538,7 @@
     "7229": {
         "date_time": "2021-06-20 17:26:06",
         "username": "Odd M",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@KrosbyNatalia @Froggyking84 @GreteJ1966 @Suppesanne @EspenRed Så for meg en side med videoer av lykkelige hunder som løp og lekte eg nå vet du",
         "category": "dialectal",
         "sent_id": "1406664668844789765"
@@ -16618,7 +16618,7 @@
     "1078": {
         "date_time": "2021-08-02 17:51:18",
         "username": "KeikoTheFish",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "tom. å male går ann når man kan druse innpå øl og nofx samtidig.. For den som lurte, e på øl nr5 og vegg nr.3, strøk to! \n\n#ferie\n#nofx\n#tuborg",
         "category": "mixed",
         "sent_id": "1422253690493313025"
@@ -17042,7 +17042,7 @@
     "5631": {
         "date_time": "2021-06-16 18:23:15",
         "username": "Christian H. I.",
-        "corrected_category": "NONE",
+        "corrected_category": "mixed",
         "text": "@Mathomolew Meg r d ikke så nøye med, gi d videre når du kan er kjepphesten min, og en gang blir du til stor hjelp for noen, eller, du ER til stor hjelp for noen allerede Gleder meg til treff, it will be a blast ",
         "category": "bokmål",
         "sent_id": "1405229498652672007"
@@ -17066,7 +17066,7 @@
     "5575": {
         "date_time": "2021-06-16 17:10:25",
         "username": "Camilla🇵🇸",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@Redneck_norway Nei gjør nok ikke det, bare henger der hele tia",
         "category": "bokmål",
         "sent_id": "1405211169741234178"
@@ -17146,7 +17146,7 @@
     "2118": {
         "date_time": "2021-03-04 21:47:07",
         "username": "magnar22",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@GHvring Uforståelig. God avslutning, men som sagt elendig forsvarsspill. Syns Fabinho skal lede han vekk fra mål, altså ut mot siden. Ikkje inn mot godfoten.",
         "category": "dialectal",
         "sent_id": "1367592468322033665"
@@ -17170,7 +17170,7 @@
     "5422": {
         "date_time": "2021-06-16 12:46:28",
         "username": "Therese J Ingilæ",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Du vet du bor i Finnmark når det fra 27 grader forrige uke, går over til 5 grader og haggelskur i dag #livetinord ",
         "category": "bokmål",
         "sent_id": "1405144745945468930"
@@ -17226,7 +17226,7 @@
     "2082": {
         "date_time": "2021-05-08 21:27:50",
         "username": "magnar22",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@rutlesjef Gjekk veien idag, heldigvis. Irriterende at Chelsea vant ",
         "category": "dialectal",
         "sent_id": "1391142827070009344"
@@ -17338,7 +17338,7 @@
     "2782": {
         "date_time": "2015-09-29 20:30:32",
         "username": "Amalihaug",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Ka vi lære på skulen? Jaau det skal ej seie dej!! Berre unyttige ting vi aldri kjem til å få bruk for ",
         "category": "nynorsk",
         "sent_id": "648958058979291137"
@@ -17354,7 +17354,7 @@
     "1346": {
         "date_time": "2013-10-27 19:55:58",
         "username": "TorvaldTu",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Ver 'jille! - Høyre du kæ eg seie'. - Ly'e du mor di? - Nei, du gjer deg inkje før du får pisk!",
         "category": "dialectal",
         "sent_id": "394553074498691073"
@@ -17362,7 +17362,7 @@
     "4688": {
         "date_time": "2021-06-14 19:06:40",
         "username": "Dr Jonas Stein",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@Prof_DROlsen @UiTNorgesarktis Gratulere. Gleder meg til å jobbe sammen med dere i universitetsstyret!",
         "category": "bokmål",
         "sent_id": "1404515652455514120"
@@ -17610,7 +17610,7 @@
     "1292": {
         "date_time": "2021-08-12 16:59:15",
         "username": "LemonLenny",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@Fre_Jona Til vanlig... Nå  såg du mye bedre ud",
         "category": "dialectal",
         "sent_id": "1425864469230542850"
@@ -17634,7 +17634,7 @@
     "3295": {
         "date_time": "2016-10-12 05:53:29",
         "username": "samenisu",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Av alle fugla e ugla den vakreste.\nSara har talt.",
         "category": "dialectal",
         "sent_id": "786082339717779457"
@@ -17754,7 +17754,7 @@
     "3932": {
         "date_time": "2021-08-14 14:36:51",
         "username": "fugleperspektiv",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@Eplefe Dette er vanvittig fint og no gråter eg litt på toget.",
         "category": "nynorsk",
         "sent_id": "1426553409923162117"
@@ -17786,7 +17786,7 @@
     "3725": {
         "date_time": "2021-08-06 17:57:13",
         "username": "oslolos1",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Sommerskirenn, jida greit nok det, men rulleski er juks! Skarru gå på ski får'u gå på ski! Staka på asfalten!",
         "category": "bokmål",
         "sent_id": "1423704731466321932"
@@ -17802,7 +17802,7 @@
     "36": {
         "date_time": "2021-07-12 16:45:23",
         "username": "2830_Raufoss",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Om Fredrikstad putter nå, så ær dæ fortjent. Fryktelig tett ved.",
         "category": "dialectal",
         "sent_id": "1414626954746155014"
@@ -17850,7 +17850,7 @@
     "3439": {
         "date_time": "2014-03-03 20:29:32",
         "username": "marienborgen",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Samboern google kjøleskap i 50.000 kroners klassen. I følge kontoen min e det 356,- igjen. Har han en jobb på si?",
         "category": "dialectal",
         "sent_id": "440584784491057152"
@@ -17858,7 +17858,7 @@
     "6063": {
         "date_time": "2021-06-18 16:11:41",
         "username": "Thomas Sporsheim",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@RenateWalle7 Virka som han e stolt over å komme litt under huden på neymar. Dumt å høyre på. Tapte kampen og brassen scora to, så eg ville holdt kjeft",
         "category": "bokmål",
         "sent_id": "1405921166682996741"
@@ -17930,7 +17930,7 @@
     "7242": {
         "date_time": "2021-06-20 17:34:08",
         "username": "Fredrik Østbye (Fred Øst)",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@GorgonDr @EnnySolli @nff_info Nei. Men Norge hatt stått på rett side. Nå plumpa vi utti dritten mens dresskledde menn på Ullevål applauderer.",
         "category": "bokmål",
         "sent_id": "1406666689819852801"
@@ -17962,7 +17962,7 @@
     "7026": {
         "date_time": "2021-06-20 12:09:26",
         "username": "Odd M",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@kwaeraas Og byregjeringskeiseren har de balletak på. Han tør jo ikkje si imot de",
         "category": "bokmål",
         "sent_id": "1406584978167812099"
@@ -17970,7 +17970,7 @@
     "3283": {
         "date_time": "2016-10-13 07:55:07",
         "username": "samenisu",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "For en rar dag. Finn hundre krone, folk e gla førr å se mæ og søstera mi send vænnlige meldinga. Nokka helt forfærdelig vil snart skje.",
         "category": "dialectal",
         "sent_id": "786475337899184128"
@@ -18114,7 +18114,7 @@
     "6981": {
         "date_time": "2021-06-20 10:19:27",
         "username": "Arnt Furunes 🇧🇻🏳️‍🌈 ᚾIᛋᛟᛚᚢᛋᛟᛏ",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@orrhanen @jonasali @Dotafyren @kirsebae @antonymet Kall det en guilty pleasure, da, men en dampet kjøttfarsefinger i hvitt brød, med ketsjup og sennep, er akkurat det jeg har lyst på etter en time halsende etter kona, blant tekstiler, møbler og alskens nikknakk.",
         "category": "bokmål",
         "sent_id": "1406557301109149699"
@@ -18274,7 +18274,7 @@
     "2575": {
         "date_time": "2020-09-29 05:23:48",
         "username": "daafjord",
-        "corrected_category": "NONE",
+        "corrected_category": "nynorsk",
         "text": "Nokon legg hovudet att i garderoben. Og no lyt ein leggje att armane òg. Ellers vert det fort hands...",
         "category": "bokmål",
         "sent_id": "1310812500615671808"
@@ -18322,7 +18322,7 @@
     "5492": {
         "date_time": "2021-06-16 14:49:21",
         "username": "Frederik L. Gnatt",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Går det opp for de at de på et eller annet tidspunkt burde gjort mer for P få ballen ut av hendene på Durant? \nKunne Forbes ha strukket gulvet litt om han var på? \n\nSnakker de med Giannis om fade away skudd fra posten? \n\nJeg har så lyst til å være i det rommet.",
         "category": "bokmål",
         "sent_id": "1405175670754394117"
@@ -18386,7 +18386,7 @@
     "1882": {
         "date_time": "2021-07-31 18:52:37",
         "username": "OleNeikopp",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@bardeide Litt uklårt kven som var helsikefagarbeidaren i skriftstjorni. Kjell Bondevik? Eller Olav Aukrust d.y.?",
         "category": "nynorsk",
         "sent_id": "1421544346139115528"
@@ -18442,7 +18442,7 @@
     "7651": {
         "date_time": "2021-08-16 20:05:06",
         "username": "Thore Mehl",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Har poltikarane vert i vanleg arbeid? Har dei budd utanfor ring 3 ? #nrkdebatt #nrk1",
         "category": "bokmål",
         "sent_id": "1427360790173175813"
@@ -18506,7 +18506,7 @@
     "559": {
         "date_time": "2021-08-19 19:54:23",
         "username": "GorgonDr",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@lirkedirken Lag deg en konto på pørnhøb du. Je har 74000 subs der, se.",
         "category": "bokmål",
         "sent_id": "1428445257914621952"
@@ -18546,7 +18546,7 @@
     "1995": {
         "date_time": "2021-08-26 08:32:08",
         "username": "madamknipe",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Mamma'n til Albert Åberg er død.\n\nMin favoritt er \"Albert Åberg og udyret\", om da Albert blir sint og slår den vesle guten. Ein favoritt om dårleg samvit og medkjensle. Måtte vi aldri bli for store for den boka. Takk Gunilla  https://t.co/se2PnIm5Qj",
         "category": "nynorsk",
         "sent_id": "1430810280125157377"
@@ -18618,7 +18618,7 @@
     "3504": {
         "date_time": "2016-11-08 21:36:19",
         "username": "Birgitpirgit",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Han dokket ikke opp. Pga sykdom. Jaja bedre lykke neste gang",
         "category": "dialectal",
         "sent_id": "796104086718414849"
@@ -18642,7 +18642,7 @@
     "2993": {
         "date_time": "2020-10-08 21:17:43",
         "username": "kennykjev",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Klasseforskjell på laga egentlig... Serbia vinne fortjent. Ufattelig mange rart valg fra LL. På tide å takke for innsatsen å gå all in på Solbakken?",
         "category": "nynorsk",
         "sent_id": "1314314051376345089"
@@ -18778,7 +18778,7 @@
     "7742": {
         "date_time": "2021-08-16 21:20:25",
         "username": "Daniel Garden",
-        "corrected_category": "NONE",
+        "corrected_category": "nynorsk",
         "text": "@lyktestolpe @Pragma_Realist I teorien ikkje, men der er framleis ei ubehageleg kjensle av å sitte å snakke med nokon som har på seg ei finlandshette…",
         "category": "bokmål",
         "sent_id": "1427379746992795655"
@@ -18882,7 +18882,7 @@
     "3888": {
         "date_time": "2021-07-08 11:26:25",
         "username": "Tjabergnissen",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "[eg kjem til meg sjølv då nokon pirkar på meg med ein rom-pinne til forveksling lik ein pinne]\n\nRomvesen:\nBLURG-BLURG, GRÖF!\n\nEg:\n(OMGOMGOMG EIT ROMVESEN! Tenk om framtida til Jorda avgjerast av korleis eg fører meg! NO GJELD DET, VEGARD!)\n\nEg [bukkar djupt og høgtidsamt]:\nheilo,",
         "category": "nynorsk",
         "sent_id": "1413097132391862278"
@@ -18946,7 +18946,7 @@
     "2825": {
         "date_time": "2021-07-28 23:13:51",
         "username": "markushessen1",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Fint å sjå kritikk av «influencer» Jenny Huse, vel fortjent",
         "category": "dialectal",
         "sent_id": "1420522923916464135"
@@ -19034,7 +19034,7 @@
     "274": {
         "date_time": "2021-08-18 20:26:54",
         "username": "frebrake",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Då Bowie, Lemmy, Petty, Prince, Ketchum og Whitney gjekk, kjende eg ikkje noko. \n\nMen så går Sean Lock, og så ligg eg her rett ut på sofaen og deppar og ler så eg gret, medan eg ser reprise på reprise av 8 out of 10 cats på YouTube.",
         "category": "nynorsk",
         "sent_id": "1428091054813814786"
@@ -19042,7 +19042,7 @@
     "2232": {
         "date_time": "2021-08-15 23:50:28",
         "username": "LemonLenny",
-        "corrected_category": "NONE",
+        "corrected_category": "nynorsk",
         "text": "@LarsRisan @vikingpodden Fiiiine! Jo, eg kan gi lyd når du kan stikka heim",
         "category": "dialectal",
         "sent_id": "1427055120483852290"
@@ -19146,7 +19146,7 @@
     "2120": {
         "date_time": "2021-03-04 19:48:23",
         "username": "magnar22",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Ka skjer?! Everton på 4 liksom.. fytti. Må vinna idag !!",
         "category": "bokmål",
         "sent_id": "1367562586078732290"
@@ -19186,7 +19186,7 @@
     "6818": {
         "date_time": "2021-06-19 22:06:14",
         "username": "Emil André Erstad",
-        "corrected_category": "NONE",
+        "corrected_category": "nynorsk",
         "text": "To glade Vignes-søsken møtt på bar i Bergen. @Dorritvi og @kvignes er nesten betre i verkelegheita enn på Twitter. https://t.co/NVh1niOaM4",
         "category": "bokmål",
         "sent_id": "1406372780849963020"
@@ -19258,7 +19258,7 @@
     "7427": {
         "date_time": "2021-06-20 21:42:34",
         "username": "Johan Nilsson",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@surtvittvin @kattatonika @MsLouiseblues @vansterpartiet @dadgostarnooshi Samma i Kramfors",
         "category": "bokmål",
         "sent_id": "1406729212761886722"
@@ -19266,7 +19266,7 @@
     "3354": {
         "date_time": "2015-05-23 22:05:01",
         "username": "marienborgen",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Living on the edge - legg mæ FØR stemmegivinga e over. Gu kor speinnanes det blir å stå opp! #nrkmgp #nrkmgp",
         "category": "dialectal",
         "sent_id": "602233797841653761"
@@ -19282,7 +19282,7 @@
     "5911": {
         "date_time": "2021-06-17 09:24:01",
         "username": "Odd M",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@Melbollemusa @litelin @Nordie12 At du syns eg er en rass er jo et tegn på at eg gjør det meste rett",
         "category": "bokmål",
         "sent_id": "1405456186611224580"
@@ -19314,7 +19314,7 @@
     "59": {
         "date_time": "2021-06-26 20:54:42",
         "username": "2830_Raufoss",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@sigurdnruud Fotballbanter er helt OK. Bring it! Det var ikke der du havnet med akkurat den tweeten. Kred for flatlegging.",
         "category": "bokmål",
         "sent_id": "1408891491133669378"
@@ -19330,7 +19330,7 @@
     "4990": {
         "date_time": "2021-06-15 08:57:31",
         "username": "Odd M",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@SveinAsleik Støtter de dette risikerer de samarbeidet i/etter stortingsvalget, så eg tror kommunistene trekker seg",
         "category": "bokmål",
         "sent_id": "1404724739734753281"
@@ -19442,7 +19442,7 @@
     "191": {
         "date_time": "2021-08-24 18:21:13",
         "username": "frebrake",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Ok, gamle Oppland. Vis meg at Carl &amp; Co like gjerne kunne brukt desse 250.000,- på Gammel Opland og ei gedigen kanakkasfyll, framfor å shoppe annonseplass i lokalavisene i området. Ansvaret ligg på dykk!",
         "category": "nynorsk",
         "sent_id": "1430233752819707906"
@@ -19474,7 +19474,7 @@
     "3858": {
         "date_time": "2021-07-23 07:48:26",
         "username": "Tjabergnissen",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Inni deg bur to ulvar. Det er frykteleg dorleg plass og eit klart brot mot viltloven,",
         "category": "nynorsk",
         "sent_id": "1418478093946195969"
@@ -19506,7 +19506,7 @@
     "3268": {
         "date_time": "2016-12-02 04:49:38",
         "username": "samenisu",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Samme med fiske #forrigetweet Æ e ikke imponert og vil ikke ete mordet dett",
         "category": "bokmål",
         "sent_id": "804548054124740608"
@@ -19554,7 +19554,7 @@
     "2555": {
         "date_time": "2020-12-04 18:35:48",
         "username": "daafjord",
-        "corrected_category": "NONE",
+        "corrected_category": "nynorsk",
         "text": "@Magnekydland @TrondSvendsenHA @norjournalister 50 kr for 0.33 = 151 pr liter\n150 kr for ei flaske vin 0.75....\nEr vel i grunn ikkje så gale..",
         "category": "dialectal",
         "sent_id": "1334929414224830464"
@@ -19562,7 +19562,7 @@
     "5157": {
         "date_time": "2021-06-15 14:19:58",
         "username": "🏳️‍🌈Superhelt-Hannanas🏳️‍🌈",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@MrCortado Ser frem til å kunne gi dere en klem snart ",
         "category": "bokmål",
         "sent_id": "1404805890486775808"
@@ -19570,7 +19570,7 @@
     "4807": {
         "date_time": "2021-06-14 20:46:22",
         "username": "Odd M",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@heterodoksno @snjofnugg Så du vil heller la uendelig mange flere dø fordi DU er skeptisk til vaksinen?\nFlere vaksiner vi skal kutte ut?",
         "category": "bokmål",
         "sent_id": "1404540741951578113"
@@ -19578,7 +19578,7 @@
     "6307": {
         "date_time": "2021-06-18 23:22:20",
         "username": "Bjørn Kasper Ilaug",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Friends over for a BBQ  Have a Nice weekend .. @ Dataundervisningen - ikke noe snikksnakk, bare informatikk takk. https://t.co/dD0snjnjS1",
         "category": "mixed",
         "sent_id": "1406029543949975554"
@@ -19586,7 +19586,7 @@
     "260": {
         "date_time": "2021-08-19 21:45:00",
         "username": "frebrake",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Ting eg syns var ein veldig god og kul idé, men som kona skaut ned med berre blikket:\n\n19.08.2021\n- Alle Philips HUE-pærene i huset som blinka i takt med Ambilight'en på TV'en. Eg fekk 15 minuttar med kjempestemning i stova. Så kom blikket.",
         "category": "nynorsk",
         "sent_id": "1428473098035245068"
@@ -19594,7 +19594,7 @@
     "6243": {
         "date_time": "2021-06-18 20:29:48",
         "username": "Øyvind Alapnes",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "La oss lage det største publikumsarrangementet siden nedstengningen! Bli med på begivenheten",
         "category": "bokmål",
         "sent_id": "1405986121696301060"
@@ -19602,7 +19602,7 @@
     "2028": {
         "date_time": "2021-08-22 22:57:56",
         "username": "madamknipe",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@CPalmesen God natt frå mørke, mørke Nord-Gudbrandsdalen (Oæææ!) https://t.co/PBvnoRMf9y",
         "category": "nynorsk",
         "sent_id": "1429578612848664579"
@@ -19610,7 +19610,7 @@
     "4006": {
         "date_time": "2021-06-21 13:50:28",
         "username": "fugleperspektiv",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Treng du litt fornøyeleg hiphop i livet ditt? Sjekk dette!\n\nMi favorittlinje er \"b****es blir fuktige, litt som en kjellerbod\" https://t.co/UPCHujgqWC",
         "category": "mixed",
         "sent_id": "1406972790306217985"
@@ -19618,7 +19618,7 @@
     "4083": {
         "date_time": "2021-08-23 22:19:35",
         "username": "magloken",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Droppa å poste den greia med nordlegaste og austlegaste og sørlegaste og vestlegaste stad eg har vore da eg innsåg at den austlegaste staden eg har vore er flyplassen i Doha.",
         "category": "nynorsk",
         "sent_id": "1429931349771800578"
@@ -19626,7 +19626,7 @@
     "3009": {
         "date_time": "2021-08-09 13:08:28",
         "username": "Haavardkr",
-        "corrected_category": "NONE",
+        "corrected_category": "nynorsk",
         "text": "@WildcardFC @EinarTornquist Bruno eller ikkje Bruno? Det er spørsmålet.",
         "category": "bokmål",
         "sent_id": "1424719229467697152"
@@ -19634,7 +19634,7 @@
     "6665": {
         "date_time": "2021-06-19 17:22:21",
         "username": "Edna G 🍓",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "To av mine kjæreste nyter sommeren på #hytta #DagensFendi",
         "category": "bokmål",
         "sent_id": "1406301338057723911"
@@ -19642,7 +19642,7 @@
     "806": {
         "date_time": "2021-08-12 16:53:37",
         "username": "MariaBitteLita",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@MrCortado Himmelen åpna seg og regna omtrent kattunger før kamp. Men gav seg til kampstart.",
         "category": "bokmål",
         "sent_id": "1425863053955026952"
@@ -19650,7 +19650,7 @@
     "889": {
         "date_time": "2021-07-16 20:12:22",
         "username": "MariaBitteLita",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Frivillighet og Norge er en rar ting. Landet der folk, inkl. Undertegnede tar seg fri fra jobb for å jobbe dugnad isteden.",
         "category": "bokmål",
         "sent_id": "1416128596624777216"
@@ -19658,7 +19658,7 @@
     "7059": {
         "date_time": "2021-06-20 13:25:27",
         "username": "Magnus Åström",
-        "corrected_category": "NONE",
+        "corrected_category": "bokmål",
         "text": "#landsfadern har #problem med sitt #regeringsunderlag #alltärbättreän #nuvarande #regering #stegetefter HT @lena_malmberg @ Kulturdepartementet https://t.co/p264zyvCuy",
         "category": "mixed",
         "sent_id": "1406604108543430673"
@@ -19666,7 +19666,7 @@
     "7222": {
         "date_time": "2021-06-20 17:19:22",
         "username": "Fredrik Østbye (Fred Øst)",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Jeg er sikker på at Hitler også hadde roa seg hvis bare @nff_info tok en prat med han.",
         "category": "bokmål",
         "sent_id": "1406662975566581765"
@@ -19674,7 +19674,7 @@
     "504": {
         "date_time": "2021-08-28 12:26:25",
         "username": "GorgonDr",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@eltervaagos @FAFiltvedt @JanAageFjortoft Er jo klart at Utd trenger rotasjon for AWB og konkurranse, men med tanke på at gjenstående budsjett er lite, bruk for guds skyld pengene på en DM. Kan ta en sjanse på en av de yngre i Frankrike for omtrent det samme som Trippier vil koste.",
         "category": "bokmål",
         "sent_id": "1431594014617358338"
@@ -19682,7 +19682,7 @@
     "3659": {
         "date_time": "2021-08-18 19:22:59",
         "username": "oslolos1",
-        "corrected_category": "NONE",
+        "corrected_category": "bokmål",
         "text": "Gi meg Maridalsuka, Groruddalsuka, Mærradalsuka eller Prinsdalsuka, bare ALT annet enn Arendalsuka!! Møkkalei.",
         "category": "mixed",
         "sent_id": "1428074968412266513"
@@ -19690,7 +19690,7 @@
     "6541": {
         "date_time": "2021-06-19 13:23:10",
         "username": "Magne Bjella",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@Ameliahoboken Det var også en måte å vri sannheten rundt på  kreativt",
         "category": "bokmål",
         "sent_id": "1406241147824001027"
@@ -19698,7 +19698,7 @@
     "7043": {
         "date_time": "2021-06-20 12:49:57",
         "username": "Vidar Winje",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@ORonningen du så litt konsentrert/lei av livet der du gikk med bunnpris-posen!",
         "category": "bokmål",
         "sent_id": "1406595174088810497"
@@ -19706,7 +19706,7 @@
     "1378": {
         "date_time": "2012-04-13 11:35:21",
         "username": "TorvaldTu",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "I kver ei pløgde fåra | hu høppe å' hu pikka', | - å' maden får hu fritt. . .",
         "category": "dialectal",
         "sent_id": "190765113152778241"
@@ -19714,7 +19714,7 @@
     "6924": {
         "date_time": "2021-06-20 08:48:02",
         "username": "Odd Goderstad🇳🇴",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Blir det amerikanske tilstander her på berget også, med saksøking over en lav sko. Noen prøver å tjene seg rike på å saksøke andre https://t.co/z5JenrmSCI",
         "category": "bokmål",
         "sent_id": "1406534295645212675"
@@ -19722,7 +19722,7 @@
     "7392": {
         "date_time": "2021-06-20 20:36:55",
         "username": "Anders Stolsmo",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@elinlestrange @HansOlavLahlum s biografi om Reiulf Steen, fantastisk politisk historie.",
         "category": "bokmål",
         "sent_id": "1406712691327180801"
@@ -19730,7 +19730,7 @@
     "6590": {
         "date_time": "2021-06-19 15:03:15",
         "username": "Arne Pettersen",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Endelig kamp igjen live. Skeid - Arendal. 0-0 til pause. https://t.co/OePp5chiBx",
         "category": "bokmål",
         "sent_id": "1406266334317527040"
@@ -19738,7 +19738,7 @@
     "5910": {
         "date_time": "2021-06-17 09:23:46",
         "username": "Sigrid Z. Heiberg",
-        "corrected_category": "NONE",
+        "corrected_category": "bokmål",
         "text": "Jeg skriver i KK i dag:\n\nFor tredje gang bidrar Rødt til å opprettholde doble standarder i politikken overfor Lan Marie Berg. \n\nDet er synd, og jeg skulle ønske alle mine venner i Rødt reflekterte over hvem som til syvende og sist tjener på det.\n\nhttps://t.co/nK7BDpokav",
         "category": "nynorsk",
         "sent_id": "1405456122069323779"
@@ -19746,7 +19746,7 @@
     "7224": {
         "date_time": "2021-06-20 17:21:47",
         "username": "Tor Aasgaard",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Fult fortjent. 100% søppel fra @RBKfotball , som er på er mørkt mørkt sted om dagen.\n\nDet verste av alt? Kjenner jeg knapt bryr meg lengre. Dette er, både på og utenfor banen, så laaaaaangt fra det @RBKfotball skal være, at det kan være det samme.",
         "category": "bokmål",
         "sent_id": "1406663583023382528"
@@ -19754,7 +19754,7 @@
     "6682": {
         "date_time": "2021-06-19 18:07:48",
         "username": "Tom Mehlum",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Blir kvalm av #Bravida og @multiconsult_no \n\nTo selskapet som viser liten solidaritet med resten av oss under pandemien.\n\n#COVID19 #lavmål",
         "category": "bokmål",
         "sent_id": "1406312774469402624"
@@ -19762,7 +19762,7 @@
     "7665": {
         "date_time": "2021-08-16 20:14:14",
         "username": "Rune Vidar Nordum",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@Pederen @StolAnders @geirjorgensen Uvant med flatbong! Men det funket jo!",
         "category": "bokmål",
         "sent_id": "1427363091658969088"
@@ -19770,7 +19770,7 @@
     "2268": {
         "date_time": "2021-08-12 09:09:47",
         "username": "LemonLenny",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@staalec Hehe, fortsatt ikkje nok mandater til å gjennomføre kontroversielle ting... Når det er sagt er eg ikkje heilt nøytral, eg like sv og rødt",
         "category": "nynorsk",
         "sent_id": "1425746322460758020"
@@ -19778,7 +19778,7 @@
     "840": {
         "date_time": "2021-08-02 21:41:48",
         "username": "MariaBitteLita",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Utesteder har i mange år praktisert høyere aldersgrenser enn 20 år. Det er ikke coronanytt.",
         "category": "bokmål",
         "sent_id": "1422311697474326529"
@@ -19786,7 +19786,7 @@
     "2586": {
         "date_time": "2020-08-24 05:31:54",
         "username": "daafjord",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Var det kun éin søkjar til denne leiande stillinga i \"oljefondet\"? Verkar slik.",
         "category": "nynorsk",
         "sent_id": "1297768576015839232"
@@ -19794,7 +19794,7 @@
     "1313": {
         "date_time": "2021-08-11 17:55:41",
         "username": "LemonLenny",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@CSpange E det i det hele tatt lovlig??? ",
         "category": "bokmål",
         "sent_id": "1425516285639761928"
@@ -19802,7 +19802,7 @@
     "3638": {
         "date_time": "2021-08-22 16:17:23",
         "username": "oslolos1",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Spar meg! En hån mot folk som sliter rævva av seg i helse, skole og andre slitsomme og samfunnsnyttige yrker! Skamme seg! https://t.co/noJ7tqBn1V",
         "category": "bokmål",
         "sent_id": "1429477811992109065"
@@ -19810,7 +19810,7 @@
     "5024": {
         "date_time": "2021-06-15 10:25:58",
         "username": "Glenn F. Henriksen",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@einarso @andersskyrud Da har vi noe forskjellig oppfatning. Fair enough. Jeg oppfatter @aftenposten i denne saken som tabloide og at en tendensiøs overskrift skaper mindre toleranse for tiltak.",
         "category": "bokmål",
         "sent_id": "1404747000910909444"
@@ -19818,7 +19818,7 @@
     "6417": {
         "date_time": "2021-06-19 08:54:51",
         "username": "Remi Antonsen",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Dagens:\n\nMenneskene blir født for å leve, ikke for å forberede seg til livet.\n\nBoris Pasternak",
         "category": "bokmål",
         "sent_id": "1406173619865231360"
@@ -19826,7 +19826,7 @@
     "4551": {
         "date_time": "2021-06-14 16:07:40",
         "username": "Magne Bjella",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@Geitebukk2 Så ingen blir avhengig av de rusmidlene du ønsker frigitt? Ingen som starter med de og havner Iver på hardere stoffer? Selvfølgelig vil sikre at kommunene får nok midler til å bygge opp behandlingskapasitet for de som havner utpå…. Selvfølgelig vil du også betale mer skatt!",
         "category": "bokmål",
         "sent_id": "1404470603260870659"
@@ -19834,7 +19834,7 @@
     "4790": {
         "date_time": "2021-06-14 20:34:03",
         "username": "Ragnar Liaskar",
-        "corrected_category": "NONE",
+        "corrected_category": "bokmål",
         "text": "@ovesjostrom Sløsing! Kan da klare seg med et par kullbiter!",
         "category": "mixed",
         "sent_id": "1404537642260254720"
@@ -19842,7 +19842,7 @@
     "7102": {
         "date_time": "2021-06-20 14:32:39",
         "username": "Andreas Viseth",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@boreal #boreal på strekningen Molde - Vestnes. Den tilhører @Fjord1. Nokon må gå. Rystende.",
         "category": "bokmål",
         "sent_id": "1406621021638119425"
@@ -19850,7 +19850,7 @@
     "3296": {
         "date_time": "2016-10-12 05:43:39",
         "username": "samenisu",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Naboen har fløtta. Føle mæ like tom som vindue hennes. \"Vi kommer tell å hålle kontakten\" #jasærlig #hørtdetfør",
         "category": "dialectal",
         "sent_id": "786079865162391552"
@@ -19858,7 +19858,7 @@
     "2582": {
         "date_time": "2020-08-27 07:54:01",
         "username": "daafjord",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Kona mi har skifta lysrøyr på kontoret sitt. Heilt åleine. Eg er stolt!",
         "category": "nynorsk",
         "sent_id": "1298891503893385218"
@@ -19866,7 +19866,7 @@
     "6536": {
         "date_time": "2021-06-19 13:15:07",
         "username": "Raúl Gutiérrez",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@kkristensen_ Energimerke G? Nei, dette er for dårlig.",
         "category": "bokmål",
         "sent_id": "1406239120628846595"
@@ -19874,7 +19874,7 @@
     "2460": {
         "date_time": "2020-12-06 16:35:34",
         "username": "elgenn",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "I just earned the 'Here Come the Vikings! (Level 90)' badge on @untappd! https://t.co/KZdPqGeC7R",
         "category": "mixed",
         "sent_id": "1335623931613618176"
@@ -19882,7 +19882,7 @@
     "1782": {
         "date_time": "2015-01-06 22:13:57",
         "username": "TrineeHanssen",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Hvis året fortsatte slik som det har vært te no - kan det her sjå meget lovende ut",
         "category": "dialectal",
         "sent_id": "552588912129228801"
@@ -19890,7 +19890,7 @@
     "3379": {
         "date_time": "2014-11-19 23:35:55",
         "username": "marienborgen",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Kosn holder man fast i de gode intensjonan som kommer rett før man legg sæ? // #justdoit #oppogfram",
         "category": "dialectal",
         "sent_id": "535214920204582912"
@@ -19898,7 +19898,7 @@
     "21": {
         "date_time": "2021-07-21 17:10:05",
         "username": "2830_Raufoss",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Hænn somn sendte i pølsebua kom at mæ to pølser å en vaffel. https://t.co/8enRdHjXHE",
         "category": "dialectal",
         "sent_id": "1417894664649195525"
@@ -19906,7 +19906,7 @@
     "4170": {
         "date_time": "2012-08-23 20:28:46",
         "username": "naki_grein",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "ikkje sjeldan lyt eg minne meg (sjølv) på (at) 'Dette er ikkje nokon armods stad'",
         "category": "nynorsk",
         "sent_id": "238734550040190976"
@@ -19914,7 +19914,7 @@
     "3247": {
         "date_time": "2015-02-20 22:09:06",
         "username": "evelynsorensen",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@Jonasklingan @peffermell hm. Kanskje e ska se den. En gång. I framtida.",
         "category": "dialectal",
         "sent_id": "568895144407265280"
@@ -19922,7 +19922,7 @@
     "7207": {
         "date_time": "2021-06-20 17:09:26",
         "username": "R. Thorsen",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Er det egentlig noen som går på den der overhoppinga på frispark?",
         "category": "bokmål",
         "sent_id": "1406660475509747713"
@@ -19930,7 +19930,7 @@
     "4405": {
         "date_time": "2021-08-24 20:04:40",
         "username": "marenostbo",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@EnnySolli @mejtex Enig. Ungar og seksualitet er faktisk ikkje blandbart.",
         "category": "nynorsk",
         "sent_id": "1430259786604482561"
@@ -19938,7 +19938,7 @@
     "262": {
         "date_time": "2021-08-19 21:31:54",
         "username": "frebrake",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@amundjo @TBadekar @elinlestrange @SvenbalDrew No når vi hadde det så hyggeleg.",
         "category": "nynorsk",
         "sent_id": "1428469801408675840"
@@ -19946,7 +19946,7 @@
     "1467": {
         "date_time": "2012-01-27 19:05:24",
         "username": "TorvaldTu",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Å, var eg berre kvisten då | som unge knoppar spretter på.",
         "category": "nynorsk",
         "sent_id": "162974505474596864"
@@ -19954,7 +19954,7 @@
     "3445": {
         "date_time": "2014-02-21 23:03:29",
         "username": "marienborgen",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "(Æ burde vist tægge. Take 2 )\nKan vi få @Hjort_r_Hjort på Nytt på nytt hver fredag? // #svinaktigbra #Tromsølove",
         "category": "dialectal",
         "sent_id": "436999646544932864"
@@ -19962,7 +19962,7 @@
     "3999": {
         "date_time": "2021-06-28 08:56:27",
         "username": "fugleperspektiv",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@kjetilhope At det vi gjør automatisk fikser problemet, og at du ikkje må gjere noko innsats sjølv.",
         "category": "dialectal",
         "sent_id": "1409435516970442759"
@@ -19970,7 +19970,7 @@
     "1895": {
         "date_time": "2021-08-27 18:15:51",
         "username": "totlevase",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@tanketom @elinlestrange Det er då vel vaksinen som er eit stikk?",
         "category": "nynorsk",
         "sent_id": "1431319564743233538"
@@ -19978,7 +19978,7 @@
     "618": {
         "date_time": "2021-06-30 17:05:35",
         "username": "anettesaether",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@TomAndreSande @PernilleHuseby @RbnettFotball Du va jo egentlig veldig positiv sjøl, Tom. Da du hadde pod altså. Så slutta du podde og blei negativ igjen ",
         "category": "dialectal",
         "sent_id": "1410283385843601413"
@@ -19986,7 +19986,7 @@
     "6274": {
         "date_time": "2021-06-18 21:13:48",
         "username": "Lars Harald Nordgård",
-        "corrected_category": "NONE",
+        "corrected_category": "mixed",
         "text": "Snadder - Drinking a Tropenatt Dobbel IPA by E.C. Dahls Bryggeri @ Bakeriet Pub og Kafe  — https://t.co/G34JAsOOLe",
         "category": "dialectal",
         "sent_id": "1405997196256890881"
@@ -19994,7 +19994,7 @@
     "5525": {
         "date_time": "2021-06-16 15:57:49",
         "username": "Rita",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@aage_no Det var som sagt ein vits ",
         "category": "bokmål",
         "sent_id": "1405192900313485312"
@@ -20002,7 +20002,7 @@
     "5189": {
         "date_time": "2021-06-15 15:29:36",
         "username": "Rita",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Portugisisk i EM-kjøkkenet i dag\nAntonius von Paduas fiskegryte. Veldig god! https://t.co/IQLMp1Gea6",
         "category": "bokmål",
         "sent_id": "1404823412472631298"
@@ -20010,7 +20010,7 @@
     "5665": {
         "date_time": "2021-06-16 18:57:47",
         "username": "måten_du_sier_det_på",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@andersheger @olavtorvund Noe man har dyttet på i 50 år har tydeligvis ikke vært viktig nok, og hvertfall ikke sett gjennom samtidens briller. At prisingen skulle bli så grisete burde kanskje en byråd både ha skjønt og varslet tidlig nok. Så vis meg denne byråden.",
         "category": "bokmål",
         "sent_id": "1405238192261980160"
@@ -20018,7 +20018,7 @@
     "4826": {
         "date_time": "2021-06-14 21:08:13",
         "username": "Magnus Eide",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Er Jo Nesbø den motsatte av Drillo? «Jeg synes alle var gode jeg»",
         "category": "bokmål",
         "sent_id": "1404546241925636106"
@@ -20026,7 +20026,7 @@
     "3320": {
         "date_time": "2016-09-30 17:37:32",
         "username": "samenisu",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Takke faen for at puppetirsdag aldri fall på fredagsvodkaen. Det kunne blitt riktig pinlig.",
         "category": "dialectal",
         "sent_id": "781910867306774528"
@@ -20034,7 +20034,7 @@
     "195": {
         "date_time": "2021-08-24 13:16:45",
         "username": "frebrake",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@emalmas Aiai, @frkheggem - du har gjort det HEILT FEIL. \n\nhttps://t.co/3jdNNnreAL",
         "category": "nynorsk",
         "sent_id": "1430157129193869323"
@@ -20042,7 +20042,7 @@
     "4533": {
         "date_time": "2021-06-14 15:46:33",
         "username": "KapAbel Hiorth 🏳‍🌈👩‍❤️‍💋‍👩👨‍❤️‍💋‍👨🎬",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Når du tror du har et knakende godt argument når du ikke har det https://t.co/ZnHrQXrcQo",
         "category": "bokmål",
         "sent_id": "1404465291938177027"
@@ -20050,7 +20050,7 @@
     "1519": {
         "date_time": "2014-01-05 14:41:18",
         "username": "IvarOpsal",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Husk at mange av dei beste utlendingane ikkje er med i dette årets tour de Ski, mens Norge har med alle sine beste. #nrksport",
         "category": "nynorsk",
         "sent_id": "419841039185481728"
@@ -20058,7 +20058,7 @@
     "7008": {
         "date_time": "2021-06-20 11:26:03",
         "username": "Tor Harald Vist",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Går å ha hund når de er sånn. Trenger bare oversikt over at hun er innafor tomta.\n#bordercollie #bordercollienorge #hund #hundpåinstagram #hundinorge #hundeliv #nrktrøndelag #nrk https://t.co/uzLOfxY8L8",
         "category": "bokmål",
         "sent_id": "1406574061505945601"
@@ -20066,7 +20066,7 @@
     "6248": {
         "date_time": "2021-06-18 20:33:02",
         "username": "Lasse liten verden er så stor så stor",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Det ligger litt i luften at Pickford tar tak i kampen og gjør 1-0 til Skottland #ENGSCO",
         "category": "bokmål",
         "sent_id": "1405986937215782916"
@@ -20074,7 +20074,7 @@
     "5109": {
         "date_time": "2021-06-15 12:41:32",
         "username": "måten_du_sier_det_på",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Hva! Kalle meg, hø vet du hva, ha ha... https://t.co/4ro6Qtx9IM",
         "category": "bokmål",
         "sent_id": "1404781118721826820"
@@ -20082,7 +20082,7 @@
     "5044": {
         "date_time": "2021-06-15 11:00:06",
         "username": "Stig Marthinussen",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@OJacobsen Slås kun av Winter Games på min toppliste",
         "category": "bokmål",
         "sent_id": "1404755588656119810"
@@ -20090,7 +20090,7 @@
     "6841": {
         "date_time": "2021-06-19 23:28:50",
         "username": "Frederik L. Gnatt",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@DavyWathne Jeg tror de vinner, men skal ikke si til andre hvordan de skal bruke pengene sine.",
         "category": "bokmål",
         "sent_id": "1406393568542003208"
@@ -20098,7 +20098,7 @@
     "5446": {
         "date_time": "2021-06-16 13:46:18",
         "username": "ehealthresearchNOR",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Helsemyndighetene ønsker bedre bruk av kunstig intelligens i helsetjenesten. @Helsedir beskriver dagens situasjon, anbefalinger for #ki prosjekter og pågående arbeid. Se mer på https://t.co/Kup64Lz6OJ https://t.co/SBkY77UVXO",
         "category": "bokmål",
         "sent_id": "1405159803220115459"
@@ -20106,7 +20106,7 @@
     "3895": {
         "date_time": "2015-07-04 13:46:20",
         "username": "kopskalle",
-        "corrected_category": "NONE",
+        "corrected_category": "bokmål",
         "text": "Nytt antrekk i anledning #trysilrittet utrulig varmt å være supporter, glad jeg ikke deltar http://t.co/jVUKmj4HT2",
         "category": "dialectal",
         "sent_id": "617328591559376896"
@@ -20114,7 +20114,7 @@
     "126": {
         "date_time": "2021-07-11 10:15:52",
         "username": "sekjusegett",
-        "corrected_category": "NONE",
+        "corrected_category": "mixed",
         "text": "@Oispammy Jeg diskuterer alt mulig jeg, men påberoper meg aldri å ha sannheten for det har jeg ikke. Bare så enkelt som du sier det er sært å ikke bestemme seg for at kloden varmes, hva betyr egentlig det. Kloden varmes og kjøles akkurat som den sikkert har gjort i milliarder av år trur je",
         "category": "bokmål",
         "sent_id": "1414166544062599171"
@@ -20122,7 +20122,7 @@
     "6076": {
         "date_time": "2021-06-18 16:37:11",
         "username": "🏳️‍🌈Superhelt-Hannanas🏳️‍🌈",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@llandari @LadyVoodoo_ DU KUNNE VÆRT NÆRMERE OG ERGO KUNNE TAFSET PÅ HENNE SOM HUN VIL",
         "category": "bokmål",
         "sent_id": "1405927585637453824"
@@ -20130,7 +20130,7 @@
     "4694": {
         "date_time": "2021-06-14 19:11:05",
         "username": "ernst falch",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@kjemiSarah ikke kjedelig tweet det der, interessant, jeg leste alle ordene, det er riktig… skriv alt som faller deg inn, liker ikke folk det skriver, så ikke heng deg opp i det, vær deg selv, enjoy, jeg liker dine tweet\nser frem til dine neste tweeter",
         "category": "bokmål",
         "sent_id": "1404516760779382788"
@@ -20138,7 +20138,7 @@
     "5047": {
         "date_time": "2021-06-15 11:03:46",
         "username": "Rugml Mestavia 🏳️‍⚧️BLM",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Jeg håper virkelig ikke jeg har tilbrakt ei natt i Garasjehølet uten at det var noen vits.",
         "category": "bokmål",
         "sent_id": "1404756512728363012"
@@ -20146,7 +20146,7 @@
     "824": {
         "date_time": "2021-08-03 21:51:43",
         "username": "MariaBitteLita",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@ABLillebergen Sånn er det. Vi må også slutte snakke om at tannhelse er bare selvforskyldt og handler om dårlig hygiene. For det stemmer jo ikke. Tenk om vi snakket likedan om hjerte- og lungeproblemer?",
         "category": "bokmål",
         "sent_id": "1422676581487726595"
@@ -20154,7 +20154,7 @@
     "7855": {
         "date_time": "2021-08-17 06:36:41",
         "username": "Jonas Tautra Vevatne",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@ebrautaset @HFMarthinussen @jenskihl Så du skal slippe opp helt på oppløpssiden. Det skal settes 1 mill doser i de kommende dagene. Situasjonen om et par uker vil være en helt annen.\nVi trenger ikke nå få en oppblomstring hos barn som ennå ikke er tilbudt vaksine.",
         "category": "bokmål",
         "sent_id": "1427519735428788227"
@@ -20162,7 +20162,7 @@
     "3174": {
         "date_time": "2015-05-18 18:44:28",
         "username": "evelynsorensen",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "En av mine favorittaktiviteta e å spreng på Rambergstranda når dæ e sol &lt;3&lt;3",
         "category": "dialectal",
         "sent_id": "600371389493878785"
@@ -20170,7 +20170,7 @@
     "1715": {
         "date_time": "2021-05-18 20:12:03",
         "username": "EmmaKaspara",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "På den positive sia så har æ allerede en plan B om æ kje sku kom inn! Fortsett å ta opp fag (ikje kjemi, treng livsgleden tebake) men best av alt e at æ tenke å ikje vær i Tromsø det året! Kem veit, kanskje æ ende opp i hovedstaden å tar et år uten mørketid og får mæ et liv",
         "category": "dialectal",
         "sent_id": "1394747630903832576"
@@ -20178,7 +20178,7 @@
     "5513": {
         "date_time": "2021-06-16 15:21:27",
         "username": "Oda Haukaas",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Toxic trait: bli mett på brød før maten kommer til bordet.",
         "category": "bokmål",
         "sent_id": "1405183747901870091"
@@ -20186,7 +20186,7 @@
     "6011": {
         "date_time": "2021-06-18 14:49:47",
         "username": "Lasse liten verden er så stor så stor",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Så mange søppelskalla der ute. Så uendelig mange.",
         "category": "nynorsk",
         "sent_id": "1405900556577685506"
@@ -20194,7 +20194,7 @@
     "6821": {
         "date_time": "2021-06-19 22:18:47",
         "username": "Håkon M.S. Danielsen",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@CTviberg @HFMarthinussen Han både vinner og taper saker, som alle andre advokater men her er en, siden du spør. https://t.co/LHlPZ6hb6h",
         "category": "bokmål",
         "sent_id": "1406375939047673859"
@@ -20202,7 +20202,7 @@
     "3442": {
         "date_time": "2014-02-28 18:19:56",
         "username": "marienborgen",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Bruktmarked på Kulturhuset i morgen fra 11 til 15! Æ står m en koffert HUUI skjorter, litt barneting og masse retro saker og klær! #itromsø",
         "category": "dialectal",
         "sent_id": "439465003083894785"
@@ -20210,7 +20210,7 @@
     "4712": {
         "date_time": "2021-06-14 19:25:08",
         "username": "Ultras_Stickers_Oslo",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@mattismoen Joa, skolebrød-situasjonen er jo lett å kødde med. Men det skjer ofte. Og for meg er det helt greit, men jeg synes det er er uttrykk for et bygdekompleks.",
         "category": "bokmål",
         "sent_id": "1404520298419048455"
@@ -20218,7 +20218,7 @@
     "726": {
         "date_time": "2021-08-03 20:47:14",
         "username": "PernilleHuseby",
-        "corrected_category": "NONE",
+        "corrected_category": "bokmål",
         "text": "I dag er det 13 år siden jeg flytta til Oslo. 4 år seinere var jeg tilbake i Molde. Uten å ha fullført bachelorgraden. Har aldri følt meg mer mislykka. Så valgte jeg å lytte til meg selv. Flytta til Trheim, ble journalist, og dro hjem igjen.Det er det beste jeg har gjort",
         "category": "dialectal",
         "sent_id": "1422660351447945216"
@@ -20226,7 +20226,7 @@
     "4958": {
         "date_time": "2021-06-15 08:02:14",
         "username": "Sigurd",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Noen geistlige lesere som har noe å betro oss?",
         "category": "bokmål",
         "sent_id": "1404710828952244232"
@@ -20234,7 +20234,7 @@
     "3278": {
         "date_time": "2016-10-13 09:51:37",
         "username": "samenisu",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Har tatt av trusa. Den gnagde så i ræva. Føle mæ fri og gal.",
         "category": "dialectal",
         "sent_id": "786504657816412160"
@@ -20242,7 +20242,7 @@
     "6066": {
         "date_time": "2021-06-18 16:19:17",
         "username": "Håkon M.S. Danielsen",
-        "corrected_category": "NONE",
+        "corrected_category": "bokmål",
         "text": "@NickWilki Trist? Skal du ikke bli president, da?",
         "category": "dialectal",
         "sent_id": "1405923078467731458"
@@ -20250,7 +20250,7 @@
     "5430": {
         "date_time": "2021-06-16 13:11:26",
         "username": "Dag Rune Olsen",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "- @UiT er ekstremt godt rustet til å møte utfordringene frem mot 2030 sier @stMari #Norge2030 @skjalgfje @KennethRuud https://t.co/9doKW8TOAs",
         "category": "bokmål",
         "sent_id": "1405151028165713923"
@@ -20258,7 +20258,7 @@
     "5162": {
         "date_time": "2021-06-15 14:23:10",
         "username": "Monika Riskild",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Jeg trenger inspo!! Trenger noen nye klær tyoe jeans,er SUPER-tynn men kan ikke ha slim pga jeg får den ikke over leggene.. og så trenger jeg noe å chille i,type jogge/kosebukse der jeg kan springe på butikken uten og måtte skifte..bilde ønskes",
         "category": "bokmål",
         "sent_id": "1404806692026687496"
@@ -20266,7 +20266,7 @@
     "2138": {
         "date_time": "2020-11-22 21:41:05",
         "username": "kaffitraktar",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "sidde å klimpre på småok on the wåtår i dur",
         "category": "dialectal",
         "sent_id": "1330627388204572683"
@@ -20274,7 +20274,7 @@
     "6027": {
         "date_time": "2021-06-18 15:13:32",
         "username": "Einar Cyvin. 😊",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@TorillHRV 24 år. Kom på at det må ligge en vigselsattest et sted. Leter en dag jeg er alene. Forloveren treffer jeg nok dessverre bare gjennom en sånn dom snakker med ånder.",
         "category": "bokmål",
         "sent_id": "1405906532370427904"
@@ -20282,7 +20282,7 @@
     "6934": {
         "date_time": "2021-06-20 09:04:14",
         "username": "The Travel Inspector",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Sommertest av restaurant Seaport i Oslo #thetravelinspector   https://t.co/BR58bt33YS",
         "category": "bokmål",
         "sent_id": "1406538369341923332"
@@ -20290,7 +20290,7 @@
     "766": {
         "date_time": "2021-07-18 16:17:58",
         "username": "PernilleHuseby",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Begynne å merke at i egentlig ikkje orke ta her. Men drømme om at Brynhildsen ska gi ei scoring i bursdagsgave til oldefaren som fylle 100 år i dag ",
         "category": "bokmål",
         "sent_id": "1416794384163655693"
@@ -20298,7 +20298,7 @@
     "5747": {
         "date_time": "2021-06-16 20:42:14",
         "username": "Vegard Smevoll",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@svein_i_saether @mariusfla «Va det litt my lærlinga ut i trafikken i Roma i kveld, Nicolo?»\n\n«Ja, det va fankern mæ Barella».",
         "category": "bokmål",
         "sent_id": "1405264478971871235"
@@ -20306,7 +20306,7 @@
     "2144": {
         "date_time": "2020-11-14 22:27:12",
         "username": "kaffitraktar",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Dr greve intimsåpe vs figgjo i ein mma match hadde eg faen meg betalt for å se",
         "category": "dialectal",
         "sent_id": "1327739888821735430"
@@ -20314,7 +20314,7 @@
     "701": {
         "date_time": "2021-08-12 18:17:42",
         "username": "PernilleHuseby",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "I har en million maur inne i kroppen. AVGJØRE NOA, MOLDE!!",
         "category": "dialectal",
         "sent_id": "1425884212469682176"
@@ -20322,7 +20322,7 @@
     "1649": {
         "date_time": "2021-05-20 12:20:16",
         "username": "dOdinQuotes",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Veit du ka æ vil gjør? Æ vil ha me mæ kokt ægg på skolen. Og det e babyægg!!",
         "category": "dialectal",
         "sent_id": "1395353682036862977"
@@ -20330,7 +20330,7 @@
     "5293": {
         "date_time": "2021-06-15 17:49:55",
         "username": "hemsedal.com",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Har nettopp publisert en video @ Hemsedal https://t.co/JAUGnk3rzy",
         "category": "bokmål",
         "sent_id": "1404858723814674432"
@@ -20338,7 +20338,7 @@
     "7330": {
         "date_time": "2021-06-20 18:41:51",
         "username": "Pål Eskil Sneve",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Og med det kan vi vel egentlig bare gratulere «motparten» @nff_info og @KristineHaugen2 og @henrikoez. Blir en lang vei å gå.",
         "category": "bokmål",
         "sent_id": "1406683731746820100"
@@ -20346,7 +20346,7 @@
     "1851": {
         "date_time": "2021-08-06 09:46:05",
         "username": "OleNeikopp",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Er Per Sivle modell for katten Geronimo i Under snøen? Dryft i gruppor.",
         "category": "nynorsk",
         "sent_id": "1423581134424793090"
@@ -20354,7 +20354,7 @@
     "3380": {
         "date_time": "2014-11-15 23:12:16",
         "username": "marienborgen",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@NOSOas altså, gjør sæ svært godt på #NRK - at Ole Olsen fikk bli med va ikke noen minus! // #ilovenordnorge",
         "category": "bokmål",
         "sent_id": "533759416169152512"
@@ -20362,7 +20362,7 @@
     "5720": {
         "date_time": "2021-06-16 20:10:13",
         "username": "Marius Sommerfelt",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Han Locatelli er linket til Arsenal. Ender nok i Juventus tenker jeg.",
         "category": "bokmål",
         "sent_id": "1405256418182275078"
@@ -20370,7 +20370,7 @@
     "820": {
         "date_time": "2021-08-05 18:55:04",
         "username": "MariaBitteLita",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Det her bli jo kanonbra om vi bare slutte å slippe inn dustemål!",
         "category": "dialectal",
         "sent_id": "1423356900763181057"
@@ -20378,7 +20378,7 @@
     "4786": {
         "date_time": "2021-06-14 20:32:02",
         "username": "Frederik L. Gnatt",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Isak ut, den må noen forklare for meg.",
         "category": "bokmål",
         "sent_id": "1404537132618821635"
@@ -20386,7 +20386,7 @@
     "3823": {
         "date_time": "2021-08-04 21:29:55",
         "username": "Tjabergnissen",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "då eg var liten let mamma meg tru at rette nemninga på ein drikkekartong med sugerøyr var \"ein suge\" og sende meg ut blant folk\n\neg tenker ein del på dette, eg gjer det",
         "category": "nynorsk",
         "sent_id": "1423033481857220612"
@@ -20394,7 +20394,7 @@
     "5535": {
         "date_time": "2021-06-16 16:24:51",
         "username": "OpenBenches.org",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Til Erik Langaker på 50-års dagen\nfra vi som elsker deg mest!\n2013\n\nhttps://t.co/NKW9hfriDD\nCC BY-SA 4.0\n℅ @ukmoose https://t.co/7Z3wLOuk1I",
         "category": "bokmål",
         "sent_id": "1405199703537557505"
@@ -20402,7 +20402,7 @@
     "1984": {
         "date_time": "2021-08-27 14:49:03",
         "username": "madamknipe",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@brostrup Det kjem vel pga tronge budsjett. Små utkantkommunar har ikkje fått betre råd dei siste tiåra. Tvert om.",
         "category": "nynorsk",
         "sent_id": "1431267521680887815"
@@ -20410,7 +20410,7 @@
     "2682": {
         "date_time": "2017-04-21 10:31:30",
         "username": "Slaystein",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Syfilis, lepra og koppar: ny #podcast om sjukdomshistorie frå studentar ved @UniOslo_IAKH https://t.co/HLC4b6DDRS #historie",
         "category": "nynorsk",
         "sent_id": "855368389749080066"
@@ -20418,7 +20418,7 @@
     "6138": {
         "date_time": "2021-06-18 18:04:33",
         "username": "Senterbipolaristen (ho/ho/ho)",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Spørsmålet er om dei fekk frakta vaser på sykkel eller ikkje.",
         "category": "bokmål",
         "sent_id": "1405949568701939712"
@@ -20426,7 +20426,7 @@
     "3945": {
         "date_time": "2021-08-01 21:17:44",
         "username": "fugleperspektiv",
-        "corrected_category": "NONE",
+        "corrected_category": "nynorsk",
         "text": "@HellBrendy DyE - Fantasy. Låta er sånn passe, men denne musikkvideoen har brent seg inn etter at eg blei vist den for shock value på ungdomsskulen eller noko. (den er ganske intens).",
         "category": "bokmål",
         "sent_id": "1421943253935460352"
@@ -20434,7 +20434,7 @@
     "1867": {
         "date_time": "2021-08-04 08:11:42",
         "username": "OleNeikopp",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@sodafountainrag Det er vel nokon som sit og reviderer lista, ja. Sers lite gamaltestamenttekst i dei gamle listone t.d. So det du finn i boki heime fortel deg ikkje plent kva du kjem til å møta i sundagspreika, då.",
         "category": "nynorsk",
         "sent_id": "1422832604865339395"
@@ -20442,7 +20442,7 @@
     "4435": {
         "date_time": "2021-08-23 23:00:29",
         "username": "marenostbo",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@MrCortado Ja, det kan hende. Treng ikkje dyrlege med ein gong heller, ser det ut til.",
         "category": "nynorsk",
         "sent_id": "1429941642132443136"
@@ -20450,7 +20450,7 @@
     "2888": {
         "date_time": "2021-07-07 19:33:17",
         "username": "kennykjev",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@MichelGulati Der ja  tabbe va kanskje ta i. Men syns han bør ta den.",
         "category": "bokmål",
         "sent_id": "1412857270938095627"
@@ -20458,7 +20458,7 @@
     "4718": {
         "date_time": "2021-06-14 19:29:18",
         "username": "Ulf-Johnny Jenssen",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Hadde det vært Norge som spilte mot Spania i dag, hadde det stått 5-0 til Spania nå",
         "category": "bokmål",
         "sent_id": "1404521348244852744"
@@ -20466,7 +20466,7 @@
     "3512": {
         "date_time": "2015-09-24 06:26:19",
         "username": "Birgitpirgit",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "Kjenner æ glede mæ te æ e ferdig me å være forkjøla.",
         "category": "mixed",
         "sent_id": "646933665067474944"
@@ -20474,7 +20474,7 @@
     "6368": {
         "date_time": "2021-06-19 07:21:08",
         "username": "Magne Bjella",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Hva gjør du lørdag morgen da Magne? \nJo jeg sitter her å syr i en skjorteknapp ",
         "category": "bokmål",
         "sent_id": "1406150036849840131"
@@ -20482,7 +20482,7 @@
     "5365": {
         "date_time": "2021-06-15 19:46:49",
         "username": "Vålerenga forever",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@NRK_Sport Tyskland har dårlig tid sier deres kommentator... Såvidt jeg vet er det 1 omgang igjen .Våkn opp!!!!",
         "category": "bokmål",
         "sent_id": "1404888142126141443"
@@ -20490,7 +20490,7 @@
     "4339": {
         "date_time": "2021-04-28 18:19:30",
         "username": "jymbre",
-        "corrected_category": "NONE",
+        "corrected_category": "mixed",
         "text": "@paulantino66 @DarrenArsenal1 Surely priority to those with Spotify Premium.",
         "category": "nynorsk",
         "sent_id": "1387471551801536514"
@@ -20498,7 +20498,7 @@
     "5777": {
         "date_time": "2021-06-16 22:06:23",
         "username": "Ian Lumi Angel Durgé",
-        "corrected_category": "NONE",
+        "corrected_category": "mixed",
         "text": "Tonight i'm Van Helsing  @ Hindås https://t.co/9s56XxiXTj",
         "category": "dialectal",
         "sent_id": "1405285655547060226"
@@ -20506,7 +20506,7 @@
     "7563": {
         "date_time": "2021-06-22 09:02:58",
         "username": "Pil 🌈",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Føler meg sykt dårlig i dag. Sliten, engstelig og nedenfor. Brukte tydeligvis mye energi i går. Vet at prosessen kommer til å kreve mye av meg, men kjipt å ha det sånn uansett.",
         "category": "bokmål",
         "sent_id": "1407262828319358982"
@@ -20514,7 +20514,7 @@
     "7954": {
         "date_time": "2021-08-17 09:32:52",
         "username": "Dag Helge Markussen",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@ESNJonas @OffisiellESF Tipper han fortsetter der og at Sol går på høyre.",
         "category": "bokmål",
         "sent_id": "1427564071105216513"
@@ -20522,7 +20522,7 @@
     "3178": {
         "date_time": "2015-05-15 19:13:27",
         "username": "evelynsorensen",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Når jente (snart 21 år) e aleina heime mens føreldran e borte. http://t.co/4CFW1Oj9xD",
         "category": "dialectal",
         "sent_id": "599291518936064000"
@@ -20530,7 +20530,7 @@
     "4783": {
         "date_time": "2021-06-14 20:26:30",
         "username": "Magne Bjella",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@Geitebukk2 @MalaWolf Jeg vet utmerket godt historien og hva som måtte til",
         "category": "bokmål",
         "sent_id": "1404535740218982403"
@@ -20538,7 +20538,7 @@
     "4643": {
         "date_time": "2021-06-14 18:03:29",
         "username": "Tom Mehlum",
-        "corrected_category": "NONE",
+        "corrected_category": "bokmål",
         "text": "De som er ansvarlige for dette brevet er ikke egnet til å jobbe med mennesker det er helt sikkert. Maken til manglende empati er det lenge siden jeg har sett!\n#totaltuskikket #nav #skandale \n\nhttps://t.co/UxSObx7XmB",
         "category": "mixed",
         "sent_id": "1404499749760385030"
@@ -20546,7 +20546,7 @@
     "934": {
         "date_time": "2020-11-20 13:11:30",
         "username": "EilifR",
-        "corrected_category": "NONE",
+        "corrected_category": "nynorsk",
         "text": "@Colaboks Det blir nok Jehovas Vitner neste på ho ja",
         "category": "bokmål",
         "sent_id": "1329774369896329216"
@@ -20554,7 +20554,7 @@
     "2908": {
         "date_time": "2021-04-19 11:52:11",
         "username": "kennykjev",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Litt fascinerende å sjå supportera fra andre lag (utenom topp 6) i England kritisere nevnte lag og sjela til laget osv. E helt enig forøvrig, men e dei så naive at dei trur egen klubb ikkje hadde hoppa på ditte tilbudet om dei fikk muligheten?",
         "category": "dialectal",
         "sent_id": "1384112589508997132"
@@ -20562,7 +20562,7 @@
     "674": {
         "date_time": "2021-08-19 13:22:59",
         "username": "PernilleHuseby",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@Turboprinsen23 @Molde_FK Seff!! Men i huske ikkje resultatet, grunna overdreven konsum av kaffelikør. ",
         "category": "bokmål",
         "sent_id": "1428346760498348032"
@@ -20570,7 +20570,7 @@
     "6810": {
         "date_time": "2021-06-19 21:50:56",
         "username": "Andreas Theilmann Jensen",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@christianholum @sblystad @asbjorn1975 Daredevil er den beste av dem, synes, jeg.",
         "category": "bokmål",
         "sent_id": "1406368928570523648"
@@ -20578,7 +20578,7 @@
     "383": {
         "date_time": "2021-08-26 16:40:48",
         "username": "RandyBoBandy500",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@TinaHolmboe @dagw Enig. Alt var ikke akkurat perfekt på den tiden. Men mange som er misfornøyd med dagens sosiale regler savner nok en del av friheten (for dem selv) de kjente på før i tiden. Tipper dette er en del av velgergruppen til Demokratene.",
         "category": "bokmål",
         "sent_id": "1430933255591809029"
@@ -20586,7 +20586,7 @@
     "7380": {
         "date_time": "2021-06-20 20:11:08",
         "username": "Arnt Furunes 🇧🇻🏳️‍🌈 ᚾIᛋᛟᛚᚢᛋᛟᛏ",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@SuperGeir77 Hva tror du all antibacen lages av?",
         "category": "bokmål",
         "sent_id": "1406706202436947978"
@@ -20594,7 +20594,7 @@
     "6285": {
         "date_time": "2021-06-18 21:42:13",
         "username": "DNBS&A",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Ønsker du å kombinere ballett på toppidrettsnivå med videregående skole? Se hva vår elev Ibeline Leversen sier om kombinasjonen ved Den Norske Ballettskole og Akademi sitt DNBS&amp;A Masterclass program, https://t.co/CtpB6x4uAh,  i samarbeid med Heltberg private gymnas @heltberg.no https://t.co/RCwvaFYhsF",
         "category": "bokmål",
         "sent_id": "1406004349063647238"
@@ -20602,7 +20602,7 @@
     "3828": {
         "date_time": "2021-08-04 09:25:12",
         "username": "Tjabergnissen",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "held du på med  k r y p t o v a l u t a  seier du? for ein ufatteleg interessant person du må vere. jau sjølvsagt vil eg høyre meir. fascinerande. orsak dreglinga. kom nærmare og fortel meir. litt nærmare. litt til. litt til. litt til. litt til. litt ti",
         "category": "nynorsk",
         "sent_id": "1422851101024571393"
@@ -20610,7 +20610,7 @@
     "5806": {
         "date_time": "2021-06-17 04:06:31",
         "username": "IngerVaksiAnna😷💉",
-        "corrected_category": "NONE",
+        "corrected_category": "bokmål",
         "text": "@Kennethuteliv @vontasten Hender skal gjøres helt rene både før og etter håndtering av munnbind, Og et munnbind som er tatt av, skal ikke på igjen, også av hygienehensyn. Hvis man skal innom flere steder, er det smart å bare beholde munnbindet på, om man er helsepersonell eller ikke.",
         "category": "dialectal",
         "sent_id": "1405376285363380225"
@@ -20618,7 +20618,7 @@
     "3831": {
         "date_time": "2021-08-03 08:35:14",
         "username": "Tjabergnissen",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "balanserer snedig ein urovekkande god   r e a c h  ved å samstundes ha ufatteleg dorleg  c l o u t",
         "category": "nynorsk",
         "sent_id": "1422476139159826434"
@@ -20626,7 +20626,7 @@
     "6734": {
         "date_time": "2021-06-19 19:25:02",
         "username": "Magne Bjella",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@stianpeeters @Svindeljakt Spørsmålene er relevant … men når FrP ikke svarer så får de være dem om det ",
         "category": "bokmål",
         "sent_id": "1406332210937057282"
@@ -20634,7 +20634,7 @@
     "7426": {
         "date_time": "2021-06-20 21:38:55",
         "username": "Frederik L. Gnatt",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@StigOmland Atlas sa nettopp at Booker er hans nye favorittspiller...\n\nLitt enig, men poenget mitt står likevel. Det er andre 24 åringer som har oppnådd veldig mye mer. \n\nMen nå gjør Book det. Og da ender du opp med rett. \n\nSå egentlig har begge rett :)",
         "category": "bokmål",
         "sent_id": "1406728291810263048"
@@ -20642,7 +20642,7 @@
     "7312": {
         "date_time": "2021-06-20 18:25:31",
         "username": "Stig Marthinussen",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@MariusLund12 Isje heilt kontroll på Sola men Staal bytter mer eller mindre hele laget i pausen. Sola med litt færre bytter",
         "category": "bokmål",
         "sent_id": "1406679624411762688"
@@ -20650,7 +20650,7 @@
     "4457": {
         "date_time": "2021-06-14 13:59:48",
         "username": "Edvard Nore",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@veslevoksen Snakker om, jeg så deg i Torggata i dag! Du sto veldig opptatt så jeg stoppa ikke",
         "category": "bokmål",
         "sent_id": "1404438425936203776"
@@ -20658,7 +20658,7 @@
     "1019": {
         "date_time": "2016-10-19 16:47:02",
         "username": "aniiitahr",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "@WhoElse75 måtte lese fleir ganga for å sjå om i leste feil ",
         "category": "dialectal",
         "sent_id": "788783525935874048"
@@ -20666,7 +20666,7 @@
     "1991": {
         "date_time": "2021-08-27 12:18:25",
         "username": "madamknipe",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "6/9 går startskotet for «Beste norske 2018-2020».\n\n4 kritikarar har kåra 15 bøker 2018-2020. 67 bibliotek er med med utstillingar og leseaksjonar.\n\nBli med og les den beste, nye norske litteraturen du òg! Lesesirkel her: https://t.co/QZ4mJeWMux \n\nOg «Beste norske 2018-2020» er: https://t.co/bYQ5GUf7K2",
         "category": "nynorsk",
         "sent_id": "1431229611795419141"
@@ -20674,7 +20674,7 @@
     "7565": {
         "date_time": "2021-06-22 09:25:21",
         "username": "Sindre Myhre",
-        "corrected_category": "NONE",
+        "corrected_category": "dialectal",
         "text": "@Evenzinho Plaga meg enno at han ikkje fekk det til i Napoli……..",
         "category": "bokmål",
         "sent_id": "1407268462548881411"
@@ -20682,7 +20682,7 @@
     "3498": {
         "date_time": "2015-04-10 16:39:14",
         "username": "rreginemaster",
-        "corrected_category": "NONE",
+        "corrected_category": "bokmål",
         "text": "ubeskrivelig å starte helga me en aldeles så fantastisk scootertur #NærDødenOpplevelse #Braaaaap #IkkeRedd #Hashtag http://t.co/7NCMGn6hXf",
         "category": "dialectal",
         "sent_id": "586569133854167041"
@@ -20690,7 +20690,7 @@
     "5975": {
         "date_time": "2021-06-18 14:05:46",
         "username": "Grill-Bonne",
-        "corrected_category": "NONE",
+        "corrected_category": "mixed",
         "text": "Drinking a Buenaveza Salt &amp; Lime Lager by @StoneBrewing @ Spjutgatan 11 — https://t.co/ksqpvU8KCZ",
         "category": "bokmål",
         "sent_id": "1405889478426775554"
@@ -20698,7 +20698,7 @@
     "82": {
         "date_time": "2021-06-26 13:34:37",
         "username": "2830_Raufoss",
-        "corrected_category": "NONE",
+        "corrected_category": "",
         "text": "Fryktelig lite presisjon i dæ Hamkam driv mæ framover på baan.",
         "category": "dialectal",
         "sent_id": "1408780743678087170"
