@@ -1,0 +1,13 @@
+T1	pronoun_subject 24 26	me
+T2	voicing 40 51	kjærlighedå
+T3	vowel_shift 40 51	kjærlighedå
+T4	nominal_declension 40 51	kjærlighedå
+T5	voicing 72 76	veid
+T6	shortening 103 107	førr
+T7	contraction 110 111	u
+T8	contraction 129 132	sko
+T9	pronoun_subject 135 137	me
+T10	contraction 135 137	me
+T11	functional 129 132	sko
+T12	conjugation 129 132	sko
+T13	vowel_shift 129 132	sko

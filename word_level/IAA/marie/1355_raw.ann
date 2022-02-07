@@ -1,0 +1,16 @@
+T1	copula 60 61	æ
+T2	lexical 10 15	trega
+T3	marked 32 37	inkje
+T4	marked 47 49	au
+T5	vowel_shift 93 97	sede
+T6	nominal_declension 103 109	klemmå
+T7	conjugation 132 137	kjeme
+T9	functional 24 28	atta
+#1	AnnotatorNotes T9	Variant av "at"? Hva passer den under?
+T11	vowel_shift 68 70	he
+T12	present_marker_deletion 68 70	he
+T13	functional 138 144	ingjen
+T14	functional 74 79	fysst
+T15	voicing 93 97	sede
+T16	phonemic_spelling 120 126	jeispa
+T8	conjugation 93 97	sede

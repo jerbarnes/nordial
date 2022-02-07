@@ -13,41 +13,63 @@ class NordialAnnotator(CombinedAnnotator):
     """Annotator of entities in documents, combining several sub-annotators (such as gazetteers,
     spacy models etc.). To add all annotators currently implemented, call add_all(). """
 
-    def __init__(self, nlp, bokmal, nynorsk, functional_dict, marked_dict):
+    def __init__(self, nlp, bokmal, nynorsk):
         super(NordialAnnotator, self).__init__()
         self.nlp = nlp
         self.bokmal = bokmal
         self.nynorsk = nynorsk
-        self.functional_dict = functional_dict
-        self.marked_dict = marked_dict
+
+    def open_dictionaries(self):
+        self.functional_dict = read_dic("lexicons/functional.txt")
+        self.marked_dict = read_dic("lexicons/marked.txt")
+        self.copula = read_dic("lexicons/copula.txt")
+        self.present_marker_deletion = read_dic("lexicons/present_marker_deletion.txt")
+        self.h_v = read_dic("lexicons/h_v.txt")
+        self.contraction = read_dic("lexicons/contraction.txt")
+        self.gender = read_dic("lexicons/gender.txt")
+        self.shortening = read_dic("lexicons/shortening.txt")
+        self.phonemic = read_dic("lexicons/phonemic_spelling.txt")
 
     def add_all(self):
         self.add_annotator(FunctionAnnotator("pron", dialect_pronoun))
         self.add_annotator(FunctionAnnotator("pron_subj", pron_subj))
         self.add_annotator(FunctionAnnotator("pron_obj", pron_obj))
-        self.add_annotator(FunctionAnnotator("copula", copula))
-        self.add_annotator(FunctionAnnotator("present_marker_deletion",
-                                             present_marker_deletion))
-        self.add_annotator(FunctionAnnotator("h_v", h_v))
-        self.add_annotator(FunctionAnnotator("contraction", contraction))
         self.add_annotator(FunctionAnnotator("adjective_declension", adj_dec))
         self.add_annotator(FunctionAnnotator("nominal_declension", nom_dec))
         self.add_annotator(FunctionAnnotator("conjugation", conjugation))
         self.add_annotator(FunctionAnnotator("dem_pro", dem_pro))
-        self.add_annotator(FunctionAnnotator("gender", gender))
-        self.add_annotator(FunctionAnnotator("shortening", shortening))
 
+        # Lexicon-based labeling functions
+        self.add_annotator(LexiconAnnotator("present_marker_deletion",
+                                             self.present_marker_deletion))
+        self.add_annotator(LexiconAnnotator("h_v", self.h_v))
+        self.add_annotator(LexiconAnnotator("gender", self.gender))
+        self.add_annotator(LexiconAnnotator("shortening", self.shortening))
+        self.add_annotator(LexiconAnnotator("functional",
+                                            self.functional_dict))
+        self.add_annotator(LexiconAnnotator("marked",
+                                           self.marked_dict))
+        self.add_annotator(LexiconAnnotator("phonemic_spelling",
+                                           self.phonemic))
+
+        # specific labeling functions
         self.add_annotator(VoicingAnnotator("voicing",
                                             self.bokmal,
                                             self.nynorsk))
-        self.add_annotator(FunctionalAnnotator("functional",
-                                               self.functional_dict))
-        self.add_annotator(MarkedAnnotator("marked",
-                                           self.marked_dict))
         self.add_annotator(ApocopeAnnotator("apocope",
                                             self.nlp,
                                             self.bokmal,
                                             self.nynorsk))
+        self.add_annotator(VowelshiftAnnotator("vowel_shift",
+                                               self.bokmal,
+                                               self.nynorsk))
+        self.add_annotator(PalatalizationAnnotator("palatalization",
+                                                   self.bokmal,
+                                                   self.nynorsk))
+        self.add_annotator(CopulaAnnotator("copula",
+                                           self.copula))
+        self.add_annotator(ContractionAnnotator("contraction",
+                                                self.contraction))
 
 ####################################################################
 # all dialectal forms of probouns
@@ -90,34 +112,86 @@ def pron_obj(doc):
 ####################################################################
 # copula
 ####################################################################
-def copula(doc):
-    forms = ["e", "værra"]
-    i = 0
-    while i < len(doc):
-        tok = doc[i]
-        if tok.text.lower() in forms and tok.dep_ in ["xcomp", "cop"]:
+class CopulaAnnotator(SpanAnnotator):
+    def __init__(self, name, lexicon):
+        super(CopulaAnnotator, self).__init__(name)
+        self.lexicon = lexicon
+    #
+    def find_spans(self, doc):
+        i = 0
+        while i < len(doc):
+            tok = doc[i]
+            if tok.text.lower() in self.lexicon and tok.dep_ in ["xcomp", "cop"]:
                 yield i, i+1, "copula"
-        i += 1
-
+            i += 1
 
 ####################################################################
 # contraction
 ####################################################################
-def contraction(doc):
-    i = 0
-    contractions = ["'kke", "ekje", "kje"]
-    while i < len(doc):
-        tok = doc[i]
-        exceptions = ["kanskje", "skje"]
-        for contraction in contractions:
-            if tok.text.lower().endswith(contraction) and tok.text.lower() not in exceptions:
+class ContractionAnnotator(SpanAnnotator):
+    def __init__(self, name, lexicon):
+        super(ContractionAnnotator, self).__init__(name)
+        self.lexicon = lexicon
+        self.exceptions = ["kanskje", "skje"]
+
+    def near_quote(self, token, prev_tok, next_tok):
+        quotes = ["'", '"']
+        if prev_tok in quotes or next_tok in quotes or "'" in token or '"' in token:
+            return True
+        return False
+    #
+    def find_spans(self, doc):
+        i = 0
+        while i < len(doc):
+            tok = doc[i]
+            if i > 0:
+                prev_tok = doc[i-1].text.lower()
+            else:
+                prev_tok = ""
+
+            if i < len(doc) - 1:
+                next_tok = doc[i-1].text.lower()
+            else:
+                next_tok = ""
+            # create a flag to only yield a single label
+            flag = False
+            for contraction in self.lexicon:
+                if tok.text.lower().endswith(contraction) and tok.text.lower() not in self.exceptions and self.near_quote(tok.text.lower(), prev_tok, next_tok):
+                        flag = True
+            if flag is True:
                 yield i, i+1, "contraction"
-        i += 1
-
+            i += 1
 
 ####################################################################
-# palitalization
+# palatalization
 ####################################################################
+
+class PalatalizationAnnotator(SpanAnnotator):
+    def __init__(self, name, bokmal, nynorsk):
+        super(PalatalizationAnnotator, self).__init__(name)
+        self.bokmal = bokmal
+        self.nynorsk = nynorsk
+
+    def depalatize(self, token):
+        new_token = token
+        palatals = {"in": "n", "nj": "n", "il": "l", "lj": "l"}
+        for palatal, unpalatal in palatals.items():
+            if palatal in token:
+                new_token = token.replace(palatal, unpalatal)
+        return new_token
+    #
+    def find_spans(self, doc):
+        i = 0
+        exceptions = ["til", "ein"]
+        while i < len(doc):
+            tok = doc[i]
+            text = tok.text.lower()
+            unpalatal = self.depalatize(text)
+            if unpalatal != text and text not in exceptions:
+                if unpalatal in self.bokmal or unpalatal in self.nynorsk:
+                    yield i, i+1, "palatalization"
+            i += 1
+
 
 
 ####################################################################
@@ -170,7 +244,7 @@ class ApocopeAnnotator(SpanAnnotator):
                 form = "None"
             if tok.pos_ in ["VERB"] and form != "Part" and tok.text not in exceptions and not text[-1] in ["e", "r"]:
                 new = tok.text.lower() + "e"
-                if new in bokmal or new in nynorsk:
+                if new in self.bokmal or new in self.nynorsk:
                     new_pos = self.nlp(new)[0].pos_
                     #print(new, ": ", new_pos)
                     if new_pos == "VERB":
@@ -228,12 +302,72 @@ class VoicingAnnotator(SpanAnnotator):
 # vowel shift
 ####################################################################
 
+class VowelshiftAnnotator(SpanAnnotator):
+    def __init__(self, name, bokmal, nynorsk):
+        super(VowelshiftAnnotator, self).__init__(name)
+        self.bokmal = bokmal
+        self.nynorsk = nynorsk
+        self.shifts = {"au": ["ø", "o"],
+                       "jø": ["e"],
+                       "øu": ["au"],
+                       "æ": ["e"],
+                       "jæ": ["e"],
+                       "o": ["u"],
+                       "ø": ["u", "o", "ei"],
+                       "jo": ["y"],
+                       "y": ["ø"],
+                       "ei": ["e"],
+                       "e": ["ei"],
+                       "ju": ["y"],
+                       "øu": ["au"],
+                       "å": ["o"]
+                       }
+    def apply_vowelshift(self, token):
+        shifted = []
+        for shift, shiftbacks in self.shifts.items():
+            if shift in token:
+                for shiftback in shiftbacks:
+                    shifted.append(token.replace(shift, shiftback))
+        return shifted
+
+    #
+    def find_spans(self, doc):
+        # we do not include any word in the pronouns
+        pronouns = ["jeg", "eg", "æ", "æg", "jæ", "jæi", "ej", "je", "i", "mæ", "dæ", "hu", "ho", "honn", "hænne", "me", "dåkk", "døkk", "døkker", "økk", "dom", "dæi", "døm", "dømm", "dæm", "demm", "di", "æm", "æmm",
+            "æ", "æg", "jæ", "jæi", "je", "ej" "i", "mæ", "meg", "dæ", "ham",
+            "hu", "ho", "honn", "henne", "hænne", "oss", "dåkk", "døkk",
+            "døkker", "økk", "dem", "dom", "dæi", "døm", "dømm", "dæm", "demm",
+            "di", "æm", "æmm"]
+        i = 0
+        while i < len(doc):
+            tok = doc[i]
+            text = tok.text.lower()
+            # avoid very short common words
+            if len(text) > 4 and text not in pronouns:
+                shifted = self.apply_vowelshift(text)
+                for new in shifted:
+                    if new in self.bokmal or new in self.nynorsk:
+                        yield i, i+1, "vowel_shift"
+            i += 1
+
 
 
 ####################################################################
 # lexical
 ####################################################################
-
+class LexicalAnnotator(SpanAnnotator):
+    def __init__(self, name, bokmal, nynorsk):
+        super(LexicalAnnotator, self).__init__(name)
+        self.bokmal = bokmal
+        self.nynorsk = nynorsk
+    #
+    def find_spans(self, doc):
+        i = 0
+        while i < len(doc):
+            tok = doc[i].lemma_.lower()
+            if tok not in self.bokmal and tok not in self.nynorsk:
+                        yield i, i+1, "lexical"
+            i += 1
 
 ####################################################################
 # dem_pro
@@ -249,61 +383,6 @@ def dem_pro(doc):
                     yield i-1, i+1, "dem_pro"
         i += 1
 
-####################################################################
-# shortening
-####################################################################
-def shortening(doc):
-    short = ["pottet"]
-    i = 0
-    while i < len(doc):
-        tok = doc[i]
-        if tok.text.lower() in short:
-            yield i-1, i+1, "shortening"
-        i += 1
-
-####################################################################
-# gender
-####################################################################
-def gender(doc):
-    gendered = ["jenten", "pausa"]
-    i = 0
-    while i < len(doc):
-        tok = doc[i]
-        if tok.text.lower() in gendered:
-            yield i-1, i+1, "gender"
-        i += 1
-
-
-####################################################################
-# marked
-####################################################################
-class MarkedAnnotator(SpanAnnotator):
-    def __init__(self, name, marked):
-        super(MarkedAnnotator, self).__init__(name)
-        self.marked = marked
-    #
-    def find_spans(self, doc: Doc) -> Iterable[Tuple[int, int, str]]:
-        i = 0
-        while i < len(doc):
-            tok = doc[i]
-            if tok.text.lower() in self.marked:
-                yield i, i+1, "marked"
-            i += 1
-
-####################################################################
-# h_v
-####################################################################
-
-def h_v(doc):
-    forms = ["hårr", "ka", "kem", "ke",
-             "kors", "korsen", "kor",
-             ]
-    i = 0
-    while i < len(doc):
-        tok = doc[i]
-        if tok.text.lower() in forms:
-                yield i, i+1, "h_v"
-        i += 1
 
 ####################################################################
 # adjectival_declension
@@ -383,6 +462,21 @@ class FunctionalAnnotator(SpanAnnotator):
 ####################################################################
 # phonemic_spelling
 ####################################################################
+class LexiconAnnotator(SpanAnnotator):
+    def __init__(self, name, lexicon):
+        super(LexiconAnnotator, self).__init__(name)
+        self.lexicon = lexicon
+        self.name = name
+    #
+    def find_spans(self, doc: Doc) -> Iterable[Tuple[int, int, str]]:
+        i = 0
+        while i < len(doc):
+            tok = doc[i]
+            if tok.text.lower() in self.lexicon:
+                yield i, i+1, self.name
+            i += 1
+
+
 
 
 def read_dic(dic):
@@ -402,12 +496,12 @@ if __name__ == "__main__":
     labels = ["pron_subj",
               "pron_obj",
               "copulate",
-              #"contraction",
-              #"palatalization",
+              "contraction",
+              "palatalization",
               "present_marker_deletion",
-              #"apocope",
+              "apocope",
               "voicing",
-              #"vowel_shift",
+              "vowel_shift",
               #"lexical",
               #"dem_pro",
               #"shortening",
@@ -450,16 +544,13 @@ if __name__ == "__main__":
 
     docs = list(nlp.pipe(texts))
 
-    bokmal = read_dic("bokmal.dic")
-    nynorsk = read_dic("nynorsk.dic")
-    functional_dict = read_dic("functional.txt")
-    marked_dict = read_dic("marked.txt")
+    bokmal = read_dic("dictionaries/bokmal.dic")
+    nynorsk = read_dic("dictionaries/nynorsk.dic")
 
     annotator = NordialAnnotator(nlp,
                                  bokmal,
-                                 nynorsk,
-                                 functional_dict,
-                                 marked_dict)
+                                 nynorsk)
+    annotator.open_dictionaries()
     annotator.add_all()
 
     docs = list(annotator.pipe(docs))
