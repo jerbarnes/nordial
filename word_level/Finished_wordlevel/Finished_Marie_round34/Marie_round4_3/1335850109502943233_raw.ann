@@ -1,0 +1,9 @@
+T1	vowel_shift 12 15	tel
+T2	functional 12 15	tel
+T3	vowel_shift 74 77	tel
+T4	functional 74 77	tel
+T5	nominal_declension 83 90	kommuna
+T6	apocope 93 98	sjekk
+T7	apocope 110 114	fiks
+T8	copula 127 128	e
+T9	apocope 129 133	mørk
