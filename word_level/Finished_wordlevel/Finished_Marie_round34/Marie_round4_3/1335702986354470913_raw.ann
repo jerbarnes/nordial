@@ -1,0 +1,11 @@
+T1	h_v 12 14	ka
+T2	vowel_shift 52 55	øve
+T3	functional 52 55	øve
+T4	present_marker_deletion 62 71	overdrive
+T5	present_marker_deletion 94 98	seie
+T6	present_marker_deletion 108 111	ska
+T7	phonemic_spelling 123 124	å
+T8	present_marker_deletion 132 136	seie
+T9	phonemic_spelling 137 138	d
+T10	phonemic_spelling 158 161	vis
+T11	conjugation 185 191	sleppe

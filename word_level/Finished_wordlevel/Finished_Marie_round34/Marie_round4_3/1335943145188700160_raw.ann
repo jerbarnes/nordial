@@ -1,0 +1,8 @@
+T1	pronoun_subject 0 1	æ
+T2	vowel_shift 7 9	te
+T3	functional 7 9	te
+T4	pronoun_subject 10 11	æ
+T5	lexical 16 21	bekka
+T6	pronoun_subject 29 30	æ
+T7	vowel_shift 2 6	sett
+T9	present_marker_deletion 12 15	bli
