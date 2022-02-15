@@ -1,0 +1,17 @@
+T1	voicing 42 48	tebage
+T2	functional 42 48	tebage
+T3	vowel_shift 42 48	tebage
+T4	phonemic_spelling 52 54	åg
+T5	copula 62 63	e
+T6	nominal_declension 73 81	spelarne
+T7	vowel_shift 86 96	någensinne
+T8	voicing 86 96	någensinne
+T9	functional 141 146	kvert
+T10	phonemic_spelling 172 174	åg
+T11	present_marker_deletion 178 183	savne
+T12	functional 231 233	te
+T13	vowel_shift 231 233	te
+T14	contraction 25 28	che
+T15	functional 25 28	che
+T18	vowel_shift 141 146	kvert
+T19	conjugation 157 161	vært
