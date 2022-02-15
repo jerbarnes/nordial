@@ -1,0 +1,10 @@
+T1	functional 32 38	nokken
+T2	nominal_declension 39 43	daga
+T3	functional 60 65	detta
+T4	vowel_shift 60 65	detta
+T5	copula 66 67	e
+T6	pronoun_subject 77 78	I
+T7	present_marker_deletion 79 82	ska
+T8	nominal_declension 174 180	kampan
+T9	functional 181 187	hannes
+T10	pronoun_subject 231 234	dem
