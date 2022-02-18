@@ -1,0 +1,17 @@
+T1	copula 10 11	E
+T2	phonemic_spelling 12 13	d
+T3	phonemic_spelling 33 34	d
+T4	functional 53 56	ner
+T5	present_marker_deletion 69 74	klare
+T6	copula 96 97	E
+T7	contraction 101 104	kje
+T8	functional 101 104	kje
+T9	phonemic_spelling 111 112	d
+T10	pronoun_subject 113 115	an
+T11	functional 125 131	påsiav
+T12	functional 136 141	helle
+T13	functional 177 179	så
+T14	present_marker_deletion 180 185	slite
+T15	vowel_shift 144 153	Vanskelig
+T16	conjugation 28 32	syns
+T17	conjugation 180 185	slite
