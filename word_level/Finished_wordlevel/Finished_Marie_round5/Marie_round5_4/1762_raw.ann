@@ -1,0 +1,12 @@
+T1	voicing 20 24	fådd
+T2	conjugation 20 24	fådd
+T3	pronoun_object 25 27	mæ
+T4	vowel_shift 28 30	te
+T5	functional 28 30	te
+T6	apocope 33 37	bynn
+T7	pronoun_subject 73 74	æ
+T8	vowel_shift 75 79	sett
+T9	lexical 82 88	cringe
+T10	present_marker_deletion 82 88	cringe
+T11	pronoun_subject 108 109	æ
+T12	contraction 33 37	bynn

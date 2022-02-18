@@ -1,0 +1,15 @@
+T1	pronoun_subject 20 21	Æ
+T2	nominal_declension 44 51	EPISODA
+T3	functional 33 36	SKU
+T4	copula 37 40	VÆR
+T5	apocope 37 40	VÆR
+T6	apocope 79 82	sei
+T7	functional 90 94	ikje
+T8	present_marker_deletion 124 132	omhandle
+T9	present_marker_deletion 195 201	Skamma
+T10	pronoun_object 202 204	mæ
+T11	pronoun_subject 213 214	æ
+T13	functional 215 220	einnu
+T14	functional 221 225	ikje
+T15	functional 237 243	hannes
+T12	palatalization 215 220	einnu
