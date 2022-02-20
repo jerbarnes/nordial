@@ -1,0 +1,11 @@
+T1	pronoun_subject 0 1	Æ
+T2	present_marker_deletion 2 5	ska
+T3	apocope 6 10	prøv
+T4	copula 13 16	vær
+T5	present_marker_deletion 42 45	ska
+T6	pronoun_subject 46 47	æ
+T7	palatalization 48 51	ijt
+T8	functional 48 51	ijt
+T9	nominal_declension 85 99	julesangteksta
+T10	pronoun_object 120 122	mæ
+T11	nominal_declension 123 131	julegava

@@ -1,0 +1,13 @@
+T1	phonemic_spelling 15 16	g
+T2	pronoun_subject 19 20	æ
+T3	copula 21 22	e
+T4	functional 30 33	att
+T5	apocope 34 37	all
+T6	palatalization 34 37	all
+T7	present_marker_deletion 38 44	snakke
+T8	functional 48 52	korr
+T9	apocope 53 56	god
+T10	copula 68 69	e
+T11	shortening 85 90	derre
+T12	vowel_shift 91 99	feskeran
+T13	nominal_declension 91 99	feskeran

@@ -1,0 +1,13 @@
+T1	pronoun_subject 11 13	Eg
+T2	copula 14 15	e
+T3	pronoun_subject 42 43	e
+T4	present_marker_deletion 44 50	kjenne
+T5	pronoun_subject 51 52	e
+T6	vowel_shift 53 57	kjæm
+T7	pronoun_object 58 60	me
+T8	phonemic_spelling 74 75	a
+T9	phonemic_spelling 83 84	a
+T10	vowel_shift 85 87	dæ
+T11	vowel_shift 88 92	dærr
+T12	functional 85 87	dæ
+T13	functional 88 92	dærr

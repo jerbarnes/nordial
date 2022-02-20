@@ -1,0 +1,12 @@
+T1	contraction 14 16	ka
+T2	contraction 16 20	faen
+T3	h_v 14 16	ka
+T4	copula 24 25	e
+T5	palatalization 45 48	itj
+T6	h_v 56 58	ka
+T7	pronoun_subject 59 61	hu
+T8	conjugation 78 81	sir
+T9	vowel_shift 78 81	sir
+T10	pronoun_object 85 87	dæ
+T11	pronoun_subject 88 90	hu
+T12	copula 91 92	e

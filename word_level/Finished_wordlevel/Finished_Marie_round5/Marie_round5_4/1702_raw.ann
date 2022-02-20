@@ -1,0 +1,16 @@
+T1	copula 4 5	e
+T2	pronoun_subject 29 30	Æ
+T3	present_marker_deletion 44 47	øve
+T4	vowel_shift 31 35	sett
+T5	functional 48 50	te
+T6	vowel_shift 48 50	te
+T7	pronoun_subject 72 73	æ
+T8	present_marker_deletion 113 118	krype
+T9	pronoun_subject 151 152	æ
+T10	voicing 157 161	hadd
+T11	conjugation 157 161	hadd
+T12	pronoun_subject 175 176	æ
+T13	functional 188 193	denna
+T14	vowel_shift 188 193	denna
+T15	phonemic_spelling 194 205	eksamenstia
+T16	vowel_shift 230 234	løst
