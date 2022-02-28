@@ -1,0 +1,13 @@
+T1	pronoun_subject 0 2	Dæ
+T2	copula 5 6	æ
+T3	pronoun_subject 18 20	dæ
+T4	copula 23 27	våra
+T5	copula 46 47	æ
+T6	nominal_declension 40 45	lirkå
+T7	functional 50 52	te
+T8	vowel_shift 50 52	te
+T9	nominal_declension 75 79	erlå
+T10	present_marker_deletion 80 83	une
+T11	functional 9 14	meste
+T12	phonemic_spelling 36 37	å
+T13	phonemic_spelling 71 72	å

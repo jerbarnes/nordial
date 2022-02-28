@@ -1,0 +1,11 @@
+T1	vowel_shift 3 6	e't
+T2	functional 10 14	elle
+T3	phonemic_spelling 10 14	elle
+T4	functional 22 26	elle
+T5	phonemic_spelling 22 26	elle
+T6	present_marker_deletion 40 42	he
+T7	present_marker_deletion 70 73	ska
+T8	pronoun_object 83 86	'na
+T9	contraction 83 86	'na
+T11	contraction 96 100	'kje
+T10	functional 96 100	'kje

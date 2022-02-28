@@ -1,0 +1,8 @@
+T1	h_v 5 10	K ' æ
+T2	functional 5 10	K ' æ
+T3	vowel_shift 5 10	K ' æ
+T4	contraction 97 103	go ' e
+T5	adjectival_declension 97 103	go ' e
+T6	present_marker_deletion 123 126	ska
+T7	vowel_shift 65 71	skobba
+T8	vowel_shift 31 35	visa

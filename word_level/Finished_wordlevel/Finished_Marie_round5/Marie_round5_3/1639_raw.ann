@@ -1,0 +1,14 @@
+T1	contraction 14 20	trivle
+T2	functional 27 28	e
+T3	vowel_shift 27 28	e
+T4	functional 0 3	Hær
+T5	vowel_shift 0 3	Hær
+T6	present_marker_deletion 4 6	ha
+T7	pronoun_subject 7 10	oss
+T8	functional 11 13	æi
+T9	phonemic_spelling 11 13	æi
+T10	vowel_shift 21 26	stonn
+T11	phonemic_spelling 21 26	stonn
+T12	palatalization 35 42	Fuglæin
+T13	nominal_declension 35 42	Fuglæin
+T14	vowel_shift 43 47	sång

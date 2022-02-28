@@ -1,0 +1,15 @@
+T1	voicing 3 7	veid
+T2	pronoun_subject 8 11	' u
+T3	vowel_shift 17 22	møgje
+T4	vowel_shift 12 16	bara
+T5	functional 17 22	møgje
+T6	functional 12 16	bara
+T7	vowel_shift 82 87	rondt
+T8	nominal_declension 76 81	bygdå
+T9	pronoun_subject 92 94	hu
+T10	pronoun_subject 103 105	hu
+T11	vowel_shift 117 120	E'n
+T12	adjectival_declension 121 127	go ' e
+T13	voicing 128 138	kaffidråbe
+T14	lexical 60 67	transla
+T15	contraction 8 11	' u

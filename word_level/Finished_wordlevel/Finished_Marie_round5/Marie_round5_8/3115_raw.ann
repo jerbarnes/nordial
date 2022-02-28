@@ -1,0 +1,11 @@
+T1	functional 0 2	Da
+T2	vowel_shift 0 2	Da
+T3	functional 10 15	nåken
+T4	vowel_shift 10 15	nåken
+T5	copula 35 36	e
+T6	functional 37 41	nåke
+T7	vowel_shift 37 41	nåke
+T8	present_marker_deletion 51 59	irritera
+T9	vowel_shift 64 67	øve
+T10	functional 64 67	øve
+T11	conjugation 51 59	irritera

@@ -1,0 +1,9 @@
+T1	vowel_shift 9 11	mæ
+T2	functional 9 11	mæ
+T3	functional 25 28	tel
+T4	vowel_shift 25 28	tel
+T5	nominal_declension 33 37	fyrn
+T6	functional 45 48	tel
+T7	vowel_shift 45 48	tel
+T8	functional 0 2	Ka
+T9	h_v 0 2	Ka

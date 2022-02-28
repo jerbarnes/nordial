@@ -1,0 +1,8 @@
+T1	copula 24 25	e
+T2	vowel_shift 26 30	væll
+T3	functional 26 30	væll
+T4	pronoun_subject 71 72	Æ
+T5	present_marker_deletion 73 79	kjenne
+T6	functional 80 83	nån
+T7	vowel_shift 80 83	nån
+T8	nominal_declension 84 92	latmakka

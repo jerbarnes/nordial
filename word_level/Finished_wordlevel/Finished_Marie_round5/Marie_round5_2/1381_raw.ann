@@ -1,0 +1,16 @@
+T1	pronoun_subject 0 2	Dæ
+T2	vowel_shift 13 15	te
+T3	functional 13 15	te
+T4	functional 60 62	te
+T5	vowel_shift 60 62	te
+T6	nominal_declension 85 90	mollå
+T8	conjugation 73 78	skine
+T9	functional 79 82	øve
+T11	nominal_declension 39 43	solå
+T12	vowel_shift 44 50	glytta
+T13	vowel_shift 5 12	drægest
+T14	present_marker_deletion 44 50	glytta
+T15	phonemic_spelling 56 57	å
+T16	phonemic_spelling 69 70	å
+T7	functional 91 93	ne
+T10	phonemic_spelling 91 93	ne

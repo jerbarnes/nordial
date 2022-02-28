@@ -1,0 +1,16 @@
+T1	vowel_shift 13 18	Brukæ
+T2	present_marker_deletion 13 18	Brukæ
+T3	pronoun_subject 19 22	døm
+T4	functional 23 25	te
+T5	vowel_shift 23 25	te
+T6	vowel_shift 28 32	lågå
+T7	vowel_shift 33 38	bingæ
+T8	pronoun_object 42 45	døm
+T9	phonemic_spelling 46 49	såm
+T10	present_marker_deletion 50 53	ska
+T11	vowel_shift 59 64	læmma
+T12	palatalization 67 75	tæinkj '
+T13	contraction 67 75	tæinkj '
+T14	pronoun_subject 76 77	e
+T15	marked 39 41	åt
+T16	present_marker_deletion 56 58	ha

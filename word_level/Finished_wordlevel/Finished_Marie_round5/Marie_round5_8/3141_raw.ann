@@ -1,0 +1,14 @@
+T1	copula 0 1	E
+T2	functional 2 4	dæ
+T3	functional 5 13	innaførr
+T4	vowel_shift 5 13	innaførr
+T5	vowel_shift 16 20	sett
+T6	apocope 16 20	sett
+T7	functional 62 66	førr
+T8	vowel_shift 62 66	førr
+T9	vowel_shift 75 79	sett
+T10	functional 89 96	fremfør
+T11	vowel_shift 89 96	fremfør
+T12	phonemic_spelling 56 61	Spørr
+T13	phonemic_spelling 62 66	førr
+T14	phonemic_spelling 5 13	innaførr

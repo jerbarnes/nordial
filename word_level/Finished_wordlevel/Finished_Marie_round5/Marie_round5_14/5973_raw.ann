@@ -1,0 +1,12 @@
+T1	vowel_shift 49 53	færr
+T2	functional 49 53	færr
+T3	pronoun_subject 54 55	e
+T4	functional 56 60	ikje
+T5	pronoun_object 84 86	me
+T6	functional 87 91	færr
+T7	phonemic_spelling 49 53	færr
+T8	phonemic_spelling 87 91	færr
+T9	vowel_shift 87 91	færr
+T10	h_v 92 95	kem
+T11	functional 92 95	kem
+T12	pronoun_subject 96 97	e

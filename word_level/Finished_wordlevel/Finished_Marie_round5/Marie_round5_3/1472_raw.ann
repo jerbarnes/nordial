@@ -1,0 +1,14 @@
+T1	contraction 15 22	b'jynna
+T2	vowel_shift 25 31	kræmta
+T3	present_marker_deletion 15 22	b'jynna
+T4	voicing 41 44	teg
+T5	pronoun_subject 45 48	'an
+T6	functional 49 51	te
+T7	vowel_shift 49 51	te
+T8	present_marker_deletion 57 62	sæmta
+T9	vowel_shift 67 70	e'n
+T10	present_marker_deletion 104 110	gløyme
+T11	vowel_shift 121 126	skreg
+T12	voicing 121 126	skreg
+T13	voicing 82 91	gråde-mål
+T14	marked 113 117	lått

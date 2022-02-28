@@ -1,0 +1,19 @@
+T1	functional 49 53	'kje
+T2	contraction 49 53	'kje
+T3	vowel_shift 29 32	e'n
+T4	copula 25 26	æ
+T5	voicing 44 48	veid
+T6	functional 72 76	atte
+T7	present_marker_deletion 84 86	he
+T8	contraction 60 67	kjenn '
+T9	vowel_shift 87 91	sitt
+T10	functional 96 100	førr
+T11	vowel_shift 96 100	førr
+T12	pronoun_object 68 71	'an
+T13	apocope 115 127	bygdamen'esk
+T14	vowel_shift 111 114	e't
+T16	contraction 68 71	'an
+T17	copula 107 108	æ
+T18	nominal_declension 143 149	markjå
+T19	functional 132 140	austante
+T20	vowel_shift 132 140	austante

@@ -1,0 +1,10 @@
+T1	functional 16 22	flerne
+T2	functional 23 25	te
+T3	vowel_shift 23 25	te
+T4	functional 31 34	ein
+T5	present_marker_deletion 0 6	Drukne
+T6	present_marker_deletion 52 57	satse
+T7	nominal_declension 38 44	veiene
+T8	vowel_shift 31 34	ein
+T9	conjugation 0 6	Drukne
+T10	conjugation 52 57	satse
