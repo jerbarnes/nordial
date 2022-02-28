@@ -1,0 +1,13 @@
+T1	pronoun_subject 0 1	I
+T2	present_marker_deletion 2 6	HUGS
+T3	voicing 2 6	HUGS
+T5	copula 83 84	E
+T6	phonemic_spelling 95 97	DI
+T7	copula 116 117	E
+T8	voicing 98 105	RIGTIGE
+T9	functional 127 129	IK
+T10	apocope 159 162	VER
+T4	present_marker_deletion 181 183	HE
+T11	vowel_shift 181 183	HE
+T12	copula 203 204	E
+T13	vowel_shift 214 221	KLUKKEN
