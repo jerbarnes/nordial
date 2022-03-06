@@ -1,0 +1,11 @@
+T1	adjectival_declension 3 7	fine
+T2	adjectival_declension 8 12	blåe
+T3	nominal_declension 34 38	solå
+T4	present_marker_deletion 39 43	sige
+T5	functional 44 47	øve
+T6	vowel_shift 44 47	øve
+T7	present_marker_deletion 67 74	blenkje
+T8	present_marker_deletion 81 86	jydle
+T9	functional 87 95	hit-itte
+T10	vowel_shift 87 95	hit-itte
+T11	lexical 13 20	skomykt

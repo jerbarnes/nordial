@@ -1,0 +1,12 @@
+T1	functional 0 2	Kæ
+T2	vowel_shift 0 2	Kæ
+T3	h_v 0 2	Kæ
+T4	copula 38 39	æ
+T5	functional 23 27	itte
+T6	vowel_shift 23 27	itte
+T7	vowel_shift 55 67	sokkarbedane
+T8	voicing 55 67	sokkarbedane
+T9	vowel_shift 51 54	tri
+T10	lexical 14 20	snotta
+T11	copula 3 4	æ
+T12	present_marker_deletion 14 20	snotta
