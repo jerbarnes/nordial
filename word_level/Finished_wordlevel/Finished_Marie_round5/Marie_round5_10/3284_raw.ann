@@ -1,0 +1,5 @@
+T1	vowel_shift 0 9	Forelæser
+T2	copula 10 11	e
+T3	vowel_shift 23 31	rækkehus
+T4	pronoun_subject 34 35	Æ
+T5	present_marker_deletion 36 41	elske

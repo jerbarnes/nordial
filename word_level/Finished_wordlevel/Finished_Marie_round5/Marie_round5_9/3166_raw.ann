@@ -1,0 +1,14 @@
+T1	vowel_shift 7 11	løst
+T2	apocope 14 19	stopp
+T3	apocope 23 26	kos
+T4	vowel_shift 27 29	mæ
+T5	functional 27 29	mæ
+T6	phonemic_spelling 39 43	gång
+T7	pronoun_subject 44 45	e
+T8	apocope 46 50	kjør
+T9	vowel_shift 51 56	førbi
+T10	functional 51 56	førbi
+T11	functional 57 59	di
+T12	nominal_declension 65 74	småttisan
+T13	lexical 65 74	småttisan
+T14	functional 34 38	kvær

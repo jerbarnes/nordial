@@ -1,0 +1,12 @@
+T1	vowel_shift 33 38	nokke
+T2	functional 33 38	nokke
+T3	apocope 29 32	sei
+T4	present_marker_deletion 50 53	ska
+T5	pronoun_object 42 44	de
+T6	pronoun_object 63 65	de
+T7	pronoun_subject 82 84	ej
+T8	present_marker_deletion 99 101	he
+T9	vowel_shift 99 101	he
+T10	vowel_shift 102 105	vør
+T11	apocope 102 105	vør
+T12	copula 102 105	vør

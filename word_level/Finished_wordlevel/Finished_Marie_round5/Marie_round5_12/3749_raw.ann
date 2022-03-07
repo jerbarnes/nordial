@@ -1,0 +1,11 @@
+T1	functional 0 4	Tell
+T2	vowel_shift 0 4	Tell
+T3	functional 38 42	tell
+T4	vowel_shift 38 42	tell
+T5	shortening 65 82	kappitalistsvinas
+T6	contraction 245 247	ha
+T7	contraction 248 251	kke
+T8	functional 257 262	detta
+T9	vowel_shift 257 262	detta
+T10	nominal_declension 186 197	Oslo-eter'n
+T11	nominal_declension 43 54	Warholmer'n

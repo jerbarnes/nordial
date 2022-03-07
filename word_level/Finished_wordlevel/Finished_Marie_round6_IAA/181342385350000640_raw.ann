@@ -1,0 +1,11 @@
+T1	present_marker_deletion 3 8	drøse
+T2	present_marker_deletion 22 26	høve
+T3	marked 3 8	drøse
+T4	functional 31 33	te
+T5	vowel_shift 31 33	te
+T6	pronoun_object 65 68	'na
+T7	present_marker_deletion 79 84	kjøre
+T9	vowel_shift 90 92	te
+T10	functional 123 127	elle
+T11	pronoun_object 143 146	'na
+T12	pronoun_subject 108 109	u

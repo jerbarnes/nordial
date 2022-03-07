@@ -1,0 +1,13 @@
+T1	pronoun_subject 11 13	ej
+T2	pronoun_subject 23 25	ej
+T3	vowel_shift 26 28	he
+T4	present_marker_deletion 26 28	he
+T5	vowel_shift 79 81	fe
+T6	present_marker_deletion 79 81	fe
+T7	pronoun_subject 82 84	ej
+T8	pronoun_subject 98 100	ej
+T9	nominal_declension 122 127	gonga
+T10	pronoun_subject 132 134	ej
+T11	present_marker_deletion 135 142	scrolla
+T12	vowel_shift 0 7	Utrulig
+T13	vowel_shift 29 38	skriftlig

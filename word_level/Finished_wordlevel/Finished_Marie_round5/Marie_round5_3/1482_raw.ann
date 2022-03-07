@@ -1,0 +1,11 @@
+T1	phonemic_spelling 68 73	henne
+T2	present_marker_deletion 68 73	henne
+T3	voicing 76 80	noge
+T4	functional 76 80	noge
+T5	vowel_shift 76 80	noge
+T6	contraction 41 44	ne'
+T7	functional 44 48	atte
+T8	contraction 12 16	'kje
+T9	phonemic_spelling 88 91	Goe
+T10	functional 12 16	'kje
+T11	functional 41 44	ne'

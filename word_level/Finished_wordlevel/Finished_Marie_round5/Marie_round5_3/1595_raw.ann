@@ -1,0 +1,14 @@
+T1	conjugation 27 31	Mænæ
+T2	vowel_shift 27 31	Mænæ
+T3	functional 32 34	dæ
+T5	copula 35 37	va
+T4	functional 38 40	dæ
+T6	vowel_shift 32 34	dæ
+T7	vowel_shift 38 40	dæ
+T8	nominal_declension 41 44	åræ
+T9	demonstrative_pronoun 47 49	'n
+T10	apocope 62 66	rodd
+T11	marked 67 69	åt
+T12	functional 78 80	te
+T13	vowel_shift 78 80	te
+T14	present_marker_deletion 27 31	Mænæ

@@ -1,0 +1,9 @@
+T1	functional 32 36	bære
+T2	vowel_shift 32 36	bære
+T3	functional 37 40	tel
+T4	vowel_shift 37 40	tel
+T5	apocope 43 47	tenk
+T6	pronoun_object 51 53	dæ
+T7	functional 54 56	nu
+T8	vowel_shift 54 56	nu
+T9	copula 59 60	E

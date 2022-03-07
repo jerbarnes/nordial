@@ -1,0 +1,9 @@
+T1	vowel_shift 13 17	Sleg
+T2	voicing 13 17	Sleg
+T3	present_marker_deletion 18 24	flegra
+T4	present_marker_deletion 34 40	heigra
+T5	present_marker_deletion 54 59	flire
+T6	demonstrative_pronoun 65 68	han
+T7	lexical 18 24	flegra
+T8	vowel_shift 34 40	heigra
+T9	marked 34 40	heigra

@@ -1,0 +1,10 @@
+T1	vowel_shift 15 19	tell
+T2	functional 15 19	tell
+T3	pronoun_subject 60 61	n
+T4	contraction 60 61	n
+T5	shortening 69 81	rekekabbaret
+T6	pronoun_subject 103 104	n
+T7	contraction 103 104	n
+T8	contraction 99 102	ska
+T9	contraction 140 142	'n
+T10	pronoun_subject 140 142	'n

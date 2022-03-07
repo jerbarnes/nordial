@@ -1,0 +1,9 @@
+T1	pronoun_subject 8 9	æ
+T2	present_marker_deletion 10 15	glede
+T3	pronoun_object 16 18	mæ
+T4	pronoun_subject 22 23	æ
+T5	functional 19 21	te
+T6	vowel_shift 19 21	te
+T7	copula 24 25	e
+T8	functional 33 35	me
+T9	phonemic_spelling 33 35	me
