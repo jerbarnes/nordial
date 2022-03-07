@@ -1,0 +1,9 @@
+T1	shortening 25 29	tell
+T2	vowel_shift 25 29	tell
+T3	vowel_shift 44 48	tell
+T4	shortening 44 48	tell
+T5	vowel_shift 15 19	gett
+T6	vowel_shift 49 56	døktorn
+T7	shortening 49 56	døktorn
+T8	lexical 59 63	Gøtt
+T9	vowel_shift 64 68	gett

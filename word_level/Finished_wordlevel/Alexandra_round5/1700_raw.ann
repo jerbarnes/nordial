@@ -1,0 +1,12 @@
+T1	voicing 12 17	blidd
+T2	nominal_declension 21 32	søppelbøtta
+T3	pronoun_subject 37 38	æ
+T4	present_marker_deletion 44 47	hiv
+T5	palatalization 48 52	ailt
+T6	pronoun_subject 115 116	æ
+T7	pronoun_subject 131 132	æ
+T8	present_marker_deletion 133 137	lova
+T9	vowel_shift 133 137	lova
+T10	copula 138 140	va
+T11	voicing 171 175	sedd
+T12	functional 196 198	då

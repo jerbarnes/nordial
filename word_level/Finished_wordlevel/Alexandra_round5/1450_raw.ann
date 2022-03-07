@@ -1,0 +1,13 @@
+T1	contraction 2 3	K
+T2	contraction 4 6	en
+T3	h_v 2 6	K'en
+T4	copula 7 8	æ
+T5	conjugation 24 29	gjere
+T6	vowel_shift 42 46	noge
+T7	voicing 42 46	noge
+T8	copula 47 48	æ
+T9	adjectival_declension 51 55	gale
+T10	vowel_shift 65 70	nogen
+T11	voicing 65 70	nogen
+T12	marked 71 75	kver
+T13	copula 84 85	æ

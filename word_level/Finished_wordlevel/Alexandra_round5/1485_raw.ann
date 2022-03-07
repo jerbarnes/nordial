@@ -1,0 +1,14 @@
+T1	vowel_shift 2 11	syllgafla
+T2	nominal_declension 14 19	kniva
+T3	nominal_declension 2 11	syllgafla
+T4	nominal_declension 22 27	skeie
+T5	present_marker_deletion 28 31	ska
+T6	copula 50 51	æ
+T7	contraction 52 57	fornø
+T8	contraction 58 60	en
+T9	nominal_declension 66 72	blomma
+T10	vowel_shift 76 81	kistå
+T11	nominal_declension 102 108	blomma
+T12	vowel_shift 112 117	kistå
+T13	copula 127 128	æ
+T14	functional 120 122	nå

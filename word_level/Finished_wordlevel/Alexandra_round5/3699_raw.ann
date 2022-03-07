@@ -1,0 +1,13 @@
+T1	vowel_shift 10 19	Akersælva
+T2	pronoun_subject 26 28	hu
+T3	vowel_shift 48 53	denna
+T4	contraction 107 108	a
+T5	contraction 102 104	gi
+T6	pronoun_object 107 108	a
+T7	vowel_shift 122 130	Akersælv
+T8	vowel_shift 136 141	snærk
+T9	contraction 142 143	æ
+T10	contraction 143 146	kke
+T11	copula 142 143	æ
+T12	functional 143 146	kke
+T13	vowel_shift 150 158	Akersælv

@@ -1,0 +1,10 @@
+T1	nominal_declension 0 7	Svenska
+T2	contraction 8 10	må
+T3	contraction 10 13	kke
+T4	functional 10 13	kke
+T5	vowel_shift 20 24	tell
+T6	shortening 20 24	tell
+T7	shortening 25 35	Oslofjor'n
+T8	phonemic_spelling 25 35	Oslofjor'n
+T9	pronoun_subject 46 49	dem
+T10	contraction 61 63	no

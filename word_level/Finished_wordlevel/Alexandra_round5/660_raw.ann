@@ -1,0 +1,16 @@
+T1	present_marker_deletion 57 61	ORKE
+T2	pronoun_subject 55 56	I
+T3	pronoun_subject 81 82	i
+T4	pronoun_subject 85 86	I
+T5	copula 87 88	e
+T6	pronoun_subject 104 105	i
+T7	present_marker_deletion 106 112	skjelv
+T8	present_marker_deletion 115 122	Skjønne
+T9	pronoun_subject 123 126	dem
+T10	functional 136 138	ta
+T11	shortening 149 154	nokka
+T12	vowel_shift 149 154	nokka
+T13	h_v 170 176	koffor
+T14	shortening 170 176	koffor
+T15	vowel_shift 206 211	nokka
+T16	shortening 206 211	nokka

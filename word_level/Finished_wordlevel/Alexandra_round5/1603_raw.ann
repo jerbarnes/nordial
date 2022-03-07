@@ -1,0 +1,10 @@
+T1	vowel_shift 17 21	timæ
+T2	nominal_declension 17 21	timæ
+T3	present_marker_deletion 22 24	ha
+T4	vowel_shift 48 52	ænda
+T5	vowel_shift 63 67	någå
+T6	voicing 63 67	någå
+T7	adjectival_declension 68 72	gaLe
+T8	vowel_shift 73 75	mæ
+T9	nominal_declension 76 81	vatne
+T10	vowel_shift 82 85	hær

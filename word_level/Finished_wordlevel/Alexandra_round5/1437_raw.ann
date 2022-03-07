@@ -1,0 +1,12 @@
+T1	contraction 0 1	E
+T2	contraction 2 3	n
+T3	copula 9 11	va
+T4	voicing 24 27	tog
+T5	contraction 42 43	e
+T6	contraction 44 45	n
+T7	conjugation 51 56	verte
+T8	palatalization 73 85	gollforjyllt
+T9	vowel_shift 73 85	gollforjyllt
+T10	conjugation 73 85	gollforjyllt
+T11	pronoun_object 89 91	an
+T12	voicing 107 110	bag

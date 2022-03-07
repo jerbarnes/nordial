@@ -1,0 +1,11 @@
+T1	vowel_shift 10 14	kago
+T2	voicing 10 14	kago
+T3	functional 15 20	henna
+T4	pronoun_subject 49 51	hu
+T5	functional 57 59	te
+T6	copula 69 70	æ
+T7	contraction 76 78	go
+T8	contraction 81 82	e
+T9	adjectival_declension 76 82	go ' e
+T10	functional 83 87	atta
+T11	copula 94 95	æ

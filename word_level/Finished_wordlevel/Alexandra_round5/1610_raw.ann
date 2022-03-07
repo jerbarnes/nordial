@@ -1,0 +1,10 @@
+T1	vowel_shift 35 37	Fæ
+T2	present_marker_deletion 35 37	Fæ
+T3	vowel_shift 38 44	vippsæ
+T4	contraction 45 47	om
+T5	contraction 48 49	n
+T6	functional 50 54	ittæ
+T7	vowel_shift 50 54	ittæ
+T8	copula 55 56	æ
+T9	phonemic_spelling 57 60	får
+T10	vowel_shift 57 60	får

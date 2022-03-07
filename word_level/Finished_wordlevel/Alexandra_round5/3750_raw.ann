@@ -1,0 +1,9 @@
+T1	vowel_shift 20 24	tell
+T2	shortening 20 24	tell
+T3	contraction 49 52	når
+T4	contraction 53 55	em
+T5	pronoun_subject 53 55	em
+T6	contraction 92 95	ber
+T7	contraction 96 98	em
+T8	pronoun_object 96 98	em
+T9	shortening 126 129	byn

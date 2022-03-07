@@ -1,0 +1,16 @@
+T1	present_marker_deletion 4 10	kjenne
+T2	functional 21 25	atte
+T3	contraction 34 35	æ
+T4	copula 34 35	æ
+T5	functional 36 39	kje
+T6	contraction 36 39	kje
+T7	voicing 47 51	veda
+T8	vowel_shift 47 51	veda
+T9	vowel_shift 66 71	takka
+T10	functional 72 74	te
+T11	voicing 81 85	veid
+T12	contraction 86 87	k
+T13	contraction 88 90	en
+T14	h_v 86 90	k'en
+T15	copula 94 95	æ
+T16	lexical 105 110	jipte

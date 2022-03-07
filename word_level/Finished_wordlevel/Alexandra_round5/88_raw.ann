@@ -1,0 +1,9 @@
+T1	vowel_shift 0 4	Kænn
+T2	shortening 0 4	Kænn
+T3	palatalization 0 4	Kænn
+T4	functional 5 9	itte
+T5	copula 28 30	ær
+T6	vowel_shift 31 41	færdiskåra
+T7	phonemic_spelling 31 41	færdiskåra
+T8	vowel_shift 42 45	hær
+T9	phonemic_spelling 42 45	hær

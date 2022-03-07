@@ -1,0 +1,12 @@
+T1	vowel_shift 17 19	fæ
+T2	present_marker_deletion 17 19	fæ
+T3	vowel_shift 20 25	håppæ
+T4	phonemic_spelling 20 25	håppæ
+T5	nominal_declension 30 35	vatnæ
+T6	vowel_shift 30 35	vatnæ
+T7	functional 38 42	ittæ
+T8	phonemic_spelling 52 55	såm
+T9	vowel_shift 52 55	såm
+T10	shortening 56 63	asfaltn
+T11	functional 66 68	dæ
+T12	palatalization 56 63	asfaltn

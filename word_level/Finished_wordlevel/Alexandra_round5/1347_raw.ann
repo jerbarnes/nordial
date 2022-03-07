@@ -1,0 +1,8 @@
+T1	h_v 0 2	Kæ
+T2	vowel_shift 0 2	Kæ
+T3	contraction 99 101	ne
+T4	contraction 104 108	atte
+T5	marked 7 13	bestna
+T6	copula 34 35	Æ
+T7	present_marker_deletion 46 50	seie
+T8	contraction 69 72	kje

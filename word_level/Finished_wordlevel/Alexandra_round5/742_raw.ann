@@ -1,0 +1,11 @@
+T1	pronoun_subject 0 1	I
+T2	functional 9 11	na
+T3	pronoun_subject 42 43	i
+T4	present_marker_deletion 60 64	høre
+T5	pronoun_subject 96 102	dokker
+T6	present_marker_deletion 103 107	høre
+T7	shortening 108 113	nokka
+T8	vowel_shift 108 113	nokka
+T9	copula 140 141	e
+T10	copula 175 176	e
+T11	pronoun_object 182 184	me

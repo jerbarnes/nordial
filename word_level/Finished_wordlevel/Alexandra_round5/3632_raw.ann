@@ -1,0 +1,11 @@
+T1	pronoun_subject 24 25	a
+T2	pronoun_subject 45 47	hu
+T3	contraction 24 25	a
+T4	contraction 18 21	når
+T5	contraction 48 51	ska
+T6	contraction 52 55	kke
+T7	present_marker_deletion 48 51	ska
+T8	functional 52 55	kke
+T9	pronoun_subject 79 80	a
+T10	contraction 79 80	a
+T11	contraction 73 76	Som
