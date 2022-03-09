@@ -1,0 +1,10 @@
+T1	vowel_shift 21 25	tell
+T2	shortening 21 25	tell
+T3	shortening 103 108	værra
+T4	vowel_shift 103 108	værra
+T5	vowel_shift 111 120	Kjærringa
+T6	contraction 266 267	u
+T7	contraction 260 263	har
+T8	pronoun_subject 266 267	u
+T9	shortening 209 217	parrabol
+T10	vowel_shift 240 254	kjærringgnålet

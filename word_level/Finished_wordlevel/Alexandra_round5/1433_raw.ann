@@ -1,0 +1,16 @@
+T1	palatalization 5 16	kvinnfolkjå
+T2	vowel_shift 5 16	kvinnfolkjå
+T3	copula 17 18	æ
+T4	phonemic_spelling 21 26	allti
+T5	voicing 34 40	ligare
+T6	vowel_shift 34 40	ligare
+T7	h_v 44 48	koss
+T8	copula 53 54	æ
+T9	copula 64 65	æ
+T10	functional 69 72	kje
+T11	present_marker_deletion 110 112	he
+T12	vowel_shift 110 112	he
+T13	present_marker_deletion 127 131	sede
+T14	vowel_shift 127 131	sede
+T15	voicing 127 131	sede
+T16	present_marker_deletion 146 151	mygla

@@ -1,0 +1,15 @@
+T2	present_marker_deletion 3 5	he
+T3	vowel_shift 3 5	he
+T1	pronoun_object 22 24	an
+T4	pronoun_object 38 40	an
+T5	voicing 45 53	ligagodt
+T6	contraction 46 53	igagodt
+T7	functional 69 72	kje
+T8	voicing 81 88	ligavel
+T9	vowel_shift 81 88	ligavel
+T10	present_marker_deletion 96 100	læse
+T11	vowel_shift 96 100	læse
+T12	functional 102 105	kje
+T13	nominal_declension 106 110	bøge
+T14	voicing 106 110	bøge
+T15	marked 122 123	æ

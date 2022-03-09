@@ -1,0 +1,10 @@
+T1	h_v 11 14	kor
+T2	nominal_declension 21 26	ganga
+T3	pronoun_subject 27 29	ej
+T4	present_marker_deletion 30 32	he
+T5	vowel_shift 30 32	he
+T6	vowel_shift 21 26	ganga
+T7	vowel_shift 38 43	ditte
+T8	nominal_declension 44 53	kampbilde
+T9	vowel_shift 65 70	dinne
+T10	present_marker_deletion 89 94	vinne

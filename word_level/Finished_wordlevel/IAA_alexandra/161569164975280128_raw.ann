@@ -1,0 +1,6 @@
+T1	vowel_shift 13 17	Sleg
+T2	voicing 13 17	Sleg
+T3	vowel_shift 18 24	flegra
+T4	voicing 18 24	flegra
+T5	marked 34 40	heigra
+T6	present_marker_deletion 54 59	flire

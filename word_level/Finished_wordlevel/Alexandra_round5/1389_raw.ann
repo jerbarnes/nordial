@@ -1,0 +1,15 @@
+T1	contraction 17 18	u
+T2	pronoun_subject 17 18	u
+T3	conjugation 25 30	verte
+T4	adjectival_declension 31 36	sinte
+T5	pronoun_subject 49 51	hu
+T6	conjugation 52 57	verta
+T7	adjectival_declension 58 62	arge
+T8	contraction 87 88	e
+T9	contraction 88 90	't
+T10	vowel_shift 91 95	trod
+T11	contraction 98 99	l
+T12	contraction 91 95	trod
+T13	marked 109 114	fysst
+T14	marked 130 135	jipte
+T15	pronoun_object 141 143	na

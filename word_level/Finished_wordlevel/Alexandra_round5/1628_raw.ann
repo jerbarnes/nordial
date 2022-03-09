@@ -1,0 +1,14 @@
+T1	functional 13 15	Dæ
+T2	vowel_shift 16 21	hastæ
+T3	present_marker_deletion 16 21	hastæ
+T4	phonemic_spelling 22 25	nåk
+T5	functional 26 28	mæ
+T6	functional 61 63	tå
+T7	nominal_declension 64 68	varo
+T8	vowel_shift 64 68	varo
+T9	palatalization 71 79	mennesjo
+T10	vowel_shift 71 79	mennesjo
+T11	nominal_declension 71 79	mennesjo
+T12	nominal_declension 92 99	tenesto
+T13	vowel_shift 92 99	tenesto
+T14	marked 34 41	attændæ

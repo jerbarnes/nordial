@@ -1,0 +1,14 @@
+T1	vowel_shift 12 16	båll
+T2	vowel_shift 17 21	mæst
+T3	pronoun_object 31 34	øss
+T4	vowel_shift 48 52	tæll
+T5	shortening 48 52	tæll
+T6	nominal_declension 53 57	tier
+T7	vowel_shift 79 89	åverganger
+T8	phonemic_spelling 79 89	åverganger
+T9	functional 90 92	ta
+T10	vowel_shift 102 110	Hældivis
+T11	copula 111 113	ær
+T12	pronoun_subject 114 117	dom
+T13	vowel_shift 118 123	vældi
+T14	functional 150 154	itte

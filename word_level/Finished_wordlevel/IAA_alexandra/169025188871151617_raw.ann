@@ -1,0 +1,13 @@
+T1	copula 8 9	æ
+T2	adjectival_declension 10 15	redde
+T3	copula 25 26	æ
+T4	adjectival_declension 27 32	redde
+T5	present_marker_deletion 42 48	skrive
+T6	voicing 59 63	Bøge
+T7	nominal_declension 59 63	Bøge
+T8	voicing 73 77	Veid
+T9	functional 78 81	kje
+T10	vowel_shift 90 94	læse
+T11	present_marker_deletion 90 94	læse
+T12	vowel_shift 95 99	bara
+T13	marked 147 153	folkje

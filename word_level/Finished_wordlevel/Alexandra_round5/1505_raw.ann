@@ -1,0 +1,12 @@
+T1	functional 0 2	Te
+T2	vowel_shift 5 9	jærs
+T3	phonemic_spelling 5 9	jærs
+T4	functional 12 14	te
+T5	vowel_shift 17 21	jærs
+T6	phonemic_spelling 17 21	jærs
+T7	functional 35 37	te
+T8	vowel_shift 40 44	jærs
+T9	phonemic_spelling 40 44	jærs
+T10	present_marker_deletion 50 56	kjenne
+T11	voicing 102 106	noge
+T12	functional 102 106	noge

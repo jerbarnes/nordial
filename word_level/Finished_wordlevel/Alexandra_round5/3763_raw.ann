@@ -1,0 +1,12 @@
+T1	vowel_shift 5 9	tell
+T2	shortening 5 9	tell
+T3	shortening 26 35	turrister
+T4	contraction 98 100	re
+T5	contraction 94 96	på
+T6	contraction 111 113	em
+T7	pronoun_subject 111 113	em
+T8	contraction 107 110	får
+T9	contraction 164 166	be
+T10	contraction 167 170	rem
+T11	pronoun_object 167 170	rem
+T12	vowel_shift 213 220	rektige

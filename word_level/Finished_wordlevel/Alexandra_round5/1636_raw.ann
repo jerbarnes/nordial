@@ -1,0 +1,8 @@
+T1	vowel_shift 0 1	E
+T2	vowel_shift 2 6	ligæ
+T3	vowel_shift 7 11	mådæ
+T4	functional 22 24	dæ
+T5	contraction 38 39	æ
+T6	copula 38 39	æ
+T7	contraction 40 41	n
+T8	vowel_shift 42 51	innærtiær

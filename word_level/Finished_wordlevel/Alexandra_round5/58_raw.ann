@@ -1,0 +1,11 @@
+T1	phonemic_spelling 0 11	Forhåldsvis
+T2	vowel_shift 0 11	Forhåldsvis
+T3	phonemic_spelling 49 58	åverraska
+T4	vowel_shift 49 58	åverraska
+T5	marked 59 61	ta
+T6	vowel_shift 119 122	øss
+T7	pronoun_object 119 122	øss
+T8	vowel_shift 123 127	tæll
+T9	shortening 123 127	tæll
+T10	marked 62 63	å
+T11	marked 64 69	grett

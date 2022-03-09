@@ -1,0 +1,9 @@
+T1	vowel_shift 0 7	Dåmmera
+T2	nominal_declension 0 7	Dåmmera
+T3	vowel_shift 12 16	fålk
+T4	phonemic_spelling 0 7	Dåmmera
+T5	phonemic_spelling 12 16	fålk
+T6	lexical 23 24	å
+T7	pronoun_subject 25 28	dom
+T8	vowel_shift 33 36	mæn
+T9	marked 56 61	æffen

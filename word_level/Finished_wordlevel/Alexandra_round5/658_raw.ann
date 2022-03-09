@@ -1,0 +1,7 @@
+T1	nominal_declension 0 12	Kommentatora
+T2	copula 13 14	e
+T3	shortening 15 20	nokka
+T4	vowel_shift 15 20	nokka
+T5	present_marker_deletion 67 71	ligg
+T6	present_marker_deletion 81 87	spille
+T7	pronoun_subject 95 98	dem

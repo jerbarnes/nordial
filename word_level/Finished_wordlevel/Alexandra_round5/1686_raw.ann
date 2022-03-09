@@ -1,0 +1,9 @@
+T1	pronoun_subject 0 1	Æ
+T2	present_marker_deletion 2 6	ligg
+T3	present_marker_deletion 9 14	flire
+T4	pronoun_subject 21 22	æ
+T5	copula 23 25	va
+T6	copula 73 74	e
+T7	pronoun_subject 75 76	æ
+T8	vowel_shift 70 72	nu
+T9	pronoun_object 93 95	mæ

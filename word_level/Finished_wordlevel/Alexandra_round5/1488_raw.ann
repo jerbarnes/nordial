@@ -1,0 +1,15 @@
+T1	voicing 4 8	veda
+T2	lexical 12 16	husa
+T3	vowel_shift 4 8	veda
+T4	h_v 26 30	koss
+T5	contraction 48 50	ma
+T6	contraction 51 53	en
+T7	contraction 58 60	dø
+T8	contraction 63 64	e
+T9	marked 41 47	fysste
+T10	contraction 71 72	a
+T11	contraction 73 77	dage
+T12	contraction 105 107	dø
+T13	contraction 110 111	e
+T14	present_marker_deletion 134 136	he
+T15	vowel_shift 134 136	he
