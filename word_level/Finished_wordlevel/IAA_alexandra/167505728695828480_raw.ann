@@ -1,0 +1,11 @@
+T1	voicing 15 18	ede
+T2	present_marker_deletion 15 18	ede
+T3	voicing 29 37	syrekaga
+T4	vowel_shift 29 37	syrekaga
+T5	contraction 46 50	gjer
+T6	contraction 52 54	an
+T7	pronoun_subject 52 54	an
+T8	vowel_shift 77 81	bara
+T9	voicing 105 113	kjødkage
+T10	nominal_declension 105 113	kjødkage
+T11	functional 114 116	te

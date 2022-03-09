@@ -1,0 +1,13 @@
+T1	present_marker_deletion 3 9	kjenne
+T2	present_marker_deletion 78 80	he
+T3	vowel_shift 78 80	he
+T4	vowel_shift 86 91	haurt
+T5	lexical 37 39	au
+T6	pronoun_object 51 52	u
+T7	contraction 51 52	u
+T8	contraction 44 48	Sett
+T9	vowel_shift 53 58	verte
+T10	adjectival_declension 59 64	sinte
+T11	marked 12 17	meste
+T12	contraction 23 24	n
+T13	contraction 21 22	e

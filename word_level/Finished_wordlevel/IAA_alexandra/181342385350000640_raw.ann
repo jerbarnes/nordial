@@ -1,0 +1,13 @@
+T1	present_marker_deletion 3 8	drøse
+T2	functional 31 33	te
+T3	present_marker_deletion 47 52	virka
+T4	pronoun_object 66 68	na
+T5	present_marker_deletion 79 84	kjøre
+T6	functional 90 92	te
+T7	phonemic_spelling 95 96	å
+T8	conjugation 97 102	spøre
+T9	pronoun_subject 108 109	u
+T10	contraction 108 109	u
+T11	contraction 103 105	om
+T12	functional 123 127	elle
+T13	pronoun_object 144 146	na

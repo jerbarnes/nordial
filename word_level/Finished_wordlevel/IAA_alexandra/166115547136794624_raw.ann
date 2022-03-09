@@ -1,0 +1,13 @@
+T1	adjectival_declension 9 12	gla
+T2	vowel_shift 17 21	kono
+T3	present_marker_deletion 30 32	he
+T4	vowel_shift 30 32	he
+T5	functional 36 39	kje
+T6	contraction 36 39	kje
+T7	contraction 30 32	he
+T8	vowel_shift 40 44	våre
+T9	phonemic_spelling 40 44	våre
+T10	adjectival_declension 48 55	gla ' e
+T11	voicing 58 62	noge
+T12	vowel_shift 58 62	noge
+T13	lexical 63 69	krætur

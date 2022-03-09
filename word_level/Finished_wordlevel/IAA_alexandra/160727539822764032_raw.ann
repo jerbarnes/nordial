@@ -1,0 +1,11 @@
+T1	vowel_shift 10 11	æ
+T2	contraction 10 11	æ
+T3	contraction 15 18	kje
+T4	functional 15 18	kje
+T5	lexical 19 25	fysste
+T6	palatalization 26 33	gongjen
+T7	functional 65 67	te
+T8	present_marker_deletion 79 82	ska
+T9	phonemic_spelling 94 95	å
+T10	present_marker_deletion 52 58	tenkje
+T11	h_v 70 74	koss
