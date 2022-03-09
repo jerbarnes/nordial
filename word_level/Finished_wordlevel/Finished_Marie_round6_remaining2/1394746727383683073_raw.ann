@@ -1,0 +1,17 @@
+T1	vowel_shift 8 14	imårra
+T2	copula 24 25	e
+T3	nominal_declension 32 39	3 ’ ern
+T4	pronoun_subject 40 41	æ
+T5	present_marker_deletion 56 60	føle
+T6	functional 61 64	kje
+T7	contraction 61 64	kje
+T8	pronoun_subject 65 66	æ
+T9	functional 71 74	nån
+T10	vowel_shift 71 74	nån
+T11	present_marker_deletion 84 89	satse
+T12	pronoun_object 106 108	sæ
+T13	present_marker_deletion 100 105	ordne
+T14	apocope 136 139	vær
+T15	apocope 142 145	søk
+T16	pronoun_subject 162 163	æ
+T17	apocope 176 179	kom

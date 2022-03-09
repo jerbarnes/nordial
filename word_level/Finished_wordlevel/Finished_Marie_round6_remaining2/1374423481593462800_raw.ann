@@ -1,0 +1,16 @@
+T1	vowel_shift 0 9	Bonusgavæ
+T2	interjection 12 18	Jammæn
+T3	palatalization 53 59	fjæill
+T4	functional 24 26	dæ
+T5	vowel_shift 24 26	dæ
+T6	functional 27 31	bådæ
+T7	vowel_shift 27 31	bådæ
+T8	functional 32 34	æi
+T9	palatalization 66 67	e
+T10	functional 66 67	e
+T11	phonemic_spelling 72 74	æu
+T12	pronoun_object 63 65	de
+T13	marked 60 62	åt
+T14	contraction 44 45	å
+T15	contraction 46 47	t
+T16	phonemic_spelling 32 34	æi

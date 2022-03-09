@@ -1,0 +1,12 @@
+T1	phonemic_spelling 26 29	såm
+T2	functional 30 34	ittæ
+T3	vowel_shift 30 34	ittæ
+T6	vowel_shift 51 56	andræ
+T7	functional 51 56	andræ
+T8	nominal_declension 57 67	bebyggælsa
+T9	present_marker_deletion 35 40	passæ
+T10	marked 45 47	åt
+T5	conjugation 35 40	passæ
+T4	functional 48 50	di
+T11	phonemic_spelling 48 50	di
+T12	vowel_shift 57 67	bebyggælsa
