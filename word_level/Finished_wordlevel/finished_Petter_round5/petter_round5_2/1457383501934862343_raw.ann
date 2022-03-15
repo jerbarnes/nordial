@@ -1,0 +1,16 @@
+T1	pronoun_subject 9 11	Du
+T2	vowel_shift 15 20	sækja
+T3	functional 27 29	dæ
+T4	copula 30 31	æ
+T5	pronoun_subject 32 34	du
+T6	phonemic_spelling 35 38	såm
+T7	functional 48 52	dæin
+T8	adjectival_declension 53 59	nårskæ
+T9	vowel_shift 60 67	værsjon
+T10	phonemic_spelling 44 47	får
+T11	phonemic_spelling 75 76	å
+T12	functional 77 79	åt
+T13	pronoun_subject 80 82	de
+T14	phonemic_spelling 83 86	får
+T15	pronoun_object 87 91	dæin
+T16	palatalization 87 91	dæin

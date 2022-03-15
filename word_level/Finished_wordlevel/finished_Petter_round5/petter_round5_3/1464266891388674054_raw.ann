@@ -1,0 +1,17 @@
+T1	copula 11 13	Va
+T2	pronoun_subject 14 16	dæ
+T3	functional 24 29	hæill
+T4	copula 30 32	va
+T5	pronoun_subject 33 35	dæ
+T6	conjugation 36 42	skrivi
+T8	pronoun_subject 48 50	dæ
+T7	vowel_shift 51 56	bærræ
+T9	copula 57 58	æ
+T10	conjugation 59 65	skrivi
+T11	phonemic_spelling 68 69	å
+T12	pronoun_subject 70 71	n
+T13	contraction 70 71	n
+T14	palatalization 72 77	læigg
+T15	nominal_declension 78 84	trykkæ
+T16	lexical 115 121	ansles
+T17	present_marker_deletion 100 103	bli

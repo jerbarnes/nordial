@@ -1,0 +1,12 @@
+T1	vowel_shift 7 11	flua
+T2	nominal_declension 27 31	stuå
+T3	vowel_shift 38 41	tri
+T4	pronoun_object 68 70	an
+T5	pronoun_subject 87 89	Me
+T6	present_marker_deletion 90 95	holde
+T7	functional 174 179	Någen
+T8	voicing 174 179	Någen
+T9	shortening 183 187	vett
+T10	vowel_shift 209 213	flua
+T11	adjectival_declension 201 208	vanlige
+T12	present_marker_deletion 214 218	leve

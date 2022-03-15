@@ -1,0 +1,9 @@
+T1	copula 0 1	E
+T2	functional 38 41	ska
+T3	pronoun_subject 84 85	i
+T4	pronoun_object 86 88	me
+T5	pronoun_object 119 121	me
+T6	pronoun_subject 122 123	i
+T7	present_marker_deletion 124 129	savne
+T8	functional 138 143	nokka
+T9	functional 206 211	nokka

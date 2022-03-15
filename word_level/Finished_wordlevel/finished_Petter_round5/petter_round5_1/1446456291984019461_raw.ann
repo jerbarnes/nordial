@@ -1,0 +1,13 @@
+T1	pronoun_subject 26 27	i
+T2	copula 28 29	e
+T3	pronoun_object 39 42	dem
+T4	present_marker_deletion 56 60	orke
+T5	pronoun_subject 61 62	i
+T6	nominal_declension 85 90	eiera
+T7	phonemic_spelling 129 132	sia
+T8	phonemic_spelling 136 137	d
+T9	phonemic_spelling 172 173	d
+T10	present_marker_deletion 174 180	slutte
+T11	pronoun_object 191 194	dem
+T12	pronoun_subject 205 206	i
+T13	marked 222 230	fremover
