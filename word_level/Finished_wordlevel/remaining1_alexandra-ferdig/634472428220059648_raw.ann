@@ -1,0 +1,7 @@
+T1	pronoun_subject 0 2	Ej
+T2	contraction 3 9	sjønna
+T3	contraction 9 12	kje
+T4	present_marker_deletion 3 9	sjønna
+T5	functional 9 12	kje
+T6	present_marker_deletion 21 26	takla
+T7	nominal_declension 32 37	kvise

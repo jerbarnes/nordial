@@ -1,0 +1,12 @@
+T1	vowel_shift 34 37	dæm
+T2	vowel_shift 38 42	vækk
+T3	vowel_shift 48 51	dæm
+T4	present_marker_deletion 63 68	sende
+T5	shortening 81 85	tell
+T6	vowel_shift 81 85	tell
+T7	nominal_declension 72 80	feromona
+T8	nominal_declension 92 102	edderkoppa
+T9	vowel_shift 109 112	hær
+T10	copula 113 114	e
+T11	shortening 119 124	nokka
+T12	vowel_shift 119 124	nokka

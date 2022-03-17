@@ -1,0 +1,8 @@
+T1	copula 4 5	E
+T2	vowel_shift 10 14	DOMT
+T3	copula 40 41	e
+T4	pronoun_subject 48 49	e
+T5	vowel_shift 54 62	dommaste
+T6	pronoun_subject 63 65	ej
+T7	vowel_shift 66 68	he
+T8	present_marker_deletion 66 68	he
