@@ -120,3 +120,26 @@ Example:
 
 &ensp;&ensp;&ensp;&ensp;**Æ**(pronominal) **e**(copula) nok **forbainna**(palatalization) på denne forfølginga av folk på NAV
 
+
+
+
+Notes:
+functional  - med labels
+passe på "d" etc, kanskje heller ikke markert som subjekt. også kanskje ikke alle formelle subjekter.
+"inkje" er bare trykksterk 
+generelt vanskelig å skille dataspråk fra dialektord.
+kan anta at man ikke skriver d hvis man sier da-.
+contraction brukt som reduksjon i ordform
+kanskje litt ukonsekvent bruk av å og og
+apostrofer - med eller uten
+vanskelig å avgjøre 
+apokope eller contraction? kan være vanskelig å 
+fysste- dialektalt , men passer ikke i noen tilfeller
+han gamle mannen - også dempron
+dei etc ikke alle normale subjekt 
+contraction  -er det alltid med to ord eller er det bare ett. "kje" er klitisk.
+
+
+
+
+
