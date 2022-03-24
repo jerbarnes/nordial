@@ -139,7 +139,31 @@ han gamle mannen - også dempron
 dei etc ikke alle normale subjekt 
 contraction  -er det alltid med to ord eller er det bare ett. "kje" er klitisk.
 
+ikke ta med normerte pronomener - fjerne alle subjekt-jeg etc.
+third person non animate make sure syntactical label is ok
+everything token level
+just pretend that words like "ekje" are all words at once
+we treat the whole thing as one token with apostrophe inside, "e'kje" is one token
+but always one token!! apostrophes separated by spaces should not be included.
+contraction is ok to use in both cases.
 
 
 
+14:24:23 From Petter Mæhlum To Everyone:
+	ekkje
+	e kje
+14:24:27 From Petter Mæhlum To Everyone:
+	e' kje
+14:24:29 From Petter Mæhlum To Everyone:
+	e'kje
+14:49:01 From Jeremy Barnes To Everyone:
+	tokens: æ har ikkje noko
+14:49:28 From Jeremy Barnes To Everyone:
+	tags: sub_pron: 1
+14:50:09 From Jeremy Barnes To Everyone:
+	tags: [[sub_pron], []]
+14:50:41 From Petter Mæhlum To Everyone:
+	[æ, har, ikke, noko]
+14:50:50 From Petter Mæhlum To Everyone:
+	[[],[],[],[]]
 
