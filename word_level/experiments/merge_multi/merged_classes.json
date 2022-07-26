@@ -1,0 +1,767 @@
+{
+  "1":
+  {
+    "original":["adjectival_declension", "apocope"],
+    "merged": "adj_dec_apocope"
+  },
+  "2":
+  {
+    "original": ["adjectival_declension", "contraction", "contraction", "voicing"],
+    "merged": "adj_dec_contr_voic"
+  },
+  "3":
+  {
+    "original": ["adjectival_declension", "contraction"],
+    "merged": "adj_dec_contr"
+  },
+  "4":
+  {
+    "original": ["adjectival_declension", "lexical"],
+    "merged": "adj_dec_lex"
+  },
+  "5":
+  {
+    "original": ["adjectival_declension", "palatalization"],
+    "merged": "adj_decl_palat"
+  },
+  "6":
+  {
+    "original": ["adjectival_declension", "phonemic_spelling"],
+    "merged": "adj_decl_phonem"
+  },
+  "7":
+  {
+    "original": ["adjectival_declension", "voicing"],
+    "merged": "adj_decl_voic"
+  },
+  "8":
+  {
+    "original": ["adjectival_declension", "vowel_shift"],
+    "merged": "adj_decl_vowel_shift"
+  },
+  "9":
+  {
+    "original": ["apocope", "conjugation"],
+    "merged": "apoco_conju"
+  },
+  "10":
+  {
+    "original": ["apocope", "contraction"],
+    "merged": "apoco_contra"
+  },
+  "11":
+  {
+    "original": ["apocope", "copula", "shortening"],
+    "merged": "apoco_copu_short"
+  },
+  "12":
+  {
+    "original": ["apocope", "copula", "vowel_shift"],
+    "merged": "apoco_copu_vowel_shift"
+  },
+  "13":
+  {
+    "original": ["apocope", "copula"],
+    "merged": "apoco_copu"
+  },
+  "14":
+  {
+    "original": ["apocope", "functional", "palatalization"],
+    "merged": "apoco_func_pala"
+  },
+  "15":
+  {
+    "original": ["apocope", "functional", "vowel_shift"],
+    "merged": "apoco_func_vowel_shift"
+  },
+  "16":
+  {
+    "original": ["apocope", "functional"],
+    "merged": "apoco_func"
+  },
+  "17":
+  {
+    "original": ["apocope", "nominal_declension"],
+    "merged": "apoco_nom_dec"
+  },
+  "18":
+  {
+    "original": ["apocope", "palatalization", "vowel_shift"],
+    "merged": "apoco_pala_vowel_shift"
+  },
+  "19":
+  {
+    "original": ["apocope", "palatalization"],
+    "merged": "apoco_pala"
+  },
+  "20":
+  {
+    "original": ["apocope", "phonemic_spelling"],
+    "merged": "apoco_phon_spell"
+  },
+  "21":
+  {
+    "original": ["apocope", "vowel_shift"],
+    "merged": "apoco_vowel_shift"
+  },
+  "22":
+  {
+    "original": ["conjugation", "contraction", "functional", "vowel_shift"],
+    "merged": "conju_contra_funct_vowel_shift"
+  },
+  "23":
+  {
+    "original": ["conjugation", "contraction"],
+    "merged": "conju_contra"
+  },
+  "24":
+  {
+    "original": ["conjugation", "copula", "vowel_shift"],
+    "merged": "conju_copu_vowel_shift"
+  },
+  "25":
+  {
+    "original": ["conjugation", "copula"],
+    "merged": "conju_copu"
+  },
+  "26":
+  {
+    "original": ["conjugation", "functional"],
+    "merged": "conju_funct"
+  },
+  "27":
+  {
+    "original": ["conjugation", "lexical"],
+    "merged": "conju_lexi"
+  },
+  "28":
+  {
+    "original": ["conjugation", "marked"],
+    "merged": "conju_marked"
+  },
+  "29":
+  {
+    "original": ["conjugation", "palatalization", "vowel_shift"],
+    "merged": "conju_pala_vowel_shift"
+  },
+  "30":
+  {
+    "original": ["conjugation", "palatalization"],
+    "merged": "conju_pala"
+  },
+  "31":
+  {
+    "original": ["conjugation", "phonemic_spelling"],
+    "merged": "conju_phon"
+  },
+  "32":
+  {
+    "original": ["conjugation", "present_marker_deletion", "voicing"],
+    "merged": "conju_pml_voicing"
+  },
+  "33":
+  {
+    "original": ["conjugation", "present_marker_deletion", "vowel_shift"],
+    "merged": "conju_pml_vowel_shift"
+  },
+  "34":
+  {
+    "original": ["conjugation", "present_marker_deletion"],
+    "merged": "conju_pml"
+  },
+  "35":
+  {
+    "original": ["conjugation", "shortening", "vowel_shift"],
+    "merged": "conju_short_vowel_shift"
+  },
+  "36":
+  {
+    "original": ["conjugation", "shortening"],
+    "merged": "conju_short"
+  },
+  "37":
+  {
+    "original": ["conjugation", "voicing"],
+    "merged": "conju_voicing"
+  },
+  "38":
+  {
+    "original": ["conjugation", "vowel_shift"],
+    "merged": "conju_vowel_shift"
+  },
+  "39":
+  {
+    "original": ["contraction", "contraction", "contraction", "contraction", "phonemic_spelling"],
+    "merged": "contra_phon"
+  },
+  "40":
+  {
+    "original": ["contraction", "contraction", "copula", "functional"],
+    "merged": "contra_copu_func"
+  },
+  "41":
+  {
+    "original": ["contraction", "contraction", "copula"],
+    "merged": "contra_copu"
+  },
+  "42":
+  {
+    "original": ["contraction", "contraction", "demonstrative_pronoun"],
+    "merged": "contra_demon_pronoun"
+  },
+  "43":
+  {
+    "original": ["contraction", "contraction", "functional", "present_marker_deletion", "vowel_shift"],
+    "merged": "contra_func_pml_vowel_shift"
+  },
+  "44":
+  {
+    "original": ["contraction", "contraction", "functional", "present_marker_deletion"],
+    "merged": "contra_func_pml"
+  },
+  "45":
+  {
+    "original": ["contraction", "contraction", "functional"],
+    "merged": "contra_func"
+  },
+  "46":
+  {
+    "original": ["contraction", "contraction", "h_v"],
+    "merged": "contra_h_v"
+  },
+  "47":
+  {
+    "original": ["contraction", "contraction", "marked"],
+    "merged": "contra_marked"
+  },
+  "48":
+  {
+    "original": ["contraction", "contraction", "palatalization", "phonemic_spelling"],
+    "merged": "contra_pala_phon"
+  },
+  "49":
+  {
+    "original": ["contraction", "contraction", "present_marker_deletion"],
+    "merged": "contra_pml"
+  },
+  "50":
+  {
+    "original": ["contraction", "contraction", "pronoun_object"],
+    "merged": "contra_pron_obj"
+  },
+  "51":
+  {
+    "original": ["contraction", "contraction", "pronoun_subject", "shortening"],
+    "merged": "contra_pron_subj_shortening"
+  },
+  "52":
+  {
+    "original": ["contraction", "contraction", "pronoun_subject"],
+    "merged": "contra_pron_subj"
+  },
+  "53":
+  {
+    "original": ["contraction", "contraction", "shortening"],
+    "merged": "contra_shortening"
+  },
+  "54":
+  {
+    "original": ["contraction", "contraction", "vowel_shift"],
+    "merged": "contra_vowel_shift"
+  },
+  "55":
+  {
+    "original": ["contraction", "contraction"],
+    "merged": "contra"
+  },
+  "56":
+  {
+    "original": ["contraction", "copula", "functional"],
+    "merged": "contra_copu_func"
+  },
+  "57":
+  {
+    "original": ["contraction", "copula", "phonemic_spelling"],
+    "merged": "contra_copu_phon_spelling"
+  },
+  "58":
+  {
+    "original": ["contraction", "copula"],
+    "merged": "contra_copu"
+  },
+  "59":
+  {
+    "original": ["contraction", "demonstrative_pronoun", "functional"],
+    "merged": "contra_demon_pronoun_func"
+  },
+  "60":
+  {
+    "original": ["contraction", "demonstrative_pronoun"],
+    "merged": "contra_demon_pronoun"
+  },
+  "61":
+  {
+    "original": ["contraction", "functional", "functional"],
+    "merged": "contra_func"
+  },
+  "62":
+  {
+    "original": ["contraction", "functional", "marked"],
+    "merged": "contra_func_marked"
+  },
+  "63":
+  {
+    "original": ["contraction", "functional", "pronoun_subject", "vowel_shift"],
+    "merged": "contra_func_pron_subj_vowel_shift"
+  },
+  "64":
+  {
+    "original": ["contraction", "functional", "pronoun_subject"],
+    "merged": "contra_func_pron_subj"
+  },
+  "65":
+  {
+    "original": ["contraction", "functional"],
+    "merged": "contra_func"
+  },
+  "66":
+  {
+    "original": ["contraction", "marked"],
+    "merged": "contra_marked"
+  },
+  "67":
+  {
+    "original": ["contraction", "nominal_declension"],
+    "merged": "contra_nom_dec"
+  },
+  "68":
+  {
+    "original": ["contraction", "palatalization", "present_marker_deletion", "vowel_shift"],
+    "merged": "contra_pala_pml_vowel_shift"
+  },
+  "69":
+  {
+    "original": ["contraction", "palatalization"],
+    "merged": "contra_pala"
+  },
+  "70":
+  {
+    "original": ["contraction", "phonemic_spelling", "pronoun_subject"],
+    "merged": "contra_phon_pron_subj"
+  },
+  "71":
+  {
+    "original": ["contraction", "phonemic_spelling"],
+    "merged": "contra_phon"
+  },
+  "72":
+  {
+    "original": ["contraction", "present_marker_deletion"],
+    "merged": "contra_pml"
+  },
+  "73":
+  {
+    "original": ["contraction", "pronoun_object"],
+    "merged": "contra_pron_obj"
+  },
+  "74":
+  {
+    "original": ["contraction", "pronoun_subject", "shortening"],
+    "merged": "contra_pron_subj_shortening"
+  },
+  "75":
+  {
+    "original": ["contraction", "pronoun_subject"],
+    "merged": "contra_pron_subj"
+  },
+  "76":
+  {
+    "original": ["contraction", "shortening"],
+    "merged": "contra_shortening"
+  },
+  "77":
+  {
+    "original": ["contraction", "voicing"],
+    "merged": "contra_voic"
+  },
+  "78":
+  {
+    "original": ["contraction", "vowel_shift"],
+    "merged": "contra_vowel_shift"
+  },
+  "79":
+  {
+    "original": ["copula", "phonemic_spelling"],
+    "merged": "copula_phon"
+  },
+  "80":
+  {
+    "original": ["copula", "present_marker_deletion"],
+    "merged": "copula_pml"
+  },
+  "81":
+  {
+    "original": ["copula", "shortening", "vowel_shift"],
+    "merged": "copula_short_vowel_shift"
+  },
+  "82":
+  {
+    "original": ["copula", "shortening"],
+    "merged": "copula_shortening"
+  },
+  "83":
+  {
+    "original": ["copula", "vowel_shift"],
+    "merged": "copula_vowel_shift"
+  },
+  "84":
+  {
+    "original": ["demonstrative_pronoun", "shortening"],
+    "merged": "dem_pron_shortening"
+  },
+  "85":
+  {
+    "original": ["functional", "functional", "shortening"],
+    "merged": "func_shortening"
+  },
+  "86":
+  {
+    "original": ["functional", "h_v", "vowel_shift"],
+    "merged": "func_h_v_vowel_shift"
+  },
+  "87":
+  {
+    "original": ["functional", "h_v"],
+    "merged": "func_h_v"
+  },
+  "88":
+  {
+    "original": ["functional", "lexical", "shortening"],
+    "merged": "func_lexi_shortening"
+  },
+  "89":
+  {
+    "original": ["functional", "lexical"],
+    "merged": "func_lexi"
+  },
+  "90":
+  {
+    "original": ["functional", "marked"],
+    "merged": "func_marked"
+  },
+  "91":
+  {
+    "original": ["functional", "palatalization"],
+    "merged": "func_pala"
+  },
+  "92":
+  {
+    "original": ["functional", "phonemic_spelling", "vowel_shift"],
+    "merged": "func_phon_vowel_shift"
+  },
+  "93":
+  {
+    "original": ["functional", "phonemic_spelling"],
+    "merged": "func_phon"
+  },
+  "94":
+  {
+    "original": ["functional", "present_marker_deletion"],
+    "merged": "func_pml"
+  },
+  "95":
+  {
+    "original": ["functional", "pronoun_object"],
+    "merged": "func_pron_obj"
+  },
+  "96":
+  {
+    "original": ["functional", "pronoun_subject", "vowel_shift"],
+    "merged": "func_pron_subj_vowel_shift"
+  },
+  "97":
+  {
+    "original": ["functional", "pronoun_subject"],
+    "merged": "func_pron_subj"
+  },
+  "98":
+  {
+    "original": ["functional", "shortening"],
+    "merged": "func_shortening"
+  },
+  "99":
+  {
+    "original": ["functional", "voicing", "vowel_shift"],
+    "merged": "func_voic_vowel_shift"
+  },
+  "100":
+  {
+    "original": ["functional", "voicing"],
+    "merged": "func_voic"
+  },
+  "101":
+  {
+    "original": ["functional", "vowel_shift"],
+    "merged": "func_vowel_shift"
+  },
+  "102":
+  {
+    "original": ["h_v", "nominal_declension"],
+    "merged": "h_v_nom_dec"
+  },
+  "103":
+  {
+    "original": ["h_v", "palatalization", "shortening"],
+    "merged": "h_v_pala_shortening"
+  },
+  "104":
+  {
+    "original": ["h_v", "pronoun_subject"],
+    "merged": "h_v_pron_subj"
+  },
+  "105":
+  {
+    "original": ["h_v", "shortening"],
+    "merged": "h_v_shortening"
+  },
+  "106":
+  {
+    "original": ["h_v", "vowel_shift"],
+    "merged": "h_v_vowel_shift"
+  },
+  "107":
+  {
+    "original": ["interjection", "phonemic_spelling"],
+    "merged": "interj_phon"
+  },
+  "108":
+  {
+    "original": ["interjection", "vowel_shift"],
+    "merged": "interj_vowel_shift"
+  },
+  "109":
+  {
+    "original": ["lexical", "marked"],
+    "merged": "lexi_marked"
+  },
+  "110":
+  {
+    "original": ["lexical", "nominal_declension"],
+    "merged": "lexi_nom_dec"
+  },
+  "111":
+  {
+    "original": ["lexical", "phonemic_spelling"],
+    "merged": "lexi_phon"
+  },
+  "112":
+  {
+    "original": ["lexical", "present_marker_deletion"],
+    "merged": "lexi_pml"
+  },
+  "113":
+  {
+    "original": ["lexical", "voicing"],
+    "merged": "lexi_voicing"
+  },
+  "114":
+  {
+    "original": ["marked", "phonemic_spelling"],
+    "merged": "marked_phon"
+  },
+  "115":
+  {
+    "original": ["marked", "present_marker_deletion", "vowel_shift"],
+    "merged": "marked_pml_vowel_shift"
+  },
+  "116":
+  {
+    "original": ["marked", "present_marker_deletion"],
+    "merged": "marked_pml"
+  },
+  "117":
+  {
+    "original": ["marked", "shortening"],
+    "merged": "marked_shortening"
+  },
+  "118":
+  {
+    "original": ["marked", "voicing"],
+    "merged": "marked_voic"
+  },
+  "119":
+  {
+    "original": ["marked", "vowel_shift"],
+    "merged": "marked_vowel_shift"
+  },
+  "120":
+  {
+    "original": ["nominal_declension", "nominal_declension"],
+    "merged": "nominal_declension"
+  },
+  "121":
+  {
+    "original": ["nominal_declension", "palatalization", "vowel_shift"],
+    "merged": "nom_dec_pala_vowel_shift"
+  },
+  "122":
+  {
+    "original": ["nominal_declension", "palatalization"],
+    "merged": "nom_dec_pala"
+  },
+  "123":
+  {
+    "original": ["nominal_declension", "phonemic_spelling", "vowel_shift"],
+    "merged": "nom_dec_phon_vowel_shift"
+  },
+  "124":
+  {
+    "original": ["nominal_declension", "phonemic_spelling"],
+    "merged": "nom_dec_phon"
+  },
+  "125":
+  {
+    "original": ["nominal_declension", "shortening", "vowel_shift"],
+    "merged": "nom_dec_short_vowel_shift"
+  },
+  "126":
+  {
+    "original": ["nominal_declension", "shortening"],
+    "merged": "nom_dec_short"
+  },
+  "127":
+  {
+    "original": ["nominal_declension", "voicing", "vowel_shift"],
+    "merged": "nom_dec_voic_vowel_shift"
+  },
+  "128":
+  {
+    "original": ["nominal_declension", "voicing"],
+    "merged": "nom_dec_voicing"
+  },
+  "129":
+  {
+    "original": ["nominal_declension", "vowel_shift"],
+    "merged": "nom_dec_vowel_shift"
+  },
+  "130":
+  {
+    "original": ["palatalization", "phonemic_spelling"],
+    "merged": "pala_phon"
+  },
+  "131":
+  {
+    "original": ["palatalization", "present_marker_deletion", "vowel_shift"],
+    "merged": "pala_pml_vowel_shift"
+  },
+  "132":
+  {
+    "original": ["palatalization", "pronoun_object"],
+    "merged": "pala_pron_obj"
+  },
+  "133":
+  {
+    "original": ["palatalization", "pronoun_subject"],
+    "merged": "pala_pron_subj"
+  },
+  "134":
+  {
+    "original": ["palatalization", "shortening", "vowel_shift"],
+    "merged": "pala_short_vowel_shift"
+  },
+  "135":
+  {
+    "original": ["palatalization", "shortening"],
+    "merged": "pala_short"
+  },
+  "136":
+  {
+    "original": ["palatalization", "voicing"],
+    "merged": "pala_voic"
+  },
+  "137":
+  {
+    "original": ["palatalization", "vowel_shift"],
+    "merged": "pala_vowel_shift"
+  },
+  "138":
+  {
+    "original": ["phonemic_spelling", "present_marker_deletion"],
+    "merged": "phon_pml"
+  },
+  "139":
+  {
+    "original": ["phonemic_spelling", "pronoun_object"],
+    "merged": "phon_pron_obj"
+  },
+  "140":
+  {
+    "original": ["phonemic_spelling", "pronoun_subject"],
+    "merged": "phon_pron_subj"
+  },
+  "141":
+  {
+    "original": ["phonemic_spelling", "shortening"],
+    "merged": "phon_shortening"
+  },
+  "142":
+  {
+    "original": ["phonemic_spelling", "voicing"],
+    "merged": "phon_voic"
+  },
+  "143":
+  {
+    "original": ["phonemic_spelling", "vowel_shift"],
+    "merged": "phon_vowel_shift"
+  },
+  "145":
+  {
+    "original": ["present_marker_deletion", "shortening"],
+    "merged": "pml_shortening"
+  },
+  "146":
+  {
+    "original": ["present_marker_deletion", "voicing", "vowel_shift"],
+    "merged": "pml_voic_vowel_shift"
+  },
+  "147":
+  {
+    "original": ["present_marker_deletion", "voicing"],
+    "merged": "pml_voic"
+  },
+  "148":
+  {
+    "original": ["present_marker_deletion", "vowel_shift"],
+    "merged": "pml_vowel_shift"
+  },
+  "149":
+  {
+    "original": ["pronoun_object", "vowel_shift"],
+    "merged": "pron_obj_vowel_shift"
+  },
+  "150":
+  {
+    "original": ["pronoun_subject", "vowel_shift"],
+    "merged": "pron_subj_vowel_shift"
+  },
+  "151":
+  {
+    "original": ["shortening", "voicing"],
+    "merged": "shortening_voic"
+  },
+  "152":
+  {
+    "original": ["shortening", "vowel_shift"],
+    "merged": "shortening_vowel_shift"
+  },
+  "153":
+  {
+    "original": ["voicing", "vowel_shift"],
+    "merged": "voic_vowel_shift"
+  },
+  "154":
+  {
+    "original": ["vowel_shift", "vowel_shift"],
+    "merged": "vowel_shift"
+  }
+}
