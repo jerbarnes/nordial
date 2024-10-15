@@ -18,7 +18,7 @@ def read_file(path):
 
 def get_data(split, train_data="train.json"):
 
-    path_files = "../test_data/"
+    path_files = "test_data/"
 
     if split == "train":
         datadict = read_file(path_files+train_data)
@@ -30,7 +30,7 @@ def get_data(split, train_data="train.json"):
     examples = []
 
     # Use merged labels as a proxy for multiclass token classification
-    with open('merged_classes.json') as merged_c_files:
+    with open('merge_multi/merged_classes.json') as merged_c_files:
         merged = json.load(merged_c_files)
 
     # build the label to idx dictionary
